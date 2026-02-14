@@ -64441,12 +64441,12 @@ A.b7P.prototype={
 $1(a){var s,r=v.G.document.createElement("iframe")
 this.a.a.toString
 s=A.yd()
-r.src="https://www.youtube.com/embed/"+this.b+"?autoplay=1&controls=1&rel=0&modestbranding=1&fs=1&playsinline=1&enablejsapi=1&origin="+A.hl(2,s.gBh(s),B.W,!1)
+r.src="https://www.youtube-nocookie.com/embed/"+this.b+"?autoplay=1&controls=1&rel=0&modestbranding=1&fs=0&playsinline=1&origin="+A.hl(2,s.gBh(s),B.W,!1)
 r.style.border="0"
 r.style.width="100%"
 r.style.height="100%"
-r.allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-r.setAttribute("allowfullscreen","true")
+r.setAttribute("sandbox","allow-same-origin allow-scripts allow-presentation allow-popups")
+r.allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
 return r},
 $S:100}
 A.b7Q.prototype={
