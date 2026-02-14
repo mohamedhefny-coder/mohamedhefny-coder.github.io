@@ -1,0 +1,243 @@
+[
+  {
+    "questionText": "The layer of the scalp that containing the epicranial aponeurosis is.",
+    "options": [
+      "3rd layer",
+      "1st layer",
+      "4th layer",
+      "Epidermis"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "The layer of the scalp that containing muscles is.",
+    "options": [
+      "2nd layer",
+      "1st layer",
+      "3rd layer",
+      "4th layer"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "The following nerve is supplying the skin of the back of the scalp (behind the auricle):",
+    "options": [
+      "Zygomaticotemporal nerve",
+      "Great auricular nerve",
+      "Auriculotemporal nerve",
+      "Supratrochlear nerve"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Regarding the temporalis muscle, one of the following is true.",
+    "options": [
+      "It originates from the zygomatic arch.",
+      "It can depress the mandible.",
+      "It is inserted into the coronoid process of the mandible.",
+      "It can protract the mandible."
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "One of the following muscles is not inserted into the mandible.",
+    "options": [
+      "Temporalis",
+      "Genioglossus",
+      "Masseter",
+      "Medial pterygoid"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Which of the following muscles can protrude the mandible to opposite side.",
+    "options": [
+      "Masseter",
+      "Temporalis",
+      "Lateral pterygoid",
+      "Medial pterygoid"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Regarding the masseter muscle, one of the following is true.",
+    "options": [
+      "Its deep muscle fibers are oblique.",
+      "It is supplied by the facial nerve.",
+      "Its superficial fibers can protrude the mandible.",
+      "Its superficial muscle fibers are vertical."
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "A man developed a paralysis of the facial nerve, what muscle will continue to function despite this affection.",
+    "options": [
+      "Orbicularis oris",
+      "Buccinator",
+      "Masseter",
+      "Platysma"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Regarding the temporomandibular joint, one of the following is true.",
+    "options": [
+      "It is a hinge joint only",
+      "It allows both rotation and gliding movements",
+      "It is formed by the condyle of the fibula",
+      "It has no articular disc"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Regarding the medial pterygoid muscle, one of the following is false.",
+    "options": [
+      "It is a powerful elevator of the mandible",
+      "It forms the medial wall of the infratemporal fossa",
+      "It originates from the lateral pterygoid plate",
+      "It inserts into the lateral surface of the mandibular ramus"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "One of the following is a branch from the facial nerve:",
+    "options": [
+      "Chorda tympani",
+      "Lingual nerve",
+      "Inferior alveolar nerve",
+      "Auriculotemporal nerve"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "Which of the following muscles has a dual nerve supply?",
+    "options": [
+      "Lateral pterygoid",
+      "Digastric",
+      "Temporalis",
+      "Mylohyoid"
+    ],
+    "correctAnswerIndex": 1
+  },
+
+  {
+    "questionText": "Protrusion of the tongue is brought out by:",
+    "options": [
+      "Genioglossus",
+      "Intrinsic muscles of the tongue",
+      "Styloglossus",
+      "Palatoglossus"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "The sensory nerve supply to the skin overlying the angle of the mandible is by the:",
+    "options": [
+      "Greater occipital nerve (C2)",
+      "Lesser occipital nerve (C2)",
+      "Buccal branch of mandibular division of the trigeminal nerve",
+      "Great auricular nerve (C2-C3)"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Where does the temporalis muscle inserts:",
+    "options": [
+      "Mastoid process",
+      "Condylar process",
+      "Coronoid process",
+      "Angle of mandible"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "For sternocleidomastoid, which is true:",
+    "options": [
+      "Contraction of one muscle rotate the face to the same side",
+      "It is crossed superficially by the external jugular vein",
+      "It is supplied by the transverse cervical nerve",
+      "It is superficial to the deep cervical fascia"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "The lower lip gets its sensory nerve supply through the:",
+    "options": [
+      "Buccal branch of facial nerve",
+      "Buccal branch of mandibular nerve",
+      "Mandibular branch of facial nerve",
+      "Mental nerve"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Which of the following cranial nerves carries the pain sensation from the tip of tongue:",
+    "options": [
+      "Mandibular nerve",
+      "Lingual nerve",
+      "Glossopharyngeal nerve",
+      "Vagus nerve"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Tensor palate muscle is innervated by:",
+    "options": [
+      "Mandibular nerve",
+      "Glossopharyngeal nerve",
+      "Facial nerve",
+      "Vagus nerve"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "The capsule of the temporomandibular joint supplied by the following nerve:",
+    "options": [
+      "Maxillary nerve",
+      "Mental nerve",
+      "Auriculotemporal nerve",
+      "Zygomatic nerve"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "The auriculotemporal nerve supplies the following area:",
+    "options": [
+      "Outer layer of the ear drum and capsule of the temporomandibular joint.",
+      "Lining mucosa of the middle ear and inner layer of ear drum.",
+      "Skin of the anterior part of the temple.",
+      "Skin of the dorsum of the nose and lower eye lid."
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "Regarding the medial pterygoid muscle, which of the following is true?",
+    "options": [
+      "It is supplied by the facial nerve",
+      "It originates from the lateral surface of the lateral pterygoid plate",
+      "It elevates the mandible",
+      "It depresses the mandible"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Which of the following statements about the buccinator muscle is FALSE?",
+    "options": [
+      "It is a muscle of facial expression",
+      "It is supplied by the buccal branch of the facial nerve",
+      "It forms the muscular basis of the cheek",
+      "It is pierced by the parotid duct"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "The infraorbital nerve supplies all of the following EXCEPT:",
+    "options": [
+      "Lower eyelid",
+      "Side of the nose",
+      "Upper lip",
+      "Lower lip"
+    ],
+    "correctAnswerIndex": 3
+  }
+]

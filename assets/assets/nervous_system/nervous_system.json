@@ -1,0 +1,484 @@
+{
+  "Spinal Cord": [
+    {
+      "questionText": "The true statement about the spinal cord is:",
+      "options": [
+        "The spinal dura end at the level of S4.",
+        "It has four enlargements.",
+        "The filum terminale is a fold of pia below the termination of spinal cord attached to the coccyx.",
+        "The largest radicular artery is that of S2."
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "In adults, the spinal cord normally ends at:",
+      "options": [
+        "Lower border of L1.",
+        "Lower border of L3.",
+        "Lower border of S1.",
+        "Upper border of L4."
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "Regarding the development of the spinal cord, the following are correct except:",
+      "options": [
+        "White matter develops in the marginal zone.",
+        "Dorsal root ganglia are derived from the neural crest cells.",
+        "At birth spinal cord ends at the level of the first lumbar vertebra.",
+        "Mantle zone gives rise to the grey matter."
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "At birth, the spinal cord ends at the level of:",
+      "options": [
+        "L1.",
+        "L3.",
+        "S1.",
+        "T12."
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "In performing a lumbar puncture, the needle is inserted into:",
+      "options": [
+        "Subdural space.",
+        "Epidural space.",
+        "Subarachnoid space.",
+        "Extradural space."
+      ],
+      "correctAnswerIndex": 2
+    }
+  ],
+  "Brain Stem": [
+    {
+      "questionText": "The tectum is a part of:",
+      "options": [
+        "Diencephalon.",
+        "Midbrain.",
+        "Medulla oblongata.",
+        "Pons."
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "Facial colliculus is seen in:",
+      "options": [
+        "Pons.",
+        "Medulla.",
+        "Midbrain.",
+        "Interpeduncular fossa."
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "About the medulla oblongata, choose the correct answer:",
+      "options": [
+        "The olive is produced by the superior olivary nucleus.",
+        "The hypoglossal nerve is attached to the posterolateral sulcus.",
+        "The vagus nerve is attached to the anterolateral sulcus.",
+        "The pyramid is an elongated elevation produced by corticospinal tract."
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "The pyramid of the medulla is produced by:",
+      "options": [
+        "Inferior olivary nucleus.",
+        "Hypoglossal nucleus.",
+        "Corticospinal tract.",
+        "Dorsal column."
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "One of the following is not a content of the interpeduncular fossa:",
+      "options": [
+        "Tuber cinereum.",
+        "Mammillary bodies.",
+        "Posterior perforated substance.",
+        "Trochlear nerve."
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "The facial colliculus is formed by:",
+      "options": [
+        "Facial nerve fibers and abducent nucleus.",
+        "Facial nerve fibers only.",
+        "Facial nucleus only.",
+        "Facial nucleus and abducent nerve fibers."
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "The trochlear nerve emerges from the brainstem:",
+      "options": [
+        "Ventrally from midbrain.",
+        "Dorsally from midbrain.",
+        "Ventrally from pons.",
+        "Dorsally from pons."
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "The cranial nerves related to the pons are:",
+      "options": [
+        "5, 6, 7, 8.",
+        "7, 8, 9, 10.",
+        "1, 2, 3, 4.",
+        "9, 10, 11, 12."
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "The lateral surface of the cerebral peduncle is related to all of the following except:",
+      "options": [
+        "Basal vein.",
+        "Optic tract.",
+        "Superior colliculus.",
+        "Posterior cerebral artery."
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "The interpeduncular fossa contain:",
+      "options": [
+        "Anterior perforated substance.",
+        "Mammillary bodies.",
+        "Pineal stalk.",
+        "Tuber vermis."
+      ],
+      "correctAnswerIndex": 1
+    }
+  ],
+  "Cerebellum": [
+    {
+      "questionText": "One of the following is a branch of the vertebral artery:",
+      "options": [
+        "Anterior cerebral artery.",
+        "Anterior inferior cerebellar artery (AICA).",
+        "Posterior inferior cerebellar artery (PICA).",
+        "Posterior cerebral artery."
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "One of the following regarding the cerebellum is not true:",
+      "options": [
+        "Lies in posterior cranial fossa.",
+        "Is divided into three lobes.",
+        "Separated from cerebrum by tentorium cerebelli.",
+        "Is a part of the brainstem."
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "One of the following is a branch of the basilar artery:",
+      "options": [
+        "Anterior inferior cerebellar artery.",
+        "Posterior inferior cerebellar artery.",
+        "Anterior spinal artery.",
+        "Posterior spinal artery."
+      ],
+      "correctAnswerIndex": 0
+    }
+  ],
+  "Ventricular System": [
+    {
+      "questionText": "Pineal gland forms part of the:",
+      "options": [
+        "Anterior wall of 3rd ventricle.",
+        "Anterior wall of 4th ventricle.",
+        "Posterior wall of 3rd ventricle.",
+        "Floor of 3rd ventricle."
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "The cisterna magna of subarachnoid space is a name given to the:",
+      "options": [
+        "Interpeduncular cistern.",
+        "Cistern of the corpus callosum.",
+        "Cistern of the lateral fissure.",
+        "Cerebello-medullary cistern."
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "Which part of the ventricular system contains the choroid plexus:",
+      "options": [
+        "Frontal horn of lateral ventricle.",
+        "Occipital horn of lateral ventricle.",
+        "Roof of third ventricle.",
+        "Cerebral aqueduct."
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "One of the structures lies in the roof of posterior horn of lateral ventricle:",
+      "options": [
+        "Hippocampus.",
+        "Fimbria.",
+        "Collateral eminence.",
+        "Tail of the caudate nucleus."
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "The lateral ventricle communicates with the 3rd ventricle through:",
+      "options": [
+        "Foramen of Monro.",
+        "Foramen of Magendie.",
+        "Foramen of Luschka.",
+        "Aqueduct of Sylvius."
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "Concerning the fourth ventricle; choose the correct answer:",
+      "options": [
+        "Its floor is formed by the closed medulla and pons.",
+        "Its roof is formed by the superior and inferior medullary vela.",
+        "Its choroids plexus is present in the floor of the ventricle.",
+        "It has a communication with the lateral ventricle."
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "Foramen of Luschka connects the:",
+      "options": [
+        "Lateral ventricle with the third ventricle.",
+        "Two lateral ventricles.",
+        "Third ventricle with the fourth ventricle.",
+        "Fourth ventricle with the subarachnoid space."
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "Cerebrospinal fluid circulates through all of the following except:",
+      "options": [
+        "Corpus callosum.",
+        "Lateral ventricles.",
+        "Fourth ventricle.",
+        "Subarachnoid space."
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "The third ventricle, choose the false statement:",
+      "options": [
+        "Communicates with the 4th ventricle through the cerebral aqueduct.",
+        "The corpus callosum is a direct superior relation.",
+        "Has a recess related to the optic chiasma.",
+        "Is bounded anteriorly by the lamina terminalis."
+      ],
+      "correctAnswerIndex": 1
+    }
+  ],
+  "Cerebrum": [
+    {
+      "questionText": "The primary motor area is located on:",
+      "options": [
+        "Precentral gyrus.",
+        "Postcentral gyrus.",
+        "Middle frontal gyrus.",
+        "Superior temporal gyrus."
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "Which one of the following structures is found in the diencephalon:",
+      "options": [
+        "Internal capsule.",
+        "Caudate nucleus.",
+        "Globus pallidus.",
+        "Medial and lateral geniculate bodies."
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "Regarding the cortical areas of the cerebral hemisphere, one of the following is true:",
+      "options": [
+        "The premotor area present in the postcentral gyrus.",
+        "Astereognosis occurs due to injury of the primary auditory area.",
+        "Broca's area is the sensory speech area.",
+        "In both the primary motor and primary sensory areas the body is represented upside-down."
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "One of the followings is not association fibers:",
+      "options": [
+        "Corpus callosum.",
+        "Superior longitudinal bundle.",
+        "Inferior longitudinal bundle.",
+        "Cingulum."
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "Regarding corpus callosum one is wrong:",
+      "options": [
+        "Its body forms the roof of the trunk (body) of lateral ventricle.",
+        "Its upper surface is related to the anterior cerebral artery.",
+        "Splenium is supplied by the anterior cerebral artery.",
+        "The fibers in the genu forms forceps minor."
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "The basal ganglia include all of the followings except:",
+      "options": [
+        "Caudate nucleus.",
+        "Lentiform nucleus.",
+        "Claustrum.",
+        "Fornix."
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "This cortical area is present in the frontal lobe:",
+      "options": [
+        "Primary auditory area.",
+        "Primary visual area.",
+        "Broca's area (motor speech area).",
+        "Somatosensory association area."
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "In both the primary motor and primary sensory areas the body is represented:",
+      "options": [
+        "Right side up.",
+        "Upside-down.",
+        "Bilaterally.",
+        "Only in the dominant hemisphere."
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "Broca's area (motor speech area) is present in:",
+      "options": [
+        "Frontal lobe.",
+        "Parietal lobe.",
+        "Temporal lobe.",
+        "Occipital lobe."
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "The internal capsule is incorrect regarding:",
+      "options": [
+        "It is made up of grey matter.",
+        "The anterior limb separates caudate from lentiform.",
+        "Corticothalamic fibres are in anterior limb.",
+        "The posterior limb separates thalamus from lentiform."
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "Regarding the anterior cerebral artery, select the false statement:",
+      "options": [
+        "Branch of internal carotid.",
+        "Runs along upper surface of corpus callosum.",
+        "Has no central branches.",
+        "Supplies corpus callosum except splenium."
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "Area 22 of the cerebral cortex is present in:",
+      "options": [
+        "Middle frontal gyrus.",
+        "Superior temporal gyrus.",
+        "Cuneus.",
+        "Superior parietal lobule."
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "Insula is hidden within the depth of:",
+      "options": [
+        "Posterior ramus of lateral sulcus.",
+        "Central sulcus.",
+        "Superior temporal sulcus.",
+        "Intraparietal sulcus."
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "The lobe contains the primary motor area that enables voluntary control of skeletal muscle:",
+      "options": [
+        "Frontal lobe.",
+        "Occipital lobe.",
+        "Parietal lobe.",
+        "Temporal lobe."
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "Regarding cerebral cortical areas, select the true statement:",
+      "options": [
+        "Primary auditory area is located in inferior temporal gyrus.",
+        "Primary visual area is located in the lips of the postcalcarine sulcus.",
+        "Frontal eye field is located in inferior temporal gyrus on the right side.",
+        "Motor speech area is located in the inferior temporal gyrus in the dominant hemisphere."
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "One of the following arteries is not part of the circulus arteriosus:",
+      "options": [
+        "Anterior communicating artery.",
+        "Posterior communicating artery.",
+        "Anterior cerebral artery.",
+        "Middle cerebral artery."
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "The corticobulbar fibers pass through the following part of the internal capsule:",
+      "options": [
+        "Anterior limb.",
+        "Genu.",
+        "Posterior limb.",
+        "Retrolenticular part."
+      ],
+      "correctAnswerIndex": 1
+    }
+  ],
+  "Dural Fold & Sinuses": [
+    {
+      "questionText": "The following nerves are embedded in the lateral wall of the cavernous sinus except:",
+      "options": [
+        "Maxillary nerve.",
+        "Oculomotor nerve.",
+        "Mandibular nerve.",
+        "Trochlear nerve."
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "One of the followings regarding the superior sagittal sinus is wrong:",
+      "options": [
+        "Communicates with the scalp veins through the parietal emissary foramina.",
+        "Lies within the falx cerebri.",
+        "Continues posteriorly as right transverse sinus.",
+        "Drains the inferior cerebral veins."
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "One of the following is not true concerning the arachnoid granulations:",
+      "options": [
+        "They are found along the superior sagittal sinus.",
+        "They produce C.S.F.",
+        "They consist of aggregation of arachnoid villi.",
+        "They indent the overlying skull bone in the old age."
+      ],
+      "correctAnswerIndex": 1
+    }
+  ]
+}

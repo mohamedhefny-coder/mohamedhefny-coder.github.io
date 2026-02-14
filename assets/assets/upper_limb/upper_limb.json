@@ -1,0 +1,1133 @@
+{
+  "Bones of Upper Limb": [
+    {
+      "questionText": "The spine of the scapula is continued laterally as the:",
+      "options": [
+        "Coracoid process",
+        "Angle of the scapula",
+        "Acromion process",
+        "Supraglenoid tubercle"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "One of the following muscles is inserted into the scapula:",
+      "options": [
+        "Latissimus dorsi",
+        "Biceps brachii",
+        "Pectoralis minor",
+        "Pectoralis major"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "The following muscle inserts into the greater tuberosity of the humerus:",
+      "options": [
+        "Pectoralis major",
+        "Subscapularis",
+        "Latissimus dorsi",
+        "Teres minor"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "The lesser tubercle of the humerus receives the tendon(s) of the:",
+      "options": [
+        "Coracobrachialis muscle",
+        "Supraspinatus muscle",
+        "Teres minor muscle",
+        "Subscapularis muscle"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "Which of the following structures does NOT lie within the bicipital groove?",
+      "options": [
+        "Insertion of teres major",
+        "Insertion of latissimus dorsi",
+        "Long head of biceps tendon",
+        "Insertion of pectoralis minor"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "Regarding the clavicle, which is not correct:",
+      "options": [
+        "It is an example of the short bones.",
+        "It is the first bone to ossify in the fetal life.",
+        "It ossifies in membrane.",
+        "It is the commonly fractured bone.",
+        "It has no medullary cavity."
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "The most common site of fracture of the clavicle is:",
+      "options": [
+        "Medial end.",
+        "Lateral end.",
+        "Midpoint of the clavicle.",
+        "Junction of the medial two-thirds and the lateral third.",
+        "Junction of the lateral two-thirds and the medial third."
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "The inferior surface of the clavicle does not give attachment to:",
+      "options": [
+        "Conoid ligament.",
+        "Trapezoid ligament.",
+        "Costoclavicular ligament.",
+        "Pectoralis major muscle.",
+        "Subclavius muscle."
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "Regarding the articulations of the clavicle:",
+      "options": [
+        "The medial end articulates with the manubrium by fibrous articulation.",
+        "The medial end articulates with the manubrium by cartilaginous articulation.",
+        "The medial end articulates with the sternum by saddle synovial joint.",
+        "The lateral end articulates with the acromion by fibrous articulation.",
+        "The lateral end articulates with the acromion by plane synovial articulation."
+      ],
+      "correctAnswerIndex": 4
+    },
+    {
+      "questionText": "One of the following is not attached to the medial border of the scapula:",
+      "options": [
+        "Levator scapulae.",
+        "Teres minor.",
+        "Serratus anterior.",
+        "Rhomboid minor.",
+        "Rhomboid major."
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "All of the following parts of the scapula can be felt, except:",
+      "options": [
+        "Acromion process.",
+        "Crest of the spine.",
+        "Upper border.",
+        "Inferior angle.",
+        "Tip of the coracoid process."
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "The earliest bone to ossify in the body is:",
+      "options": [
+        "Humerus",
+        "Radius",
+        "Ulna",
+        "Clavicle",
+        "Femur"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "The direction of the nutrient foramen of the humerus is:",
+      "options": [
+        "Upward.",
+        "Downward.",
+        "Medially.",
+        "Laterally.",
+        "None of the above."
+      ],
+      "correctAnswerIndex": 1
+    }
+  ],
+  "Pectoral Region": [
+    {
+      "questionText": "Which of the following muscles does NOT have any attachment to the scapula?",
+      "options": [
+        "Coracobrachialis",
+        "Serratus anterior",
+        "Pectoralis major",
+        "Biceps brachii"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "All of the following structures perforate the clavipectoral fascia except:",
+      "options": [
+        "Lymphatic vessels",
+        "Lateral pectoral nerve",
+        "Thoracoacromial artery",
+        "Medial pectoral nerve"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "Pectoralis minor muscle is correctly described by which statement?",
+      "options": [
+        "Arises only from ribs 1 and 2",
+        "Inserts into the acromion",
+        "Covers the third part of the axillary artery",
+        "Is invested by the clavipectoral fascia",
+        "Is supplied by the long thoracic nerve"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "Which statement about the serratus anterior muscle is TRUE?",
+      "options": [
+        "It forms the posterior wall of the axilla",
+        "It arises solely from the lower three ribs",
+        "It inserts on the coracoid process",
+        "It is the chief protractor of the scapula"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "The pectoralis major muscle primarily:",
+      "options": [
+        "Abducts the arm",
+        "Adducts the arm",
+        "Laterally rotates the arm",
+        "Flexes the forearm"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "The pectoral fascia:",
+      "options": [
+        "Invests the subclavius muscle.",
+        "Invests the pectoralis minor muscle.",
+        "Separates the pectoralis major from the breast.",
+        "Pierced by the lateral pectoral nerve.",
+        "All of the above."
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "Muscle/s taking origin from the clavicle is/are:",
+      "options": [
+        "Subclavius.",
+        "Trapezius.",
+        "Pectoralis major.",
+        "All of the above.",
+        "A & B only."
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "The deltopectoral groove contains:",
+      "options": [
+        "Deltoid branch of the lateral thoracic artery.",
+        "Cephalic vein.",
+        "Apical group of axillary lymph nodes.",
+        "All of the above.",
+        "None of the above."
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "Regarding the serratus anterior muscle all statements are true EXCEPT:",
+      "options": [
+        "It arises from upper eight ribs.",
+        "It is supplied by the thoracodorsal nerve.",
+        "It protracts the scapula.",
+        "It rotates the scapula during overhead raising of the arm.",
+        "Its paralysis produces winging of the scapula."
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "The female breast:",
+      "options": [
+        "Has a nipple that is usually located opposite the 6th intercostal space.",
+        "Has Cooper's ligament that suspends the breast.",
+        "Has a bed formed mainly by the serratus anterior muscle.",
+        "Has about 5 lactiferous sinuses.",
+        "Its lymphatics drain mainly in the parasternal lymph nodes."
+      ],
+      "correctAnswerIndex": 1
+    }
+  ],
+  "Shoulder Region": [
+    {
+      "questionText": "These muscles form a musculotendinous cuff for the shoulder joint, EXCEPT:",
+      "options": [
+        "Subscapularis",
+        "Supraspinatus",
+        "Infraspinatus",
+        "Teres major"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "Of the following muscles, the only one that laterally rotates the humerus is:",
+      "options": [
+        "Pectoralis major",
+        "Latissimus dorsi",
+        "Subscapularis",
+        "Teres minor"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "The muscle, other than the deltoid, which abducts the shoulder joint is:",
+      "options": [
+        "Teres major",
+        "Teres minor",
+        "Supraspinatus",
+        "Infraspinatus"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "The muscle pair that assists in elevating the arm above the head is:",
+      "options": [
+        "Trapezius and pectoralis minor",
+        "Levator scapulae and serratus anterior",
+        "Rhomboid major and serratus anterior",
+        "Trapezius and serratus anterior"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "The nerve exposed by transecting the infraspinatus muscle and reflecting it toward the humerus is the:",
+      "options": [
+        "Dorsal scapular nerve",
+        "Suprascapular nerve",
+        "Axillary nerve",
+        "Accessory nerve"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "Medial rotation of the arm is produced by the following muscles Except:",
+      "options": [
+        "Subscapularis",
+        "Pectoralis major",
+        "Teres major",
+        "Latissimus dorsi",
+        "Teres minor"
+      ],
+      "correctAnswerIndex": 4
+    },
+    {
+      "questionText": "The glenoid cavity articulates with the head of the humerus by a:",
+      "options": [
+        "Fibrous articulation.",
+        "Cartilaginous articulation.",
+        "Plane synovial.",
+        "Ball and socket synovial.",
+        "Hinge synovial articulation."
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "The suprascapular nerve supplies:",
+      "options": [
+        "Muscle inserted into the upper impression of the greater tuberosity of the humerus.",
+        "Muscle inserted into the middle impression of the greater tuberosity of the humerus.",
+        "Muscle that initiates abduction of the arm.",
+        "All of the above.",
+        "A and B only."
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "Lesion of the axillary nerve causes:",
+      "options": [
+        "Winging of the scapula.",
+        "Flat shoulder.",
+        "Claw hand.",
+        "Ape hand.",
+        "Wrist drop."
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "The trapezius muscle is supplied by the:",
+      "options": [
+        "Cranial accessory nerve.",
+        "Spinal accessory nerve.",
+        "Long thoracic nerve.",
+        "Dorsal scapular nerve.",
+        "Thoracodorsal nerve."
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "One of the following muscles is not a rotator cuff muscle:",
+      "options": [
+        "Supraspinatus.",
+        "Infraspinatus.",
+        "Teres minor.",
+        "Teres major.",
+        "Subscapularis."
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "Muscles that rotate the scapula downward are attached to:",
+      "options": [
+        "Ventral lip of the medial border of the scapula.",
+        "Dorsal lip of the medial border of the scapula.",
+        "Upper lip of the crest of the spine.",
+        "Lower lip of the crest of the spine.",
+        "A and C."
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "Muscles that rotate the scapula upward are attached to the:",
+      "options": [
+        "Ventral lip of the medial border of the scapula.",
+        "Dorsal lip of the medial border of the scapula.",
+        "Upper lip of the crest of the spine.",
+        "Lower lip of the crest of the spine.",
+        "A & C."
+      ],
+      "correctAnswerIndex": 4
+    },
+    {
+      "questionText": "Paralysis of the deltoid muscle causes:",
+      "options": [
+        "Loss of abduction of the arm from zero to 15°.",
+        "Loss of abduction of the arm from 15°-90°.",
+        "Loss of abduction of the arm from zero to 90°.",
+        "Loss of abduction of the arm from 90°-180°.",
+        "None of the above."
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "All the muscles attached to the bicipital (intertubercular) groove:",
+      "options": [
+        "Abduct the arm (shoulder joint).",
+        "Adduct the arm.",
+        "Medial rotation of the arm.",
+        "A & C.",
+        "B & C."
+      ],
+      "correctAnswerIndex": 4
+    },
+    {
+      "questionText": "Actions of the latissimus dorsi:",
+      "options": [
+        "Flexes the arm.",
+        "Abducts the arm.",
+        "Laterally rotates the arm.",
+        "All of the above",
+        "None of the above."
+      ],
+      "correctAnswerIndex": 4
+    },
+    {
+      "questionText": "Triangle of auscultation is associated with all of the following EXCEPT:",
+      "options": [
+        "Latissimus dorsi.",
+        "Teres major.",
+        "Rhomboid major.",
+        "Trapezius.",
+        "Medial border of the scapula."
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "Following an automobile accident, a patient exhibits wasting of the trapezius muscle. Which nerve has been injured?",
+      "options": [
+        "Radial nerve",
+        "Thoracodorsal nerve",
+        "Ulnar nerve",
+        "Spinal accessory nerve",
+        "Long thoracic nerve"
+      ],
+      "correctAnswerIndex": 3
+    }
+  ],
+  "Axilla": [
+    {
+      "questionText": "The latissimus dorsi muscle is supplied by the:",
+      "options": [
+        "Posterior primary rami of thoracic nerves",
+        "Spinal accessory nerve",
+        "Branches of local intercostal nerves",
+        "Thoracodorsal nerve"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "If the surgical neck of the humerus is fractured, the nerve most likely to be damaged is the:",
+      "options": [
+        "Median nerve",
+        "Ulnar nerve",
+        "Musculocutaneous nerve",
+        "Axillary nerve",
+        "Radial nerve"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "Muscles attached to the coracoid process of the scapula include the:",
+      "options": [
+        "Biceps brachii",
+        "Pectoralis major",
+        "Serratus anterior",
+        "Triceps brachii",
+        "Deltoid"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "Which structure forms the medial wall of the axilla?",
+      "options": [
+        "Pectoralis major",
+        "Latissimus dorsi",
+        "Serratus anterior",
+        "Teres major"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "Enlargement of which lymph nodes would be expected with infection draining from the lateral hand?",
+      "options": [
+        "Apical nodes",
+        "Central nodes",
+        "Humeral (lateral) nodes",
+        "Subscapular nodes"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "One of the following is a branch of the second part of the axillary artery:",
+      "options": [
+        "Lateral thoracic artery.",
+        "Anterior circumflex humeral artery.",
+        "Posterior circumflex humeral artery.",
+        "Superior thoracic artery.",
+        "Subscapular artery."
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "The axilla contains all of the following EXCEPT:",
+      "options": [
+        "Axillary artery.",
+        "Axillary vein.",
+        "Trunks of the brachial plexus.",
+        "Fat.",
+        "Tail of the breast."
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "The usual number of branches of the medial cord of the brachial plexus:",
+      "options": [
+        "1.",
+        "2.",
+        "3.",
+        "4.",
+        "5."
+      ],
+      "correctAnswerIndex": 4
+    },
+    {
+      "questionText": "The usual number of branches of the lateral cord of the brachial plexus:",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "Paralysis of the serratus anterior muscle causes:",
+      "options": [
+        "Winging of the scapula.",
+        "Ape hand.",
+        "Wrist drop.",
+        "Policeman's tip position."
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "The suprascapular nerve is a branch from the:",
+      "options": [
+        "Roots of the brachial plexus.",
+        "Upper trunk.",
+        "Middle trunk.",
+        "Posterior cord.",
+        "Lateral cord."
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "The root value of the long thoracic nerve is:",
+      "options": [
+        "C5.",
+        "C6.",
+        "C7.",
+        "C5, 6 & 7",
+        "C5, 6, 7 & 8"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "The anterior (pectoral) group of the axillary lymph nodes is located along the:",
+      "options": [
+        "Upper part of the axillary vein.",
+        "Lower part of the axillary vein.",
+        "Lateral thoracic artery.",
+        "Subscapular artery.",
+        "None of the above."
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "Lymphatics from the skin of the back above the iliac crest drain into the:",
+      "options": [
+        "Pectoral group of the axillary lymph nodes.",
+        "Subscapular group of the axillary lymph nodes.",
+        "Central group of the axillary lymph nodes.",
+        "Apical group of the axillary lymph nodes.",
+        "Parasternal lymph nodes."
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "Lymphatics that accompany the cephalic vein drain into the:",
+      "options": [
+        "Pectoral group of the axillary lymph nodes.",
+        "Subscapular group of the axillary lymph nodes.",
+        "Central group of the axillary lymph nodes.",
+        "Apical group of the axillary lymph nodes.",
+        "Lateral group of the axillary lymph nodes."
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "Lymphatics from the medial zone of the breast drain into the:",
+      "options": [
+        "Pectoral group of the axillary lymph nodes.",
+        "Subscapular group of the axillary lymph nodes.",
+        "Central group of the axillary lymph nodes.",
+        "Apical group of the axillary lymph nodes.",
+        "Parasternal lymph nodes."
+      ],
+      "correctAnswerIndex": 4
+    },
+    {
+      "questionText": "Lymphatics from the nipple and areola drain into the:",
+      "options": [
+        "Pectoral group of the axillary lymph nodes.",
+        "Subscapular group of the axillary lymph nodes.",
+        "Central group of the axillary lymph nodes.",
+        "Apical group of the axillary lymph nodes.",
+        "Parasternal lymph nodes."
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "Regarding the axilla, one is INCORRECT:",
+      "options": [
+        "The axillary artery terminates at the lower border of teres major.",
+        "The brachial plexus terminates at the lower border of the pectoralis minor.",
+        "The third part of the axillary artery is related to the cords of the brachial plexus.",
+        "The axillary lymph nodes receive 75% of the lymphatics of the breast.",
+        "The anterior fold of the axilla is higher than the posterior fold."
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "The anterior wall of the axilla is formed by all of the following EXCEPT:",
+      "options": [
+        "Pectoralis major.",
+        "Teres major.",
+        "Pectoralis minor.",
+        "Subclavius.",
+        "Clavipectoral fascia."
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "In Erb's paralysis, the deformity is called:",
+      "options": [
+        "Winging of the scapula.",
+        "Claw hand.",
+        "Ape hand.",
+        "Wrist drop.",
+        "Policeman's tip position."
+      ],
+      "correctAnswerIndex": 4
+    },
+    {
+      "questionText": "In Klumpke's paralysis, the deformity is called:",
+      "options": [
+        "Winging of the scapula.",
+        "Claw hand.",
+        "Ape hand.",
+        "Wrist drop.",
+        "Policeman's tip position."
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "The axillary nerve supplies the:",
+      "options": [
+        "Muscle that abducts the arm from zero to15°.",
+        "Muscle that abducts the arm from 15°-90°.",
+        "Muscle that forms the rounded contour of the shoulder.",
+        "B & C.",
+        "A & C."
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "The brachial plexus has:",
+      "options": [
+        "8 rami (roots).",
+        "5 trunks.",
+        "6 divisions.",
+        "4 cords.",
+        "None of the above."
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "After mastectomy a patient developed winging of the scapula. This is most likely due to injury to the:",
+      "options": [
+        "Thoracodorsal nerve.",
+        "Long thoracic nerve.",
+        "Upper subscapular nerve.",
+        "Axillary nerve.",
+        "Medial pectoral nerve."
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "Which of the following is NOT a boundary of the quadrangular space?",
+      "options": [
+        "Teres minor",
+        "Teres major",
+        "Surgical neck of the humerus",
+        "Long head of the triceps",
+        "Medial head of the triceps"
+      ],
+      "correctAnswerIndex": 4
+    },
+    {
+      "questionText": "Which paired structures pass through the quadrangular space in the axilla?",
+      "options": [
+        "Circumflex scapular artery and radial nerve",
+        "Axillary nerve and posterior circumflex humeral artery",
+        "Radial nerve and profunda brachii artery",
+        "Axillary nerve and circumflex scapular artery",
+        "Axillary nerve and profunda brachii artery"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "The quadrangular space is bounded by all of the following EXCEPT:",
+      "options": [
+        "Teres minor.",
+        "Teres major.",
+        "Long head of biceps.",
+        "Long head of triceps.",
+        "Surgical neck of the humerus."
+      ],
+      "correctAnswerIndex": 2
+    }
+  ],
+  "Arm": [
+    {
+      "questionText": "Which complication is most likely to result from a mid-shaft fracture of the humerus?",
+      "options": [
+        "Claw hand",
+        "Failure of pronation",
+        "Drop wrist",
+        "Loss of thumb opposition"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "A mid-shaft fracture of the humerus is most likely accompanied by:",
+      "options": [
+        "Loss of opposition of the thumb",
+        "Inability to abduct the fingers",
+        "Inability to extend the wrist",
+        "Loss of sensation over the hypothenar eminence",
+        "Loss of sensation over the thenar eminence"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "Which structure is most likely to be damaged with a fracture of the medial epicondyle of the humerus?",
+      "options": [
+        "Radial nerve",
+        "Median nerve",
+        "Ulnar nerve",
+        "Musculocutaneous nerve"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "A direct blow to the posterior aspect of the medial epicondyle of the humerus is likely to cause:",
+      "options": [
+        "Paralysis of extensor carpi ulnaris",
+        "Loss of sensation of the little finger and medial half of the ring finger",
+        "Paralysis of opponens pollicis",
+        "Paralysis of the first lumbrical"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "The muscle inserted into the medial lip of the intertubercular sulcus is the:",
+      "options": [
+        "Teres minor",
+        "Pectoralis major",
+        "Latissimus dorsi",
+        "Teres major"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "The biceps brachii is active in:",
+      "options": [
+        "Extension of the elbow",
+        "Flexion of the wrist",
+        "Pronation",
+        "Supination",
+        "Abduction of the shoulder"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "The muscle acting as the most powerful flexor across the elbow joint would be the:",
+      "options": [
+        "Long head of the biceps",
+        "Coracobrachialis",
+        "Brachioradialis",
+        "Short head of the biceps",
+        "Brachialis"
+      ],
+      "correctAnswerIndex": 4
+    },
+    {
+      "questionText": "The surgical neck of the humerus is related to the:",
+      "options": [
+        "Radial nerve.",
+        "Axillary nerve.",
+        "Ulnar nerve.",
+        "Median nerve.",
+        "None of the above."
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "The back of the medial epicondyle is related to the:",
+      "options": [
+        "Radial nerve.",
+        "Axillary nerve.",
+        "Ulnar nerve.",
+        "Median nerve.",
+        "None of the above."
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "The bicipital groove of the humerus lodges (contains) the:",
+      "options": [
+        "Axillary artery.",
+        "Long head of the biceps.",
+        "Long head of the triceps.",
+        "Coracobrachialis.",
+        "None of the above."
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "A fracture in the medial epicondyle may damage the ulnar nerve. Which of the following muscles will not be affected:",
+      "options": [
+        "The flexor carpi ulnaris.",
+        "The medial fibres of flexor digitorum profundus.",
+        "The first dorsal interosseous.",
+        "The adductor pollicis.",
+        "The extensor carpi ulnaris."
+      ],
+      "correctAnswerIndex": 4
+    },
+    {
+      "questionText": "The biceps brachii muscle:",
+      "options": [
+        "Arises from the infraglenoid tubercle.",
+        "Can pronate the forearm.",
+        "Is supplied by the axillary nerve.",
+        "Is inserted into the radial tuberosity.",
+        "Its tendon lies medial to the brachial artery."
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "Regarding the biceps brachii, one is INCORRECT:",
+      "options": [
+        "Has long head attached to the supraglenoid tubercle",
+        "Has short head attached to the tip of the coracoid process",
+        "Has a tendon inserted into the radial tuberosity",
+        "It flexes the elbow joint",
+        "It is powerful supinator of the extended elbow."
+      ],
+      "correctAnswerIndex": 4
+    },
+    {
+      "questionText": "The bicipital aponeurosis passes obliquely deep to the:",
+      "options": [
+        "Brachial artery.",
+        "Median cubital vein.",
+        "Median nerve.",
+        "Radial nerve.",
+        "None of the above."
+      ],
+      "correctAnswerIndex": 1
+    }
+  ],
+  "Forearm": [
+    {
+      "questionText": "A surgeon searching for the ulnar nerve in the forearm would find it passing between the two heads of the:",
+      "options": [
+        "Pronator teres",
+        "Flexor digitorum superficialis",
+        "Flexor digitorum profundus",
+        "Flexor carpi ulnaris",
+        "Extensor carpi ulnaris"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "All superficial flexors of the forearm share which characteristic?",
+      "options": [
+        "They cross the wrist joint",
+        "They are all supplied solely by the median nerve",
+        "They can flex both elbow and wrist",
+        "They arise from the lower end of the humerus"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "Which combination lists muscles that have a double nerve supply?",
+      "options": [
+        "Brachialis only",
+        "Flexor digitorum profundus only",
+        "Brachialis and flexor digitorum profundus",
+        "Teres major and triceps brachii"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "Select the muscle that will compensate for paralysis of the supinator muscle:",
+      "options": [
+        "Brachialis",
+        "Biceps brachii",
+        "Extensor carpi radialis",
+        "Triceps",
+        "Anconeus"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "Which of the following muscles does NOT arise from the ulna?",
+      "options": [
+        "Supinator",
+        "Extensor indicis",
+        "Flexor digitorum profundus",
+        "Extensor pollicis brevis",
+        "Abductor pollicis longus"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "Which of the following muscles attaches to the humerus?",
+      "options": [
+        "The supinator",
+        "The abductor pollicis longus",
+        "The extensor pollicis brevis",
+        "The extensor pollicis longus",
+        "The extensor indicis"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "Which of the following muscles takes origin from the ulna:",
+      "options": [
+        "Supinator",
+        "Anconeus",
+        "Extensor pollicis brevis",
+        "Brachialis",
+        "Triceps brachii"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "Which structure passes between the two heads of origin of the pronator teres muscle?",
+      "options": [
+        "Deep branch of radial nerve",
+        "Brachial artery",
+        "Superficial branch of radial nerve",
+        "Median nerve",
+        "Ulnar nerve"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "Regarding the pronator teres muscle, choose the correct statement:",
+      "options": [
+        "It forms the lateral boundary of cubital fossa",
+        "It has ulnar and radial heads of origin",
+        "It is supplied by anterior interosseous nerve",
+        "It is inserted into the styloid process of radius",
+        "None of the above"
+      ],
+      "correctAnswerIndex": 4
+    },
+    {
+      "questionText": "Which of the following muscles inserts into the radius?",
+      "options": [
+        "Brachioradialis",
+        "Flexor digitorum profundus",
+        "Extensor carpi ulnaris",
+        "Extensor indicis",
+        "Flexor carpi radialis"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "The following muscles have double nerve supply:",
+      "options": [
+        "Brachialis.",
+        "Flexor digitorum profundus.",
+        "Teres major.",
+        "All of the above.",
+        "A & B only."
+      ],
+      "correctAnswerIndex": 4
+    },
+    {
+      "questionText": "The supinator muscle and the biceps brachii are both:",
+      "options": [
+        "Innervated by the musculocutaneous nerve",
+        "Supinators of the forearm",
+        "Innervated by the radial nerve",
+        "Pronators of the forearm",
+        "Innervated by the median nerve"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "The following muscles act on the radio-ulnar joints EXCEPT:",
+      "options": [
+        "Biceps brachii",
+        "Pronator teres",
+        "Brachioradialis",
+        "Supinator",
+        "Brachialis"
+      ],
+      "correctAnswerIndex": 4
+    },
+    {
+      "questionText": "The cubital fossa is bounded by the:",
+      "options": [
+        "Biceps medially, pronator teres laterally",
+        "Pronator teres laterally, brachioradialis medially",
+        "Pronator teres medially, brachioradialis laterally",
+        "Pronator teres laterally, brachialis medially"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "All of the following lie within the cubital fossa except the:",
+      "options": [
+        "Pronator teres muscle",
+        "Radial artery",
+        "Tendon of biceps brachii",
+        "Median nerve",
+        "Flexor carpi radialis muscle"
+      ],
+      "correctAnswerIndex": 4
+    },
+    {
+      "questionText": "The cubital fossa is bounded medially by the:",
+      "options": [
+        "Pronator teres",
+        "Brachioradialis",
+        "Biceps",
+        "Brachialis"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "The cubital fossa is bounded laterally by the:",
+      "options": [
+        "Pronator teres",
+        "Brachioradialis",
+        "Biceps",
+        "Brachialis"
+      ],
+      "correctAnswerIndex": 1
+    }
+  ],
+  "Hand": [
+    {
+      "questionText": "After setting fractures of both the radius and ulna, a patient is unable to flex the terminal phalanx of the thumb and index finger. Which nerve is injured?",
+      "options": [
+        "Radial nerve",
+        "Posterior interosseous nerve",
+        "Anterior interosseous nerve",
+        "Median nerve",
+        "Ulnar nerve"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "The proximal row of carpal bones includes the:",
+      "options": [
+        "Trapezium",
+        "Trapezoid",
+        "Capitate",
+        "Scaphoid",
+        "Hamate"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "Loss of opposition of the thumb is most characteristic of injury to the:",
+      "options": [
+        "Median nerve",
+        "Ulnar nerve",
+        "Radial nerve",
+        "Axillary nerve"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "Which intrinsic hand muscle is innervated by the ulnar nerve?",
+      "options": [
+        "Opponens pollicis",
+        "Flexor pollicis brevis (deep head)",
+        "Abductor pollicis brevis",
+        "Flexor pollicis longus"
+      ],
+      "correctAnswerIndex": 1
+    }
+  ],
+  "Joints of U.L": [
+    {
+      "questionText": "The glenoid cavity articulates with the head of the humerus by a:",
+      "options": [
+        "Fibrous articulation.",
+        "Cartilaginous articulation.",
+        "Plane synovial.",
+        "Ball and socket synovial.",
+        "Hinge synovial articulation."
+      ],
+      "correctAnswerIndex": 3
+    }
+  ]
+}

@@ -1,0 +1,2068 @@
+{
+  "Gluteal Region": [
+    {
+      "questionText": "The sciatic nerve exits the pelvis through:",
+      "options": [
+        "Greater sciatic foramen",
+        "Lesser sciatic foramen",
+        "Obturator foramen",
+        "Femoral canal"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "Which muscle is the most superficial in the gluteal region:",
+      "options": [
+        "Gluteus maximus",
+        "Gluteus medius",
+        "Piriformis",
+        "Tensor fasciae latae"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "The gluteus medius and minimus are mainly supplied by:",
+      "options": [
+        "Superior gluteal nerve",
+        "Inferior gluteal nerve",
+        "Sciatic nerve",
+        "Pudendal nerve"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "The superior gluteal nerve emerges from the pelvis above:",
+      "options": [
+        "Piriformis",
+        "Obturator internus",
+        "Coccygeus",
+        "Levator ani"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "The tensor fascia lata, muscle:",
+      "options": [
+        "Attached to the posterior part of iliac crest.",
+        "Inserted into the iliotibial tract.",
+        "Innervated by the inferior gluteal nerve.",
+        "Lies deep to the gluteus medius muscle."
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "The most powerful extensor of the hip joint is:",
+      "options": [
+        "Semimembranosus.",
+        "Gluteus maximus.",
+        "Sacrospinalis.",
+        "Gluteus medius."
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "Medial rotation of the thigh is done the following muscle:",
+      "options": [
+        "Gluteus maximus.",
+        "Quadratus femoris.",
+        "Gluteus minimus.",
+        "Superior gemellus."
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "A significant weakness in thigh abduction involve which muscle:",
+      "options": [
+        "Gluteus medius.",
+        "Pectineus.",
+        "Gracilis.",
+        "Adductor magnus."
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "In walking, hip bone of the suspended leg is raised by which of the following muscles acting on the supported side of the body:",
+      "options": [
+        "Gluteus maximus.",
+        "Obturator internus.",
+        "Gluteus medius.",
+        "Obturator externus."
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "Paralysis of the gluteus medius and minimus will result in the:",
+      "options": [
+        "Inability to adduct the thigh at the hip joint.",
+        "Sinking of pelvis on the normal side when same foot is raised.",
+        "Inability to laterally rotate the thigh at the hip joint.",
+        "Waddling gate in case of bilateral paralysis of the muscles."
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "Regarding action of the glutei muscles, one answer is correct:",
+      "options": [
+        "Gluteus maximus is medial rotator of the thigh.",
+        "Gluteus medius is adductor of the hip joint.",
+        "Both glutei maximus and medius are extensors of the hip joint.",
+        "Both glutei medius and minimus are powerful abductor of hip joint."
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "One of the following muscles is lateral rotator of the thigh:",
+      "options": [
+        "The iliopsoas.",
+        "The rectus femoris.",
+        "The biceps femoris.",
+        "The obturator internus."
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "The quadratus femoris is inserted into, choose the correct answer:",
+      "options": [
+        "Greater trochanter of the femur.",
+        "Lesser trochanter of the femur.",
+        "Middle of trochanteric line.",
+        "Quadrate tubercle."
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "The following structure deep lies to the gluteus maximus:",
+      "options": [
+        "Iliofemoral ligament.",
+        "Obturator nerve.",
+        "Straight head of rectus femoris muscle.",
+        "Greater trochanter of femur."
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "The structure which passes through greater sciatic foramen is:",
+      "options": [
+        "Quadratus femoris.",
+        "Sciatic nerve.",
+        "Tendon of obturator externus muscle.",
+        "Nerve to obturator internus.",
+        "B and D"
+      ],
+      "correctAnswerIndex": 4
+    },
+    {
+      "questionText": "Which structure passes through the lesser sciatic foramen:",
+      "options": [
+        "Piriformis muscle.",
+        "Inferior gluteal nerve.",
+        "Tendon of obturator internus muscle.",
+        "Sciatic nerve."
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "The following structure pass through the lesser sciatic foramen:",
+      "options": [
+        "Superior gluteal artery.",
+        "Sciatic nerve.",
+        "Obturator internus tendon.",
+        "Pudendal nerve.",
+        "C and D"
+      ],
+      "correctAnswerIndex": 4
+    },
+    {
+      "questionText": "The powerful extension of the thigh, required when one is standing from a sitting position, is a function of the:",
+      "options": [
+        "Gluteus maximus muscle.",
+        "Psoas major muscle.",
+        "Iliacus muscle.",
+        "Obturator externus muscle."
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "Root value of sciatic nerve is:",
+      "options": [
+        "L4,5 S1",
+        "L4,5 S1,2",
+        "L4,5 S1,2,3",
+        "L2,3,4"
+      ],
+      "correctAnswerIndex": 2
+    }
+  ],
+  "Thigh": [
+    {
+      "questionText": "Regarding the fascia of the thigh, mark the correct statements:",
+      "options": [
+        "The fascia lata of thigh is thickened medially to form iliotibial tract.",
+        "The saphenous opening is a gap in the fascia lata.",
+        "The saphenous opening is 6 cm below and lateral to pubic tubercle.",
+        "Two facial septa pass from fascia lata to the femur."
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "Regarding the iliotibial tract:",
+      "options": [
+        "It is attached between iliac crest and lateral condyle of the tibia.",
+        "It receives the insertion of gluteus medius and tensor fascia lata.",
+        "It belongs to the investing layer of the deep fascia of the thigh.",
+        "It is connected to linea aspera by the medial intermuscular septum."
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "The iliotibial tract receives attachment of the following muscle:",
+      "options": [
+        "Tensor fasciae lata muscle.",
+        "Gluteus medius muscle.",
+        "Iliacus.",
+        "Gluteus minimus."
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "The cribriform fascia is pierced by:",
+      "options": [
+        "Great saphenous vein.",
+        "Superior epigastric artery.",
+        "Deep circumflex iliac artery.",
+        "Obturator."
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "One of following structures pass deep to the inguinal ligament:",
+      "options": [
+        "Spermatic cord.",
+        "Psoas major muscle.",
+        "Ilioinguinal nerve.",
+        "Great saphenous vein."
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "Which of the following muscles is a flexor of the thigh:",
+      "options": [
+        "Superior gemellus.",
+        "Adductor longus.",
+        "Gracilis.",
+        "Psoas major."
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "The sartorius muscle:",
+      "options": [
+        "Flexes the knee joint and extends the hip joint.",
+        "Is one of the boundaries of the femoral triangle.",
+        "Arises from the anterior inferior iliac spine.",
+        "Is fusiform muscle."
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "The sartorius muscle is:",
+      "options": [
+        "It is innervated by the obturator nerve.",
+        "It arises from the anterior superior iliac spine.",
+        "It inserts on the lateral surface of the tibia.",
+        "It forms the medial border of the femoral triangle."
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "A crushing blow that breaks the anterior superior iliac spine would damage the origin of the:",
+      "options": [
+        "Biceps femoris muscle.",
+        "Pectineus muscle.",
+        "Rectus femoris muscle.",
+        "Sartorius muscle."
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "The head of the quadriceps muscle which acts on the hip joint:",
+      "options": [
+        "Vastus lateralis muscle.",
+        "Rectus femoris.",
+        "Vastus intermedius.",
+        "Vastus medialis."
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "Muscle that extends leg include the following muscle:",
+      "options": [
+        "Biceps femoris.",
+        "Rectus femoris.",
+        "Semitendinosus.",
+        "Gracilis."
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "Regarding quadriceps femoris muscle, choose the correct answer:",
+      "options": [
+        "Extends the knee joint.",
+        "Flexes the knee joint.",
+        "Extends the hip joint.",
+        "Abducts the hip joint."
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "The articularis genu muscle, mark the correct statement:",
+      "options": [
+        "Is the deep fibers of the vastus medialis muscle.",
+        "Is fixed to the upper border of the suprapatellar bursa.",
+        "Is supplied by the obturator nerve.",
+        "Arises from the upper half of the medial surface of the femur."
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "One of the following muscles is supplied by the obturator nerve:",
+      "options": [
+        "Psoas major.",
+        "Sartorius.",
+        "Iliacus.",
+        "Adductor brevis."
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "Femoral vessels enter popliteal fossa through hiatus in which muscle:",
+      "options": [
+        "Adductor longus.",
+        "Rectus femoris.",
+        "Adductor magnus.",
+        "Gracilis."
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "The boundaries of the femoral triangle is by the following:",
+      "options": [
+        "Adductor longus, pectineus and sartorius.",
+        "Inguinal ligament, sartorius and adductor longus.",
+        "Inguinal ligament, sartorius and adductor brevis.",
+        "Inguinal ligament, sartorius and adductor magnus."
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "The base of the femoral triangle is formed by the:",
+      "options": [
+        "Sartorius muscle.",
+        "Adductor longus muscle.",
+        "Inguinal ligament.",
+        "Pubic tubercle."
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "In floor of femoral triangle one of the following muscles is seen:",
+      "options": [
+        "Adductor magnus.",
+        "Iliacus.",
+        "Vastus medialis.",
+        "Tensor fasciata."
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "The floor of the femoral triangle is bounded medially by:",
+      "options": [
+        "Pectineus.",
+        "Adductor longus.",
+        "Iliacus.",
+        "Psoas major."
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "In the femoral triangle one of the following branches arise from the femoral artery:",
+      "options": [
+        "Superior epigastric.",
+        "Obturator artery.",
+        "Superficial circumflex iliac.",
+        "Deep circumflex iliac."
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "The femoral sheath:",
+      "options": [
+        "Its medial compartment is occupied by the femoral artery.",
+        "Its lateral compartment is occupied by the femoral nerve.",
+        "The intermediate compartment is occupied by the femoral vein.",
+        "The anterior wall is formed by fascia iliaca."
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "Concerning the femoral sheath, choose the correct answer:",
+      "options": [
+        "It encloses the proximal portions of the popliteal artery and vein.",
+        "Posteriorly it is formed by the fascia transversalis.",
+        "The femoral nerve is medial to the femoral sheath.",
+        "The inguinal ligament is anterior to the femoral sheath."
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "Femoral canal contains:",
+      "options": [
+        "Femoral artery.",
+        "Femoral vein.",
+        "Femoral nerve.",
+        "Lymphatic vessels."
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "The femoral ring is bounded medially by:",
+      "options": [
+        "Lacunar ligament.",
+        "Inguinal ligament.",
+        "Pubic ramus.",
+        "Femoral artery."
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "Following form the medial boundary of femoral ring:",
+      "options": [
+        "Femoral septum.",
+        "Lacunar ligament.",
+        "Fascia transversalis.",
+        "Cribriform fascia."
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "The femoral ring is bounded anteriorly by:",
+      "options": [
+        "Femoral vein.",
+        "Lacunar ligament.",
+        "Obturator artery.",
+        "Inguinal ligament."
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "A femoral hernia descends through the femoral canal, and the neck of the hernial sac lies:",
+      "options": [
+        "At the saphenous opening.",
+        "Above and medial to the pubic tubercle.",
+        "At the femoral ring.",
+        "In the obturator canal."
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "Concerning the femoral hernia, choose the correct answer:",
+      "options": [
+        "It is more common in males than females.",
+        "It occurs in the medial compartment of the femoral sheath.",
+        "It is found above and medial to the pubic tubercle.",
+        "Its neck is medial to the base of the lacunar ligament."
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "Regarding the femoral sheath and femoral hernia, the following statement is true:",
+      "options": [
+        "Femoral sheath is a prolongation of facial lining from the abdominal walls, along the upper part of femoral vessels.",
+        "Femoral canal is the lateral compartment of the femoral sheath.",
+        "Femoral hernia is more common in men than in women.",
+        "Neck of the femoral hernia lies below and medial to the pubic tubercle."
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "The roof of the adductor canal is formed by one of the followings:",
+      "options": [
+        "Rectus femoris.",
+        "Adductor longus.",
+        "Vastus medialis.",
+        "Sartorius."
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "One of the following structures is in the adductor canal:",
+      "options": [
+        "Femoral artery.",
+        "Femoral lymph node.",
+        "Profunda femoris artery.",
+        "Great saphenous vein."
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "The following structures pass through the subsartorial canal from upper to lower end is:",
+      "options": [
+        "Posterior division of the obturator nerve.",
+        "Saphenous nerve.",
+        "Femoral artery.",
+        "Nerve to the vastus intermedius."
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "Regarding the adductor (subsartorial) canal, choose the correct answer:",
+      "options": [
+        "Vastus lateralis muscle in its lateral aspect.",
+        "Nerve plexus embedded in its posterior wall.",
+        "Descending branch from femoral artery which takes part in the anastomosis around the knee.",
+        "Nerve to the vastus lateralis muscle."
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "Regarding the adductor (subsartorial) canal and its contents, mark one correct statement:",
+      "options": [
+        "Its anteromedial wall is formed by the vastus medialis.",
+        "Its lateral wall is formed by the vastus lateralis.",
+        "Its posterior wall is formed by the adductor longus and magnus.",
+        "The femoral artery has no branches in the canal."
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "Contents of the adductor (subsartorial) canal include one of the following:",
+      "options": [
+        "Great saphenous vein.",
+        "Saphenous nerve.",
+        "Superficial inguinal lymph nodes.",
+        "Obturator artery."
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "Regarding adductor canal, the following statement is correct:",
+      "options": [
+        "It ends at the adductor hiatus.",
+        "It transmits the femoral nerve.",
+        "Its posterior wall is formed by the adductor brevis muscle only.",
+        "Its lateral wall is formed by the vastus lateralis."
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "The femoral nerve originates from which of the following roots:",
+      "options": [
+        "T12, L1, L2.",
+        "L1, L2, L3.",
+        "L2, L3, L4.",
+        "L3, L4, L5."
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "One muscle is supplied by the femoral nerve in the abdomen:",
+      "options": [
+        "Psoas major.",
+        "Vastus lateralis.",
+        "Sartorius.",
+        "Vastus medialis."
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "Damage to the femoral nerve on the lateral wall of the pelvis would affect the function of the following muscle:",
+      "options": [
+        "Sartorius.",
+        "Gracilis.",
+        "Adductor longus.",
+        "Adductor brevis."
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "The femoral nerve:",
+      "options": [
+        "Comes from the dorsal divisions of the L2, 3 & 4.",
+        "Ends four inches below the inguinal ligament.",
+        "Supply all muscles of floor of femoral triangle except the pectineus.",
+        "Passes to thigh through lateral compartment of the femoral sheath."
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "Concerning the femoral nerve it:",
+      "options": [
+        "Enters the thigh medial to the femoral sheath.",
+        "Supplies motor nerves to most of the muscles of the anterior and medial compartments of the thigh.",
+        "Lies medial to the femoral artery in the femoral triangle.",
+        "Has no motor branches below the knee."
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "Which of the following nerves innervates at least one muscle that acts on both the hip and the knee joints:",
+      "options": [
+        "Ilioinguinal nerve.",
+        "Femoral nerve.",
+        "Saphenous nerve.",
+        "Common peroneal nerve."
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "Loss of extension of the knee would result from damage to the:",
+      "options": [
+        "Femoral nerve.",
+        "Tibial nerve.",
+        "Tibial and common peroneal nerves.",
+        "Obturator and femoral nerves."
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "Paralysis of saphenous nerve results in the following deformity:",
+      "options": [
+        "Inability to invert the foot.",
+        "Loss of sensation on the lateral malleolus.",
+        "Loss of sensation on the medial malleolus.",
+        "Loss of sensation on localized area on the dorsum of the foot."
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "Regarding the patellar tendon reflex (knee jerk), mark one correct statement:",
+      "options": [
+        "It is the flexion of the knee joint on tapping the patellar tendon.",
+        "It is a test for second, third and fourth lumbar spinal nerves.",
+        "It is a test for the hamstrings muscles.",
+        "It is a test for the calf muscles."
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "The obturator nerve:",
+      "options": [
+        "Supplies the hip joint.",
+        "Supplies the knee joint.",
+        "Gives a cutaneous branch to the lower medial side of the thigh.",
+        "Arises from lumbar plexus."
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "The obturator nerve supplies the following muscle:",
+      "options": [
+        "Sartorius.",
+        "Iliacus.",
+        "Gracilis.",
+        "Rectus femoris."
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "Regarding the obturator nerve, mark correct answer:",
+      "options": [
+        "Is formed by ventral divisions of 2, 3 and 4 lumbar nerves.",
+        "Supplies ankle joint.",
+        "Crosses the internal iliac artery.",
+        "Leaves the pelvis through femoral sheath."
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "The obturator nerve; mark the most suitable answer:",
+      "options": [
+        "Is formed of the ventral divisions of L2, 3 & 4 nerves.",
+        "Is completely motor.",
+        "Supplies all the adductor and flexor thigh muscles.",
+        "It passes through the adductor canal."
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "The adductor canal contains all EXCEPT:",
+      "options": [
+        "Femoral artery",
+        "Femoral nerve",
+        "Saphenous nerve",
+        "Vastus medialis"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "Which nerve supplies the quadriceps muscle:",
+      "options": [
+        "Femoral nerve",
+        "Sciatic nerve",
+        "Obturator nerve",
+        "Pudendal nerve"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "The hamstring muscles are innervated by:",
+      "options": [
+        "Sciatic nerve",
+        "Femoral nerve",
+        "Obturator nerve",
+        "Pudendal nerve"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "The adductor brevis is supplied by:",
+      "options": [
+        "Obturator nerve",
+        "Femoral nerve",
+        "Sciatic nerve",
+        "Pudendal nerve"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "The saphenous vein drains into:",
+      "options": [
+        "Femoral vein",
+        "Great saphenous vein",
+        "Popliteal vein",
+        "Deep femoral vein"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "Which of the following is NOT a medial compartment muscle:",
+      "options": [
+        "Rectus femoris",
+        "Adductor longus",
+        "Gracilis",
+        "Adductor magnus"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "The iliopsoas muscle inserts on:",
+      "options": [
+        "Lesser trochanter",
+        "Greater trochanter",
+        "Linea aspera",
+        "Adductor tubercle"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "Regarding the hamstring muscles (Posterior compartment of thigh), mark correct statement:",
+      "options": [
+        "All are supplied by common peroneal nerve.",
+        "They can extend the knee.",
+        "Biceps femoris produces medial rotation of knee.",
+        "Upper half of semimembranosus is membranous."
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "Extension of the hip joint is done by the following muscle:",
+      "options": [
+        "Iliacus muscle.",
+        "Sartorius muscle.",
+        "Semimembranosus muscle.",
+        "Rectus femoris muscle."
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "Lateral intermuscular septum of the thigh separates which of the following muscles:",
+      "options": [
+        "Adductor longus and gracilis.",
+        "Semitendinosus and gracilis.",
+        "Psoas major and pectineus.",
+        "Vastus lateralis and biceps femoris."
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "The sciatic nerve supplies one of the following muscles:",
+      "options": [
+        "Semimembranosus.",
+        "Vastus medialis.",
+        "Rectus femoris.",
+        "Quadratus femoris."
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "To avoid sciatic nerve injury, an intramuscular injection in the gluteal region is given in which of the following quadrants:",
+      "options": [
+        "Upper outer quadrant.",
+        "Lower outer quadrant.",
+        "Upper inner quadrant.",
+        "Lower inner quadrant."
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "From the muscles forming the floor of femoral triangle:",
+      "options": [
+        "Vastus medialis.",
+        "Rectus femoris.",
+        "Sartorius.",
+        "Pectineus."
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "Among contents of the adducter canal is:",
+      "options": [
+        "Profunda femoris artery.",
+        "Popliteal artery.",
+        "Deep external pudendal artery.",
+        "Saphenous nerve."
+      ],
+      "correctAnswerIndex": 3
+    }
+  ],
+  "Leg": [
+    {
+      "questionText": "The anterior compartment of the leg contains:",
+      "options": [
+        "Tibialis anterior, extensor digitorum longus, extensor hallucis longus",
+        "Gastrocnemius, soleus, plantaris",
+        "Tibialis posterior, flexor digitorum, flexor hallucis"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "The structure contributes to the above and lateral boundary of the popliteal fossa:",
+      "options": [
+        "Semimembranosus muscle.",
+        "Plantaris.",
+        "Biceps femoris.",
+        "Medial head of the gastrocnemius muscle."
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "The common peroneal nerve divides into:",
+      "options": [
+        "Deep and superficial peroneal nerves",
+        "Medial and lateral branches",
+        "Anterior and posterior branches",
+        "Saphenous and sural nerves"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "The superficial peroneal nerve innervates:",
+      "options": [
+        "Peroneus longus and brevis",
+        "Tibialis anterior",
+        "Extensor digitorum longus",
+        "Gastrocnemius"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "The deep peroneal nerve innervates:",
+      "options": [
+        "Tibialis anterior, extensor hallucis longus, extensor digitorum longus",
+        "Peroneus longus and brevis",
+        "Gastrocnemius and soleus",
+        "Tibialis posterior and flexors"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "The sural nerve is formed by:",
+      "options": [
+        "Tibial and common peroneal nerves",
+        "Femoral and saphenous nerves",
+        "Deep and superficial peroneal nerves",
+        "Pudendal and obturator nerves"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "The popliteal fossa is bounded by:",
+      "options": [
+        "Hamstrings superomedially, biceps femoris superolaterally, gastrocnemius inferiorly",
+        "Vastus medialis medially, rectus femoris anteriorly"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "The deep calf muscles are supplied by:",
+      "options": [
+        "Tibial nerve",
+        "Common peroneal nerve",
+        "Saphenous nerve",
+        "Sural nerve"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "Regarding popliteal fossa, the following is correct statement:",
+      "options": [
+        "Upper part of floor of fossa is formed of popliteal surface of the tibia.",
+        "It contains the medial cutaneous nerve of the thigh.",
+        "Popliteal artery pulsations can be felt while the knee is extended.",
+        "Semitendinosus forms its superior medial boundary."
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "The following structure attaches to the calcaneus:",
+      "options": [
+        "Tibialis posterior tendon.",
+        "Gastrocnemius tendon.",
+        "Flexor hallucis longus tendon.",
+        "Popliteus muscle."
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "The superficial muscles of the posterior compartment of the leg insert on which of the following bones:",
+      "options": [
+        "Talus.",
+        "Navicular.",
+        "Calcaneus.",
+        "Tibia."
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "The superficial calf muscles; select the correct statement:",
+      "options": [
+        "Plantar flex the ankle joint.",
+        "Invert the foot.",
+        "Enters the foot by passing deep to the flexor retinaculum.",
+        "Are five in number."
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "Regarding the gastrocnemius muscle, mark the correct answer:",
+      "options": [
+        "Its medial head is attached to the popliteal surface of the femur above its medial condyle, it is the smaller head.",
+        "Its lateral head is attached to the femur above the medial epicondyle.",
+        "It is a plantar flexor at the ankle joint.",
+        "It receives its nerve supply from the anterior tibial nerve."
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "The muscle which act as plantar flexors of the foot include:",
+      "options": [
+        "Extensor hallucis longus.",
+        "Extensor digitorum longus.",
+        "Tibialis anterior.",
+        "Soleus."
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "Regarding muscles of posterior compartment of leg, select the correct:",
+      "options": [
+        "They are all supplied by anterior tibial nerve.",
+        "They receive their blood supply by anterior tibial artery.",
+        "They produce plantar flexion of foot.",
+        "Tibialis posterior can evert foot."
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "Concerning the flexor hallucis longus muscle, choose the correct answer:",
+      "options": [
+        "Grooves the lower surface of the calcaneus.",
+        "An important factor in maintaining the transverse arch of the foot.",
+        "Lies superficial to the flexor retinaculum.",
+        "Is supplied by posterior tibial nerve."
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "Regarding tibialis posterior muscle, indicate the correct statement:",
+      "options": [
+        "It arises from tibia, fibula and interosseous membrane.",
+        "Its tendon passes superficial to that of flexor digitorum longus.",
+        "It produces inversion of the foot by acting at the ankle joint.",
+        "It helps in suspending the lateral longitudinal arch of the foot."
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "Regarding the posterior compartment of the leg, the following statement is correct:",
+      "options": [
+        "Posterior tibial nerve crosses the posterior tibial artery from lateral to medial.",
+        "Pulsation from the posterior tibial artery is felt behind the lateral malleolus.",
+        "Plantar is can be used as autograft.",
+        "The peroneal artery is the smallest of the branches of posterior tibial artery."
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "Nerve commonly injured in fractured neck of the fibula is the:",
+      "options": [
+        "Sciatic nerve.",
+        "Superficial peroneal nerve.",
+        "Deep peroneal nerve.",
+        "Common peroneal nerve."
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "Effects of common peroneal nerve injury include one:",
+      "options": [
+        "Foot drop and inversion of the foot.",
+        "Foot drop and eversion of the foot.",
+        "Dorsi flexion and eversion of the foot.",
+        "Dorsi flexion and inversion of the foot."
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "Damage to posterior tibial nerve would affect following muscle:",
+      "options": [
+        "Flexor digitorum longus.",
+        "Abductor hallucis.",
+        "Flexor digitorum brevis.",
+        "Flexor hallucis brevis."
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "Following structure is located in anterior compartment of leg:",
+      "options": [
+        "Posterior tibial artery.",
+        "Soleus.",
+        "Extensor digitorum longus.",
+        "Tibial nerve."
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "Which of the following muscles dorsiflexes foot at ankle joint:",
+      "options": [
+        "Peroneus longus.",
+        "Extensor digitorum brevis.",
+        "Tibialis posterior.",
+        "Tibialis anterior."
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "The following muscle evert the foot:",
+      "options": [
+        "Tibialis anterior.",
+        "Extensor hallucis longus.",
+        "Flexor hallucis longus.",
+        "Peroneus tertius."
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "As the deep peroneal nerve descends through the leg, it is joined by which of the following arteries:",
+      "options": [
+        "Sural.",
+        "Posterior tibial.",
+        "Middle genicular.",
+        "Anterior tibial."
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "One of the following muscles is supplied by the deep peroneal nerve:",
+      "options": [
+        "Tibialis anterior.",
+        "Tibialis posterior.",
+        "Flexor digitorum longus.",
+        "Peroneus brevis."
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "The following muscle lies in the lateral compartment of the leg:",
+      "options": [
+        "Peroneus tertius.",
+        "Peroneus brevis.",
+        "Tibialis anterior.",
+        "Extensor hallucis longus."
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "The muscles supplied by the superficial peroneal nerve; mark the correct answer:",
+      "options": [
+        "Evert the foot.",
+        "Invert the foot.",
+        "Passes in front of the lateral malleolus.",
+        "Dorsiflex the foot."
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "Following muscle everts the foot:",
+      "options": [
+        "Tibialis anterior.",
+        "Tibialis posterior.",
+        "Extensor hallucis longus.",
+        "Peroneus brevis."
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "Weak inversion of foot results from damage to which muscle:",
+      "options": [
+        "Flexor hallucis brevis.",
+        "Flexor digitorum brevis.",
+        "Tibialis anterior.",
+        "Peroneus longus."
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "Superficial peroneal nerve supplies one of following muscles:",
+      "options": [
+        "Peroneus tertius.",
+        "Peroneus longus.",
+        "Tibialis anterior.",
+        "Flexor digitorum longus."
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "Clinical finding of superficial peroneal nerve injury includes:",
+      "options": [
+        "Loss of plantar flexion of the ankle.",
+        "Loss of sensations of the sole of the foot.",
+        "Paralysis of muscles of the lateral compartment of the leg.",
+        "Paralysis of sole muscles."
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "Regarding attachment of muscles of lower limb, choose correct answer:",
+      "options": [
+        "Gluteus maximus is inserted to the greater trochanter of femur.",
+        "The adductor longus is inserted to the linea aspera of femur.",
+        "The tibialis anterior arises from the medial surface of the tibia.",
+        "The peroneus longus is inserted to the base of 5th metatarsal bone."
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "Concerning nerves of the lower limb, which statement is true:",
+      "options": [
+        "Sciatic nerve supplies gluteus maximus muscle.",
+        "Genito-femoral nerve supplies quadriceps femoris.",
+        "Obturator nerve supplies adductors.",
+        "Deep peroneal nerve supplies peroneal longus and brevis."
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "Bone which fracture in over doing the movement of eversion is:",
+      "options": [
+        "The lateral malleolus.",
+        "The calcaneum.",
+        "The medial malleolus.",
+        "The inferior margin of lower end of tibia."
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "For bone grafts in the leg and foot, the most suitable place is:",
+      "options": [
+        "Medial malleolus.",
+        "Anteromedial surface of the tibia.",
+        "The first metatarsal bone.",
+        "The fibula."
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "The popliteal fossa contains the following structure:",
+      "options": [
+        "Posterior tibial artery",
+        "Femoral artery",
+        "Tibial nerve",
+        "Posterior tibial nerve"
+      ],
+      "correctAnswerIndex": 2
+    }
+  ],
+  "Foot": [
+    {
+      "questionText": "The medial longitudinal arch is mainly supported by:",
+      "options": [
+        "Spring ligament and tibialis posterior",
+        "Peroneus longus",
+        "Extensor digitorum brevis",
+        "Flexor digitorum superificialis"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "The transverse arch of the foot is supported by:",
+      "options": [
+        "Peroneus longus and tibialis posterior",
+        "Flexor hallucis longus",
+        "Extensor digitorum brevis",
+        "Abductor hallucis"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "The plantar fascia originates from:",
+      "options": [
+        "Calcaneus",
+        "Talus",
+        "Navicular",
+        "Cuboid"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "The intrinsic muscles of the foot are supplied by:",
+      "options": [
+        "Tibial and sural nerves",
+        "Peroneal nerves",
+        "Saphenous nerve",
+        "Femoral nerve"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "The first layer of plantar muscles includes:",
+      "options": [
+        "Abductor hallucis, flexor digitorum brevis, abductor digiti minimi",
+        "Quadratus plantae, lumbricals, interossei"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "Pes planus is caused by:",
+      "options": [
+        "Loss of medial arch due to ligament laxity or muscle weakness",
+        "Excessive arching of the medial arch",
+        "Shortening of the plantar fascia",
+        "Weakness of extensor muscles"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "The ankle joint is formed between:",
+      "options": [
+        "Tibia, fibula, and talus",
+        "Tibia and talus only",
+        "Fibula and talus only",
+        "Talus and calcaneus"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "The subtalar joint allows:",
+      "options": [
+        "Inversion and eversion",
+        "Dorsiflexion and plantarflexion",
+        "Abduction and adduction",
+        "Rotation"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "Muscles of the first layer of the sole; choose the correct statement:",
+      "options": [
+        "Abductor hallucis lies on the lateral side.",
+        "Flexor digitorum brevis lies on the medial side.",
+        "Flexor digitorum accessorius lies in this layer.",
+        "Abductor digiti minimi lies on the lateral side."
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "Third layer of the sole; choose the correct statement:",
+      "options": [
+        "Flexor hallucis brevis lies on the lateral side.",
+        "Lumbrical muscles lie in this layer.",
+        "Flexor digiti minimi lies on the medial side.",
+        "Adductor hallucis has two heads."
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "Regarding the medial plantar nerve, select the correct answer:",
+      "options": [
+        "It arises from the anterior tibial nerve deep to the flexor retinaculum.",
+        "It supplies adductor hallucis muscle.",
+        "It supplies flexor digitorum brevis muscle.",
+        "It supplies medial two plantar interossei muscles."
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "Regarding muscle actions in lower limb, the following is correct:",
+      "options": [
+        "Quadriceps femoris flexes the knee joint.",
+        "Interossei abduct and adduct the toes from the middle of the second toe.",
+        "Muscles inserted in tendo calcaneus are dorsi flexors.",
+        "Gluteus maximus is a powerful flexor of hip joint."
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "Regarding lower limb bones, the following statement is correct:",
+      "options": [
+        "Patella is the smallest sesamoid bone.",
+        "Posterior border of tibia is subcutaneous through its entire length.",
+        "Lower end of the shaft of femur possesses two condyles.",
+        "Middle of third toe is taken as the axis of abduction and adduction."
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "Eversion and inversion of the foot occur at; mark the suitable answer:",
+      "options": [
+        "Ankle joint.",
+        "Subtalar joints.",
+        "Inferior tibiofibular joint.",
+        "First tarsometatarsal joint."
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "The movements of inversion and eversion take place at:",
+      "options": [
+        "First tarsometatarsal joint.",
+        "Ankle joint.",
+        "Talo-calcaneo-navicular joint.",
+        "Inferior tibio-fibular joint."
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "Inversion of the foot is done by; mark the correct answer:",
+      "options": [
+        "Tibialis anterior and tibialis posterior muscles.",
+        "Extensor digitorum longus.",
+        "Peroneus longus.",
+        "Peroneus tertius."
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "The cuboid bone; mark the most appropriate statement:",
+      "options": [
+        "Articulates with the talus laterally.",
+        "Gives attachment to the spring ligament.",
+        "Shares in the lateral longitudinal arch.",
+        "Cylindrical in shape."
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "Regarding the spring ligament, choose the correct answer:",
+      "options": [
+        "Quadrangular in shape.",
+        "Gives attachment to the deltoid ligament.",
+        "Important for maintaining the transverse arch of the foot.",
+        "Is called dorsal calcaneonavicular ligament."
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "Sesamoid bones are found in the sole in the following layer:",
+      "options": [
+        "Second layer.",
+        "Third layer.",
+        "Fourth layer.",
+        "First layer."
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "Important factor in maintaining foot arches:",
+      "options": [
+        "Lateral longitudinal arch is supported by tibialis posterior.",
+        "Abductor digiti minimi supports the medial longitudinal arch.",
+        "Tendon of peroneus longus supports the transverse arch.",
+        "Tendon of flexor hallucis longus supports the lateral longitudinal arch."
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "Regarding foot arches, the following is correct:",
+      "options": [
+        "Head of talus is the keystone in the center of the lateral longitudinal arch.",
+        "Short and long plantar ligaments support the medial longitudinal arch.",
+        "Flat foot is produced by depression of the arches.",
+        "The cuboid is the center of the medial longitudinal arch."
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "Factors maintaining foot arches include:",
+      "options": [
+        "Medial longitudinal arch is supported by long plantar ligament.",
+        "Lateral longitudinal arch is supported by tibialis posterior.",
+        "Tendon of tibialis anterior suspends the lateral longitudinal arch.",
+        "Tendon of peroneus longus acts as a tie beam for the transverse arch."
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "Lesion of the medial plantar nerve could cause:",
+      "options": [
+        "Paralysis of interosseous muscles.",
+        "Loss of cutaneous sensation to the adjacent sides of the plantar surface of the 1st and 2nd toes.",
+        "Paralysis of flexor digitorum accessorius muscle.",
+        "Paralysis of adductor hallucis muscles."
+      ],
+      "correctAnswerIndex": 1
+    }
+  ],
+  "Joints": [
+    {
+      "questionText": "Unlocking of the knee joint to permit flexion is caused by the action of which muscle:",
+      "options": [
+        "Vastus medialis.",
+        "Articularis genu.",
+        "Biceps femoris.",
+        "Popliteus."
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "Which of the following is an intra-articular tendon:",
+      "options": [
+        "Sartorius.",
+        "Semitendinosus.",
+        "Anconeus.",
+        "Popliteus."
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "The neck of the femur:",
+      "options": [
+        "Wholly intracapsular.",
+        "Partially intracapsular.",
+        "Makes an angle of about 160 degrees with the shaft.",
+        "Perforated by few nutrient foramina."
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "Regarding the femur; indicate the correct answer:",
+      "options": [
+        "Its head can be palpated medial to the pulsations of femoral artery.",
+        "Decrease in angle between its neck and shaft limits its abduction.",
+        "Subcapital fracture of its neck is common in old age.",
+        "Fracture of its lower third often interferes with blood flow to leg."
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "Regarding fracture of the neck of the femur, select the true statement:",
+      "options": [
+        "Is common in young age.",
+        "Produces necrosis of the greater trochanter.",
+        "Is easy to heal in old age.",
+        "The limb rotates laterally after this fracture."
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "The strongest ligament of the hip joint is:",
+      "options": [
+        "Ligamentum teres.",
+        "Iliofemoral ligament.",
+        "Pubofemoral ligament.",
+        "The capsular ligament."
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "Trochanteric line gives attachment to; mark suitable answer:",
+      "options": [
+        "Rectus femoris.",
+        "Vastus.",
+        "Iliotibial tract.",
+        "Iliofemoral ligament."
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "Hyperextension of the hip joint is limited by:",
+      "options": [
+        "Iliofemoral ligament.",
+        "Ischiofemoral ligament.",
+        "Pubofemoral ligament.",
+        "Ligament of the head of the femur."
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "Regarding the hip joint, choose the correct answer:",
+      "options": [
+        "It is a synovial joint of condyloid variety.",
+        "Its extension is performed by gluteus minimus muscle.",
+        "Its main flexor is the quadriceps femoris muscle.",
+        "The iliofemoral ligament limits its hyperextension."
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "Regarding the adductor tubercle of the femur, choose the correct answer:",
+      "options": [
+        "Used as a point to draw the surface anatomy of the popliteal artery.",
+        "Gives attachment to the medial ligament of the knee joint.",
+        "Gives attachment to the adductor brevis muscle.",
+        "At the lower end of medial supracondylar line."
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "The lower epiphyseal plate of the femur:",
+      "options": [
+        "Is the rapidly growing end of the femur.",
+        "Is closed earlier than the upper epiphyseal plate.",
+        "Passes through the linea aspera of the femur.",
+        "The nutrient foramen is directed to it."
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "Regarding the knee joint:",
+      "options": [
+        "The tendon of popliteus muscle is intracapsular, intrasynovial.",
+        "The popliteus muscle locks the knee joint at the beginning of flexion.",
+        "Lateral meniscus is more liable to injury than the medial meniscus.",
+        "Locking of the joint occurs at the end of extension."
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "Regarding the knee joint, the following is true:",
+      "options": [
+        "Its lateral meniscus is damaged more frequently than the medial.",
+        "Its lateral meniscus is attached to the lateral collateral ligament.",
+        "Rupture of its anterior cruciate ligament results in excessive backward movement of tibia on femur.",
+        "Stability of joint depends largely on tone of quadriceps femoris muscle."
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "The following is inside the knee joint:",
+      "options": [
+        "Tendon of biceps femoris muscle.",
+        "Cruciate ligaments.",
+        "Semimembranosus bursa.",
+        "Collateral ligaments."
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "Tibial collateral ligament of the knee extends from medial epicondyle of femur to:",
+      "options": [
+        "Lateral condyle of the tibia.",
+        "Medial condyle of the tibia.",
+        "Articular capsule.",
+        "Neck of the fibula."
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "Regarding ligaments of knee joint, mark the correct statement:",
+      "options": [
+        "The ligamentum patellae replaces capsule in its anterior and lower part.",
+        "Lateral collateral ligament is attached to lateral meniscus.",
+        "Medial collateral ligament is not attached to the medial meniscus.",
+        "In rupture of anterior cruciate ligament, there is excessive backward movement of tibia on femur."
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "In a locked knee which of following ligaments becomes taut:",
+      "options": [
+        "Fibular collateral.",
+        "Tibial collateral.",
+        "Anterior cruciate.",
+        "Posterior cruciate."
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "Common football injury in the knee joint is rupture of:",
+      "options": [
+        "Fibular collateral ligament.",
+        "Posterior cruciate ligament.",
+        "Plantar aponeurosis.",
+        "Medial meniscus."
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "Regarding the patella, choose the correct answer:",
+      "options": [
+        "It gives attachment to the quadriceps tendon to its upper part and ligamentum patellae to the lower part.",
+        "Its displacement in the medial direction is prevented by the large medial condyle of the femur.",
+        "It is separated from the skin by a fascia liable to swelling.",
+        "It receives lower horizontal fibers of the adductor longus forming patellar retinaculum."
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "The bone that fractures in over-eversion is the:",
+      "options": [
+        "Lateral malleolus.",
+        "Calcaneum.",
+        "Medial malleolus.",
+        "Inferior margin of lower end of tibia."
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "The primary weight support at the ankle joint is provided by:",
+      "options": [
+        "Fibula and tibia.",
+        "Tibia and calcaneus.",
+        "Calcaneus and navicular.",
+        "Tibia and talus."
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "Which statement is true regarding the ankle joint:",
+      "options": [
+        "It is strengthened laterally by the deltoid ligament.",
+        "It is a condylar joint.",
+        "It is formed by the articulation of the talus and the distal ends of the tibia and fibula.",
+        "It is most stable in the fully plantar-flexed position."
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "Movements of flexion and extension of the foot occur in the following joint:",
+      "options": [
+        "Subtalar joint.",
+        "Talocalcaneonavicular joint.",
+        "Mid tarsal joint.",
+        "Ankle joint."
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "The deltoid ligament; mark the correct answer:",
+      "options": [
+        "Lies on the lateral aspect of the ankle joint.",
+        "Attached inferiorly to the spring ligament.",
+        "Is rather a weak ligament.",
+        "Is quadrilateral in shape."
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "Which ligament limits extension of the hip joint:",
+      "options": [
+        "Iliofemoral.",
+        "Pubofemoral.",
+        "Ischiofemoral.",
+        "Round ligament of the head."
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "In injuries of the knee, the medial meniscus is frequently torn because it is firmly attached to:",
+      "options": [
+        "Anterior cruciate ligament.",
+        "Fibular collateral ligament.",
+        "Tibial collateral ligament.",
+        "Patellar ligament"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "The thickest and strongest ligament of the hip joint is the:",
+      "options": [
+        "Ischiofemoral.",
+        "Ilio-femoral.",
+        "Pubo-femoral.",
+        "Transverse acetabular ligament."
+      ],
+      "correctAnswerIndex": 1
+    }
+  ],
+  "Bones of Lower Limb": {
+    "Femur": [
+      {
+        "questionText": "When sitting, the weight of the body is supported by:",
+        "options": [
+          "Pubic arch",
+          "Femoral condyles",
+          "Ischeal tuberosity",
+          "Body ofischeum"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "The highest point of the iliac crest is palpable at the level of which of the Vertebrae:",
+        "options": [
+          "12th thoracic",
+          "2nd lumbar",
+          "4th lumbar",
+          "1st sacral",
+          "5th sacral"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "Greater trochanter of femur provides insertion to:",
+        "options": [
+          "Gluteus medius",
+          "Gluteus minimus",
+          "Piriformis",
+          "All of the above"
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "questionText": "The following structures are attached to the intertrochanteric line of femur, Except:",
+        "options": [
+          "Capsule of hip joint",
+          "Iliofemoral ligament",
+          "Vastus lateralis",
+          "Quadratus femoris"
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "questionText": "All of the following muscles have a major attachment to the linea aspera Except the:",
+        "options": [
+          "Adductor magnus",
+          "Short head of biceps femoris",
+          "Vastus lateralis",
+          "Iliopsoas"
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "questionText": "All the following ligaments attach to lower end of femur Except:",
+        "options": [
+          "Tibial collateral",
+          "Fibular collateral",
+          "Crucial ligaments",
+          "Capsular ligament of knee joint"
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "questionText": "The adductor tubercle of femur is located on its:",
+        "options": [
+          "Greater trochanter",
+          "Medial condyle",
+          "Lateral condyle",
+          "Intertochanteric crest"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "In the adult, the chief arterial supply to the head of femur is from:",
+        "options": [
+          "Superficial circumflex iliac artery",
+          "Obturator artery",
+          "Medial circumflex femoral artery",
+          "Deep external pudendal artery",
+          "Inferior gluteal artery"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "Attached to the head of femur is:",
+        "options": [
+          "Lacunar ligament",
+          "Sacrotuberous ligament",
+          "Iliofemoral ligament",
+          "Transverse acetabular ligament"
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "questionText": "Popliteal surface of femur gives attachment to:",
+        "options": [
+          "Popliteus",
+          "Medial head of gastrocnemius",
+          "All of the above"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "Tibia and Fibula": [
+      {
+        "questionText": "All the following regarding tibia are true Except:",
+        "options": [
+          "It is the lateral and stronger bone of the leg",
+          "It is the longest bone excepting the femur",
+          "It gives attachment to sartorius",
+          "It gives attachment to popliteus and semimembranosus"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "As regards tibial tuberosity, all are true Except:",
+        "options": [
+          "Lies at upper end of anterior border of tibia",
+          "Has upper smooth & lower rough areas",
+          "Ligamentum patellae attaches to its rough part",
+          "Is palpable"
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "questionText": "The following structures pass behind the medial malleolus Except:",
+        "options": [
+          "Tibialis anterior",
+          "Flexor digitorum longus",
+          "Posterior tibial vessels",
+          "Posterior tibial nerve",
+          "Flexor hallucis longus"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Regarding fibula, all are true Except.:",
+        "options": [
+          "It is the lateral bone of the leg",
+          "It is not directly involved in weight transmission",
+          "styloid process projects from its lower end",
+          "Its lateral aspect of lateral malleolus is subcutaneous"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "The fibula gives attachment to the following muscles Except:",
+        "options": [
+          "Soleus",
+          "Biceps femoris",
+          "Flexor hallucis longus",
+          "Flexor digitorum longus",
+          "Tibialis posterior"
+        ],
+        "correctAnswerIndex": 3
+      }
+    ],
+    "Patella": [
+      {
+        "questionText": "Bony prominences on which you kneel:",
+        "options": [
+          "Femoral condyle",
+          "Patella",
+          "Tibial condyles",
+          "Intercondylar eminences of tibia",
+          "Tibial tuberosity"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "Regarding the patella, all statements are true Except:",
+        "options": [
+          "It is a sesamoid bone",
+          "It develops in the tendon of biceps femoris",
+          "Its posterior surface is smooth",
+          "At its apex, ligameutum patellae is attached"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "The patella is located in the tendon of which of the following muscles?:",
+        "options": [
+          "Adductor magnus",
+          "Sartorius",
+          "Semitendinosus",
+          "Quadratus femoris",
+          "Quadriceps femoris"
+        ],
+        "correctAnswerIndex": 4
+      },
+      {
+        "questionText": "The patella articulates with:",
+        "options": [
+          "Tibia",
+          "Fibula",
+          "Femur",
+          "A & B only",
+          "All of the above"
+        ],
+        "correctAnswerIndex": 2
+      }
+    ],
+    "Foot Bones": [
+      {
+        "questionText": "Which of the following statements is correct regarding the tarsal bones?:",
+        "options": [
+          "Cuboid lies medially in the foot",
+          "Calcaneus is the smallest tarsal bone",
+          "Navicular lies just in front of the cuneiforms",
+          "Cuneiforms lie lateral to cuboid",
+          "Talus lies above calcaneus"
+        ],
+        "correctAnswerIndex": 4
+      },
+      {
+        "questionText": "The tarsal bone forming the heel is:",
+        "options": [
+          "Talus",
+          "Navicular",
+          "Calcaneus",
+          "Cuboid",
+          "Medial cuneiform"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "The tarsal bone that transmits body weight from tibia to all other weight-bearing bones of the foot is:",
+        "options": [
+          "Talus",
+          "Navicular",
+          "Calcaneus",
+          "Cuboid",
+          "Medial cuneiform"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "The talus articulates with all the following bones Except:",
+        "options": [
+          "Tibia",
+          "Calcaneus",
+          "Navicular",
+          "Fibula",
+          "Cuboid"
+        ],
+        "correctAnswerIndex": 4
+      },
+      {
+        "questionText": "Number of tarsal bones articulating with the five metatarsals:",
+        "options": [
+          "Two",
+          "Three",
+          "Four",
+          "Five",
+          "Seven"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "Sesamoid bones in the foot are found in:",
+        "options": [
+          "Flexor hallucis longus",
+          "Flexor hallucis brevis",
+          "Flexor digitorum brevis",
+          "Flexor digitorum longus",
+          "Quadratus plantae"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "Which of the following is not a bone of the foot:",
+        "options": [
+          "The talus",
+          "The calcaneus",
+          "The navicular",
+          "The cuboid",
+          "The scaphoid"
+        ],
+        "correctAnswerIndex": 4
+      },
+      {
+        "questionText": "The following bones help to form the medial longitudinal arch of the foot Except:",
+        "options": [
+          "Talus",
+          "Calcaneus",
+          "The three cuneiform bones",
+          "Cuboid",
+          "Navicular"
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "questionText": "The cuboid is grooved by the tendon of:",
+        "options": [
+          "Peroneus longus",
+          "Peroneus brevis",
+          "Flexor hallucis longus",
+          "Tibialis posterior",
+          "Peroneus tertius"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "The medial longitudinal arch of the foot is supported by:",
+        "options": [
+          "Tibialis anterior",
+          "Flexor hallucis longus",
+          "The 'spring' ligament",
+          "The plantar aponeurosis",
+          "All of the above"
+        ],
+        "correctAnswerIndex": 4
+      },
+      {
+        "questionText": "The 'keystone' of the medial longitudinal arch of the foot is:",
+        "options": [
+          "Head of talus",
+          "Calcaneus",
+          "First metatarsal base",
+          "Navicular",
+          "Cuboid"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Regarding the arches of the foot, all the following are correct statements, Except:",
+        "options": [
+          "The head of talus is the 'keystone' in the center of the medial longitudinal arch",
+          "Flat foot is produced by the depression of the arches",
+          "The cuboid is the 'keystone' in the center of the lateral longitudinal arch",
+          "In young child the foot appears to be flat"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "Following are important factors in maintaining arches of the foot, Except:",
+        "options": [
+          "Medial longitudinal arch is supported by abductor hallucis",
+          "Lateral longitudinal arch is supported by tibialis posterior",
+          "Abductor digiti minimi supports the lateral longitudinal arch",
+          "Tendon of peroneus longus supports the transverse arch"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "Number of tarsal bones articulating with the five metatarsals:",
+        "options": [
+          "Two",
+          "Three",
+          "Four",
+          "Five",
+          "Seven"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "The medial boundary of the femoral ring is:",
+        "options": [
+          "Pectineus muscle",
+          "Symphysis pubis",
+          "Lacunar ligament",
+          "Pectineal ligament",
+          "Femoral vein"
+        ],
+        "correctAnswerIndex": 2
+      }
+    ]
+  }
+}

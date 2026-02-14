@@ -1,0 +1,2056 @@
+{
+  "General Embryology": {
+    "Gametogenesis": [
+      {
+        "questionText": "All the following definitions ate correct except:",
+        "options": [
+          "Gametogenesis, means process of formation of functioning gametes.",
+          "Fertilization, means process of union of the 2 gametes to form zygote.",
+          "Gastrulation, means formation of the primitive embryonic layers.",
+          "Segmentation, is division of embryonic layers to form blastocyst.",
+          "Organogenesis, means the formation of different body organs."
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "questionText": "All the following structures have habloid number of chromosomes except:",
+        "options": [
+          "1ry oocyte.",
+          "2ry oocyte.",
+          "1st polar body.",
+          "2nd polar body.",
+          "Mature ovum."
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Process of gametogenesis includes all the following steps except:",
+        "options": [
+          "Proliferation of the primitive germ cells by repeated mitotic divisions.",
+          "Fusion of the corresponding chromosomes to increase genetic material.",
+          "Growth of the primitive germ cells to increase their sizes.",
+          "Maturation of the primitive germ cells by meiotic divisions.",
+          "Additional process of spermiogenesis added in males."
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "Regarding spermato genesis, all the following statements are true except:",
+        "options": [
+          "It includes all steps of transformation of spermatogonia into sperma.",
+          "It starts just before puberty.",
+          "Its site is in both testes.",
+          "Its duration is about 60-64 days.",
+          "It passes in 4 stages."
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "The following are the different parts of sperm except:",
+        "options": [
+          "Head \"nucleusracrosome\".",
+          "Neck \"short distance below\".",
+          "Body \"middle piece\".",
+          "Tail \"3 pieces\".",
+          "Tail \"2 pieces\"."
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "questionText": "The seminal fluid is characterized by all the following except:",
+        "options": [
+          "The normal amount of each ejaculate is about 3-5 C.C.",
+          "Each ejaculate contains 100-150 million sperms.",
+          "The seminal secretions are from \"seminal vesicle 60%, bulbo-urethral gland 10% & prostate gland 30%\".",
+          "It is alkaline in reaction due to its fructose & vitamin c.",
+          "Spermatic viability is about 2-4 days & abnormal forms not exceed 20%"
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "questionText": "All the following cells have 23 chromosomes except:",
+        "options": [
+          "1ry spermatocytes.",
+          "2ry spermatocytes.",
+          "Spermatids.",
+          "Mature sperms.",
+          "Double tailed sperms."
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "All the following cells have 46 chromosomes except:",
+        "options": [
+          "Sertoli cells.",
+          "Mothergonia cells.",
+          "Daughter gonia cells.",
+          "1ry spermatocytes.",
+          "2ry spermatocytes."
+        ],
+        "correctAnswerIndex": 4
+      },
+      {
+        "questionText": "Usually one spermatogonium gives:",
+        "options": [
+          "One sperm.",
+          "two sperms.",
+          "Three sperms",
+          "Four sperms",
+          "Five sperms"
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "questionText": "The sperms usually pass through all the following ducts except:",
+        "options": [
+          "Vasa efferentia.",
+          "Head of epididymis.",
+          "Tail of epididymis.",
+          "Vas deferens.",
+          "Seminal vesicle,"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "Regarding the process of oogenesis, one statement is false:",
+        "options": [
+          "Starts during fetal life, contiues after pubertity & after fertilization,",
+          "In fetal life \"at 3rd month\", the oogonia will form 1ry oocytes.",
+          "Its site is in the cortex of the ovary,",
+          "Number of 1ry oocytes for each ovary at birth is 700,000-2,000,000.",
+          "At puberty 1ry oocytes reached 150 meiotic divisions."
+        ],
+        "correctAnswerIndex": 4
+      },
+      {
+        "questionText": "All the followings are postpubertal oogenetic changes except:",
+        "options": [
+          "Follicular cells proliferate to form stratum granulosum.",
+          "Zona pellucida appeared separating the 1ry oocyte from granulosa cells,",
+          "stromal cells arranged into 2 theca layers \"interna & externa\"",
+          "Follicular antrum appears dividing follicular cells into 3 partitions.",
+          "With each ovarian cycle, only one follicle reaches full maturity."
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "questionText": "For the mature ovum, one statement is false:",
+        "options": [
+          "Its shape is oval & size is 120-150 micron in diameter.",
+          "Its inner layer is thin vitelline membrane.",
+          "Then there is the previtelline space.",
+          "Then tlere is zona pellucida.",
+          "Lastly, theca interna layer."
+        ],
+        "correctAnswerIndex": 4
+      },
+      {
+        "questionText": "Regarding formation of sperms.",
+        "options": [
+          "Starts at birth and stopped at old age.",
+          "Starts at birth and stopped at puberty.",
+          "Starts at puberty and continues till old age.",
+          "Starts at old age and continues till death."
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "Regarding oogenesis.",
+        "options": [
+          "Starts at puberty and continues till menopause.",
+          "Starts at birth and continues till menopause.",
+          "Starts at birth and continues till puberty.",
+          "Starts in the intra-uterine life; then arrested to be continued at puberty."
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "questionText": "One of the following parts of sperm is responsible for production of energy",
+        "options": [
+          "Mitochondrial sheath.",
+          "Nucleus.",
+          "Acrosomal cap.",
+          "Tail."
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Movement of the sperm depends on",
+        "options": [
+          "Acrosomal cap and tail.",
+          "Mitochondrial sheath and tail.",
+          "Head and mitochondrial sheath.",
+          "Head and acrosomal cap."
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "Sperm receptors are present on",
+        "options": [
+          "Zona pellucida.",
+          "Corona radiata.",
+          "Cell membrane.",
+          "Nuclear membrane."
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "........... Is the outer cover of the mature ovum",
+        "options": [
+          "Zona pellucida.",
+          "Cell membrane.",
+          "Corona radiata.",
+          "Nuclear membrane."
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "Regarding the sperm, one of the following statements is correct:",
+        "options": [
+          "Its length is about 6 microns.",
+          "The nucleus carries 22 autosomes and either X- or Y-chromosome.",
+          "It starts formation at birth.",
+          "Acrosomal cap covers most of the middle piece."
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "Regarding the ovum, one of the following statements is correct:",
+        "options": [
+          "Its diameter is about 12 microns.",
+          "The nucleus carries 22 autosomes and either X- or Y-chromosome.",
+          "It starts development at puberty.",
+          "Corona radiata is the outer cover of the ovum."
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "questionText": "Which of the following cells contains a haploid number of chromosomes?",
+        "options": [
+          "Primordial germ cells.",
+          "Somatic skin cell.",
+          "Sperm.",
+          "Zygote."
+        ],
+        "correctAnswerIndex": 2
+      }
+    ],
+    "Female Cycles": [
+      {
+        "questionText": "Regarding ovulation, all statements are true except:",
+        "options": [
+          "Its usual onset is on the 14th day of menstrual cycle.",
+          "Its usual signs are middle pain with mild raise of basal temperature.",
+          "At its start 1st reduction divisions occurs leading to 2ry oocyte.",
+          "At ovulation mature follicle ruptured to release mature ovum.",
+          "The mature ovum will be surrounded with a layer of corona radiata."
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "For the follicular stage of ovarian cycle all are true except:",
+        "options": [
+          "It starts after birth & repeated every 28 days till menopause.",
+          "its site is the cortex of the ovary, under the effect of FSH hormone.",
+          "it includes all growth changes in follicular cells till mature follicle.",
+          "The follicular cells & theca interna cells are the sources of estrogen hormone.",
+          "Estrogen hormone will stimulate pituitary gland to secrete LH."
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Regarding luteal phase of ovarian cycle, one statement is false",
+        "options": [
+          "It will follow ovulation & leading to formation of corpus luteum.",
+          "Corpus luteum will secrete progesterone & estrogen hormones.",
+          "With fertilization, HCG hormone leads to more growth of corpus luteum with an increase in its hormonal secretion.",
+          "Corpus luteum will continue functioning till placental formation.",
+          "Without fertilization corpus luteum turned into corpus heamoragicum then into corpus albicans."
+        ],
+        "correctAnswerIndex": 4
+      },
+      {
+        "questionText": "For uterine cycle, all are true except",
+        "options": [
+          "Includes rhythmic endometrial changes.",
+          "Has 4 stages.",
+          "Its classical duration is 28 days.",
+          "Controlled by ovarian hormones.",
+          "Starts from the end of bleeding of cycle till start of next cycle."
+        ],
+        "correctAnswerIndex": 4
+      },
+      {
+        "questionText": "For stage of menstruation of uterine cycle, one statement is false",
+        "options": [
+          "Its duration is 5 days.",
+          "Amount of blood lost is 50-70 C.C.",
+          "Formed of clotted blood & pieces of endometrium.",
+          "Endometrial thickness will be about 0.5 mm.",
+          "Cervical mucosa does not share in menstrual bleeding."
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "Regarding stages of repair & proliferation, all are true except",
+        "options": [
+          "Stage of repair lasts only 3 days while that of proliferation lasts 7 days.",
+          "In repair the bases of uterine glands divided to cover raw endometrium.",
+          "In proliferation, the uterine glands become longer, convoluted & loaded with secretion.",
+          "Both repair & proliferation are under the control of estrogen hormone.",
+          "The source of estrogen hormone is theca interna of Graffian follicle."
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "Concerning stage of secretion, one statement is false",
+        "options": [
+          "Its duration is from 17th day to 28th day of menstruation.",
+          "Its endometrium becomes thicker, soft & differentiated into 3 layers.",
+          "The uterine glands become more convoluted & full of secretion.",
+          "The spiral arteries become dilated & tortuous.",
+          "This stage is under control of estrogen, progesterone & LH hormones."
+        ],
+        "correctAnswerIndex": 4
+      },
+      {
+        "questionText": "All the following are steps of menstruation except",
+        "options": [
+          "It starts by sudden decrease in ovarian hormones by failed fertilization.",
+          "This will be followed by intermittent vascular constriction.",
+          "The 3 layers of endometrium will suffer from ischemia & shedded.",
+          "Blood begins to seep through the ruptured vascular wall.",
+          "Pieces of shedded endometrium with escaped blood form menstruation."
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "All the following are post-ovulatory changes except:",
+        "options": [
+          "The follicular cells will undergo lutinization by fat deposition.",
+          "After lutinization, progesterone hormone will be secreted.",
+          "With fertilization corpus luteum persisted till placental development.",
+          "Without fertilization the corpus luteum degenerates & fibrosed.",
+          "With fertilization 2ry meiosis is completed to get ovum & 1st polar body."
+        ],
+        "correctAnswerIndex": 4
+      }
+    ],
+    "Fertilization": [
+      {
+        "questionText": "For fertilization, all are true except:",
+        "options": [
+          "It means union of male& female gametes",
+          "Its aim is to form zygote.",
+          "May be external as in fish.",
+          "May be internal as in mammals.",
+          "Its site is medial end of uterine tube."
+        ],
+        "correctAnswerIndex": 4
+      },
+      {
+        "questionText": "Process of fertilization has all the following preparatory steps except:",
+        "options": [
+          "Sperms are inseminated into vagina.",
+          "Sperms reach uterine tube by uterine contraction.",
+          "The sperms undergo process of capacitation.",
+          "Before spermatic penetration, there is an acrosomal reaction.",
+          "Finally the sperms undergo its meiotic divisions."
+        ],
+        "correctAnswerIndex": 4
+      },
+      {
+        "questionText": "Regarding process of capacitation, all are true except:",
+        "options": [
+          "It means removing of the glycoprotein cover from the spermatic surface.",
+          "It occurs in the female genital tract.",
+          "It allows the occurrence of acrosomal reaction.",
+          "It is inhibited by the presence of progesterone hormone.",
+          "In-vitro fertilization doesn't need capacitation."
+        ],
+        "correctAnswerIndex": 4
+      },
+      {
+        "questionText": "All the following are steps of the process of fertilization Except:",
+        "options": [
+          "Phase \"1\", penetration of the corona radiate by hyaluronidase enzyme.",
+          "Phase\"2\", penetration of zona pellucida by different lysin enzymes.",
+          "The head of sperm becomes rounded to form male pronucleus.",
+          "Oocyte response, will complete 2nd reduction division.",
+          "Finally the sperm will release inhibitory substance preventing new penetration of new sperms."
+        ],
+        "correctAnswerIndex": 4
+      },
+      {
+        "questionText": "Fertilization will give the following results except:",
+        "options": [
+          "Restoration of diploid number of chromosomes.",
+          "Sex determination either male offspring or female offspring.",
+          "Starting process of implantation.",
+          "Transportation of the parent characters to the fetus.",
+          "Initiation of process of cleavage."
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "Capacitation of sperms occurs in:",
+        "options": [
+          "Vagina",
+          "Cervix",
+          "Fundus of the uterus",
+          "Medial 1/3 of the Fallopian tube"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Regarding the fertilization, one of the following is true:",
+        "options": [
+          "One sperm only penetrates the corona radiate",
+          "The fertilization is normally occurs in the medial third of uterine tube",
+          "Many sperms enter the ovum",
+          "it's the union of sperm and ovum to form the zygote"
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "questionText": "Fertilization occurs in the",
+        "options": [
+          "Fallopian tube.",
+          "Surface of ovary.",
+          "Uterine cavity.",
+          "Pelvic cavity."
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Sperm capacitation is",
+        "options": [
+          "Increase the amount of acrosomal enzymes.",
+          "Increase movement of the tail.",
+          "Decrease amount of the cytoplasm.",
+          "Removal of glycoprotein coat from the head of the sperm."
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "questionText": "Phase II of fertilization is",
+        "options": [
+          "Penetration of corona radiata.",
+          "Capacitation of sperms.",
+          "Penetration of cell membrane of ovum.",
+          "Penetration of zona pellucida."
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "questionText": "Phase III of fertilization is",
+        "options": [
+          "Penetration of corona radiata.",
+          "Capacitation of sperms.",
+          "Penetration of cell membrane of ovum.",
+          "Penetration of zona pellucida."
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "Zona reaction",
+        "options": [
+          "Is the sperm penetration of zona pellucida.",
+          "Occurs by release of lysosomal enzymes from cortical granules of the ovum.",
+          "Occurs after capacitation of the sperms.",
+          "Is the degeneration of zona pellucida."
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "Cortical and zona reactions occur",
+        "options": [
+          "After passage of sperms through corona radiate.",
+          "During sperm penetration of zona pellucida.",
+          "After entrance of the sperm to the cytoplasm of the ovum.",
+          "After formation of the zygote."
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "One of the following is a result of fertilization.",
+        "options": [
+          "Determination of sex.",
+          "Cortical and zona reaction.",
+          "Formation of male and female pronuclei.",
+          "Zygote nucleus contains haploid number of chromosomes."
+        ],
+        "correctAnswerIndex": 0
+      }
+    ],
+    "Implantation": [
+      {
+        "questionText": "The normal site of implantation is one of the following:",
+        "options": [
+          "Posterior wall of body.",
+          "Cervix.",
+          "Around internal OS.",
+          "Fundus of the uterus.",
+          "Uterine tube."
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "The implantation may have the following abnormal sites except:",
+        "options": [
+          "Ovarian.",
+          "Tubal",
+          "Placenta previa.",
+          "Vaginal.",
+          "Abdominal \"in the peritoneal cavity\""
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "questionText": "Placenta previa means implantation in:",
+        "options": [
+          "Uterine tube.",
+          "Abdominal cavity.",
+          "Outer surface of ovary.",
+          "lower uterine segment.",
+          "Middle part of vagina."
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "questionText": "Regarding decidua, all statements are true except:",
+        "options": [
+          "Decidua means the endometrium of the pregnant uterus.",
+          "Decidual reaction starts just after fertilization till before birth.",
+          "Decidual reaction includes growth & vaculation of stromal cells.",
+          "Decidual reaction includes vasodilatation of blood vessels.",
+          "Decidual reaction includes distension of uterine glands with secretion."
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "All the following are parts of decidua except:",
+        "options": [
+          "Decidua capsularis.",
+          "Decidua basalis.",
+          "Decidua parietalis.",
+          "\"a+b+c\"",
+          "\"a+c\""
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "questionText": "Regarding the process of implantation, all are true except:",
+        "options": [
+          "This is the process of embedding of the morula into the uterine wall.",
+          "Its normal site is the upper part of the body of the uterus.",
+          "It starts at the 6th day after fertilization.",
+          "The endometrium at this stage is turned into decidua.",
+          "It is completed at about 9th day after fertilization."
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "The process of implantation has all the following steps except:",
+        "options": [
+          "It starts by adhesion of blastocyte at its embryonic pole to endometrium.",
+          "The trophoblast differentiated into outer syncytiotrophblast & inner cytotrophoblast.",
+          "The outer layer starts to erode the underlying endometrium.",
+          "The blastocyst gradually embed inside the endometrium.",
+          "The uterine hole is completely closed by uterine tissues."
+        ],
+        "correctAnswerIndex": 4
+      },
+      {
+        "questionText": "At which stage of development does a fertilized ovum undergo implantation.",
+        "options": [
+          "cell stage-2",
+          "cell stage-4",
+          "Blastocyst",
+          "Morula"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "Implantation is completed about the ............ day after fertilization.",
+        "options": [
+          "8th",
+          "9th",
+          "10th",
+          "11th"
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "questionText": "The normal site of implantation is in........ of the uterus.",
+        "options": [
+          "in the uterine tube",
+          "Lower part of the anterior wall of the body",
+          "Upper part of the posterior wall near the fundus",
+          "Lower part posterior wall of the body"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "Regarding implantation",
+        "options": [
+          "It starts at the 9th day of pregnancy.",
+          "Chorionic vesicle is the stage that starts implantation.",
+          "It occurs at the upper part of the posterior wall of uterine cavity.",
+          "Implantation cavity is formed through the action of proteolytic enzymes produced from embryonic disc."
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "Placenta previa",
+        "options": [
+          "Is the implantation of blastocyst in the lower segment of uterine cavity.",
+          "Is the implantation of blastocyst in the uterine tube.",
+          "Is the implantation of blastocyst at the surface of ovary.",
+          "Is the implantation of blastocyst in the pelvic cavity."
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Decidua basalis",
+        "options": [
+          "It is the post-implantation endometrium at the lower segment of uterine cavity.",
+          "It is the covering of blastocyst after implantation.",
+          "It is the part of endometrium between the implanted blastocyst and myometrium.",
+          "It is the endometrium that lines uterine cavity."
+        ],
+        "correctAnswerIndex": 2
+      }
+    ],
+    "Placenta": [
+      {
+        "questionText": "Full term placenta has all the following features except:",
+        "options": [
+          "Its shape is flattened disc \"discoid\".",
+          "Its diameter is 15-25 cm while its thickness is 3 cm.",
+          "Its weight is about 1000-1200 gm.",
+          "Its inner fetal surface is smooth.",
+          "Its outer maternal surface is irregular & formed of 15-20 cotyledons."
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "The following are different steps of formation of chorionic villi except:",
+        "options": [
+          "The 2 layers of trophoblast will proliferate to form processes.",
+          "These processes \"1ry villi\" are separated by lacunae of maternal blood.",
+          "A core of 1ry mesoderm invades these processes to form 2ry villi.",
+          "Fetal vessels will be formed within the core to form 3ry villi.",
+          "some of these villi appear more developed & called chorion leave"
+        ],
+        "correctAnswerIndex": 4
+      },
+      {
+        "questionText": "Placenta will develop from all the following layers except:",
+        "options": [
+          "Deciduacapsularis.",
+          "Syncytiotrhoblast.",
+          "Decidua basalis.",
+          "Cytotrophoblast.",
+          "1ry mesoderm."
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Placental barrier in 1st 1/2 of pregnancy has the following layers except:",
+        "options": [
+          "Syncytiotrophoblast.",
+          "Cytotrophoblast.",
+          "1ry mesoderm.",
+          "2ry mesoderm.",
+          "Endothelium of fetal vessels."
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "questionText": "Regarding the normal placenta at birth, one of the following is FALSE:",
+        "options": [
+          "its weight is 500 gram",
+          "its diameter is 20 cm",
+          "umbilical cord is attached to its margin",
+          "its thickness is 3 cm"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "Placenta is derived from:",
+        "options": [
+          "Chorion leave and decidua basalis",
+          "Chorion frondosum and decidua basalis",
+          "Decidua basalis and amnion",
+          "Decidua basalis and chorion"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "Regarding the placental (decidual) septa:",
+        "options": [
+          "They are composed of chorion frondosum.",
+          "They are extensions from decidual plate.",
+          "They are fixed to the chorionic plate.",
+          "They contain maternal blood vessels."
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "Placental barrier is the separation between:",
+        "options": [
+          "Fetal and maternal surfaces of placenta.",
+          "Chorionic and decidual plates of placenta.",
+          "Cytotrophoblastic shell and intervillous spaces.",
+          "Fetal and maternal blood inside placenta."
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "questionText": "Late placental barrier is composed of:",
+        "options": [
+          "Syncytiotrophoblast and cytotrophoblast.",
+          "Syncytiotrophoblast and endothelium of fetal blood vessels.",
+          "Cytotrophoblast and extraembryonic mesoderm.",
+          "Cytotrophoblast and endothelium of blood vessels."
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "One of the following is correct regarding the functions of placenta:",
+        "options": [
+          "It allows the passage of maternal antibodies.",
+          "It prevents passage of gases.",
+          "It doesn't produce progesterone hormone.",
+          "It prevents the passage of all viruses."
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Thin and wide placenta is known as:",
+        "options": [
+          "Placenta membranacea.",
+          "Placenta increta.",
+          "Velamentous placenta.",
+          "Accessory placenta."
+        ],
+        "correctAnswerIndex": 0
+      }
+    ],
+    "Postnatal Development": [
+      {
+        "questionText": "All the following are different postnatal periods \" in order\" except:",
+        "options": [
+          "Fetal period.",
+          "Infancy period.",
+          "Childhood period.",
+          "Puberty period.",
+          "Adulthood period."
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "All the following are postnatal maturation steps except:",
+        "options": [
+          "1ry oocytes kept at rest till puberty by the effect of OMI substance.",
+          "At puberty follicular cells will proliferate to form granulosa cells.",
+          "Stroma cells of ovarian cortex will condense to form sheath \" theca\".",
+          "Theca extrna is the main source of estrogen hormone.",
+          "Follicular antrum separates stratum granulosum from cumulus layer."
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "Fetal period starts at the beginning of:",
+        "options": [
+          "2nd month.",
+          "3rd month.",
+          "4th month.",
+          "5th month."
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "The weight of fetus at full term ranges between:",
+        "options": [
+          "900 - 1300 grams.",
+          "1400 - 2100 grams.",
+          "3000 - 3400 grams.",
+          "4600 - 5300 grams."
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "At full term, the head of the fetus represents about:",
+        "options": [
+          "1/5 of the CH length.",
+          "1/6 of the CH length.",
+          "1/3 of the CH length.",
+          "1/4 of the CH length."
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "questionText": "Fetal movements are clearly recognized starting from:",
+        "options": [
+          "The 5th month.",
+          "The 6th month.",
+          "The 7th month.",
+          "The 8th month."
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Duration of pregnancy is about:",
+        "options": [
+          "246 days.",
+          "256 days.",
+          "266 days.",
+          "236 days."
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "The risky gestational period ranges between:",
+        "options": [
+          "3rd to 8th week.",
+          "3rd to 4th month.",
+          "3rd to 8th month.",
+          "3rd to 4th week."
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Fetal movements are normally perceived by the mother starting from:",
+        "options": [
+          "Third month.",
+          "Fifth month.",
+          "Seventh month.",
+          "Ninth month."
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "Blastocyst": [
+      {
+        "questionText": "Regarding the process of cleavage, all are true except:",
+        "options": [
+          "It means repeated divisions of the unicellular zygote by series of mitosis.",
+          "It starts immediately after fertilization.",
+          "The zygote moves towards uterine lumen by cilia of uterine tube.",
+          "After 3-4 days the zygote becomes morula of 8-16 blastomers.",
+          "Finally the zona pellucida disappears in the 9th day."
+        ],
+        "correctAnswerIndex": 4
+      },
+      {
+        "questionText": "The process of cleavage has the following results except:",
+        "options": [
+          "Increasing numbers of blastomers.",
+          "Decrease in size of each cell.",
+          "Differentiation of cells into outer trophoblast & inner cell mass.",
+          "Disappearance of zona pellucula.",
+          "starting formation of extra- embryonic mesoderm."
+        ],
+        "correctAnswerIndex": 4
+      },
+      {
+        "questionText": "The ............ forms after about 72 hours from fertilization and forms a solid cluster of 16 blastomeres.",
+        "options": [
+          "Morula",
+          "Oocyte",
+          "Blastocyst",
+          "Inner cell mass"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Regarding morula",
+        "options": [
+          "It is formed in uterine tube within 3 days after formation of zygote.",
+          "It is formed after degeneration of zona pellucida.",
+          "It contains a cavity.",
+          "It is the stage that starts implantation."
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "One of the following is true about blastocyst",
+        "options": [
+          "It has no cavity.",
+          "It starts implantation by its abembryonic pole.",
+          "It is formed 3 days after formation of the zygote.",
+          "Its inner cell mass is called embryoblast."
+        ],
+        "correctAnswerIndex": 3
+      }
+    ],
+    "Trophoblast And Extraembryonic mesoderm": [
+      {
+        "questionText": "Regarding the 1ry mesoderm, all are true except:",
+        "options": [
+          "It is loose cellular tissue separates amnion & yolk sac from trophoblast.",
+          "It arises from syncytium of the trophoblastic",
+          "The outer layer is parietal layer of extra-embryonic mesoderm.",
+          "The inner layer is visceral layer of extra-embryonic mesoderm."
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "For the formation of chorion, one statement is false:",
+        "options": [
+          "Chorionic plate is formed of the trophoplast & somatic layer of EEM.",
+          "The blastcyst at this stage is called chorionic vesicle.",
+          "Connecting stalk connects cranial end of embryonic disc to chorion.",
+          "By expansion of amniotic cavity, chorion & EE coelom obliterated.",
+          "Through connecting stalk foetal blood passes from placenta to embryo."
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "The following are different steps embryonic disc except:",
+        "options": [
+          "The blastocyst differentiated into outer trophoblast & inner cell mass.",
+          "The outer trophoblast shares in the formation of chorionic plate.",
+          "The inner cell mass also differentiated into 2 layers.",
+          "The superior layer has a large irregular ectodermal cells \"epiblast\".",
+          "The inferior layer is single low columnar mesodermal cells \"hypoblast\""
+        ],
+        "correctAnswerIndex": 4
+      },
+      {
+        "questionText": "Formation of extra- embryonic mesoderm has the following steps except:",
+        "options": [
+          "It arises from sites of meeting of trophoblast with exocelomic membrane",
+          "It fills the space between the trophoblast & the bivesicular body.",
+          "Small cavities appear within it then fuse to form EE coelom.",
+          "Extra-embryonic coelom will completely surround the bivesicular body.",
+          "EE coelom divides the mesoderm into outer somatopleure & inner splanchopleure."
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "questionText": "Formation of EE mesoderm leads into the following changes except:",
+        "options": [
+          "The yolk sac decreases in size to form 2ry yolk sac.",
+          "The allantois projects from the yolk sac to the connecting stalk.",
+          "The trophoblast unites with the somatopleure to form the amnion.",
+          "The embryonic disc is at first rounded then becomes oval."
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "Trophoblastic lacunae appears in the:",
+        "options": [
+          "Cytotrophoblast",
+          "Syncytiotrophoblast",
+          "Extraembryonic splanchnic mesoderm",
+          "Extraembryonic somatic mesoderm"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "Secondary chorionic villus is formed of:",
+        "options": [
+          "Cytotrophoblast only",
+          "Syncytiotrophoblast only",
+          "Cytotrophoblast and Syncytiotrophoblast only",
+          "Cytotrophoblast, syncytiotrophoblast, and somatic mesoderm"
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "questionText": "Extraembryonic mesoderm communicates with",
+        "options": [
+          "Paraxial mesoderm.",
+          "Lateral plate mesoderm.",
+          "Intermediate mesoderm.",
+          "Neural plate."
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "Extraembryonic coelom communicates with",
+        "options": [
+          "Pericardium.",
+          "Pleura.",
+          "Peritoneal canals.",
+          "Digestive tract."
+        ],
+        "correctAnswerIndex": 2
+      }
+    ],
+    "Primitive node, streak and notochord": [
+      {
+        "questionText": "Gastrulation is",
+        "options": [
+          "The formation of trilaminar embryonic disc.",
+          "The formation of bilaminar embryonic disc.",
+          "The formation of chorion and chorionic villi.",
+          "The start of the process of folding."
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Notochord is developed from",
+        "options": [
+          "The epiblast cells at the primitive streak.",
+          "The hypoblast cells.",
+          "Intraembryonic mesoderm.",
+          "Epiblast cells at the wall of primitive pit."
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Regarding the notochord",
+        "options": [
+          "It persists as the annulus fibrosus part of intervertebral disc.",
+          "It lies between cloacal and buccopharyngeal membrane.",
+          "It limits the head fold during folding of the embryonic disc.",
+          "It is formed during the second week of pregnancy."
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "Neurenteric canal is the communication between",
+        "options": [
+          "Amniotic and chorionic cavities.",
+          "Amniotic and yolk sac cavities.",
+          "Amniotic and uterine cavities.",
+          "Yolk sac and chorionic cavities."
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "Neurenteric canal is formed due to degeneration of",
+        "options": [
+          "Floor of notochordal canal and underlying endoderm.",
+          "Roof of notochordal canal and median endoderm.",
+          "Roof of notochordal canal with median ectoderm.",
+          "Buccopharyngeal membrane."
+        ],
+        "correctAnswerIndex": 0
+      }
+    ],
+    "Neural tube": [
+      {
+        "questionText": "Neural plate is a thickened median region of",
+        "options": [
+          "Endoderm.",
+          "Mesoderm.",
+          "Ectoderm.",
+          "Notochord."
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "Neural tube gives rise to",
+        "options": [
+          "Peripheral nerves.",
+          "Sensory, sympathetic and parasympathetic ganglia.",
+          "Suprarenal medulla.",
+          "Central nervous system."
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "questionText": "Regarding formation of the central nervous system, mark the correct statement:",
+        "options": [
+          "It is derived from ectoderm.",
+          "It is not induced by the underlying notochord.",
+          "The neural groove results from depression of the neural crest.",
+          "The first area of the neural tube to close is its caudal end."
+        ],
+        "correctAnswerIndex": 0
+      }
+    ],
+    "Intraembryonic mesoderm": [
+      {
+        "questionText": "Somite period in pregnancy extends from:",
+        "options": [
+          "10th day-18th day",
+          "20th day-30th day",
+          "40th day",
+          "50th day"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "The somites are formed from:",
+        "options": [
+          "Paraxial mesoderm.",
+          "Intermediate mesoderm.",
+          "Lateral plate mesoderm.",
+          "Splanchnic mesoderm."
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "The number of the somites on each side is:",
+        "options": [
+          "30.",
+          "42.",
+          "50.",
+          "60."
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "The somites differentiate into:",
+        "options": [
+          "Sclerotome; Myotome.",
+          "Sclerotome; Dermomyotome.",
+          "Dermatome; Myotome.",
+          "Dermatome; Sclerotome."
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "Intraembryonic mesoderm is formed between ectoderm and endoderm at",
+        "options": [
+          "Buccopharyngeal membrane.",
+          "Cloacal membrane.",
+          "On both sides of notochord and neural tube.",
+          "Median region between primitive pit and buccopharyngeal membrane."
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "Segmentation of somites starts at",
+        "options": [
+          "Occipital region.",
+          "Cervical region.",
+          "Thoracic region.",
+          "Lumbar region."
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "The age of an embryo with 16 pairs of somites is",
+        "options": [
+          "23 days.",
+          "24 days.",
+          "25 days.",
+          "26 days."
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "At the occipital region, the embryo has ............ somites.",
+        "options": [
+          "Four",
+          "Six",
+          "Three",
+          "Five"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Regarding sclerotome of somite.",
+        "options": [
+          "It is dorsolateral part of the somite.",
+          "It forms vertebral column.",
+          "It forms skeletal muscles behind vertebral column.",
+          "It forms three meninges around spinal cord."
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "Intraembryonic coelom gives rise to",
+        "options": [
+          "Serous sacs of the body.",
+          "Respiratory tract.",
+          "Digestive tract.",
+          "Heart."
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Smooth muscles of gut are developed from",
+        "options": [
+          "Splanchnic intraembryonic mesoderm.",
+          "Somatic intraembryonic mesoderm.",
+          "Myotomes of paraxial mesoderm.",
+          "Intermediate mesoderm."
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "One of the following is a derivative of intra-embryonic mesoderm",
+        "options": [
+          "Lining epithelium of intestine.",
+          "Urogenital system.",
+          "Central nervous system.",
+          "Connecting stalk."
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "Folding": [
+      {
+        "questionText": "Regarding the folding of the embryo, one of the following is FALSE:",
+        "options": [
+          "The embryo is surrounded by the yolk sac",
+          "There is a head fold and tail fold",
+          "There are 2 lateral folds",
+          "the embryonic disc become cylindrical"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Folding is completed by the end of.......... week of pregnancy.",
+        "options": [
+          "4th",
+          "8th",
+          "9th",
+          "7th"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Folding of the embryonic disc occurs at ............ week of pregnancy",
+        "options": [
+          "Second",
+          "Third",
+          "Fourth",
+          "Fifth"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "Tail fold of the embryo is limited by",
+        "options": [
+          "Notochord.",
+          "Primitive streak.",
+          "Yolk sac.",
+          "Amniotic cavity."
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "After folding, the most cranial structure in the head fold is",
+        "options": [
+          "Buccopharyngeal membrane.",
+          "Cloacal membrane.",
+          "Septum transversum.",
+          "Pericardium."
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Before folding, the most cranial structure in the head fold is",
+        "options": [
+          "Buccopharyngeal membrane.",
+          "Cloacal membrane.",
+          "Septum transversum.",
+          "Pericardium."
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "Before folding, the most caudal structure in the tail fold is",
+        "options": [
+          "Cloacal membrane.",
+          "Primitive streak.",
+          "Primitive node.",
+          "Connecting stalk."
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "questionText": "After folding, the most caudal structure at tail fold is",
+        "options": [
+          "Primitive streak.",
+          "Cloacal membrane.",
+          "Connecting stalk.",
+          "Buccopharyngeal membrane."
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "Regarding the stomodeum",
+        "options": [
+          "It is lined with ectoderm.",
+          "It is separated from foregut by cloacal membrane.",
+          "It separates between Forebrain bulge and primitive umbilical ring.",
+          "It is formed before folding of the embryonic disc."
+        ],
+        "correctAnswerIndex": 0
+      }
+    ],
+    "Derivatives of germ layers": [
+      {
+        "questionText": "The source of the three germ layers is",
+        "options": [
+          "Hypoblast.",
+          "Epiblast.",
+          "Extraembryonic mesoderm.",
+          "Cytotrophoblast."
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "Sensory, sympathetic and parasympathetic ganglia are developed from",
+        "options": [
+          "Neural crest.",
+          "Neural tube.",
+          "Surface ectoderm.",
+          "Intraembryonic mesoderm."
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Epidermis of skin is derived from",
+        "options": [
+          "Neural crest.",
+          "Neural tube.",
+          "Surface ectoderm.",
+          "Intraembryonic mesoderm."
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "Parenchyma of the liver is developed from",
+        "options": [
+          "Endoderm.",
+          "Ectoderm.",
+          "Neural crest.",
+          "Intraembryonic mesoderm."
+        ],
+        "correctAnswerIndex": 0
+      }
+    ],
+    "Foetal membranes": [
+      {
+        "questionText": "The normal volume of the amniotic fluid at birth is:",
+        "options": [
+          "ml 300",
+          "ml 500",
+          "ml 700",
+          "ml 1000"
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "questionText": "Definitive yolk sac is connected with midgut through ........",
+        "options": [
+          "Connecting stalk.",
+          "Vitelline duct.",
+          "Allantois.",
+          "Hindgut."
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "Early amniotic cavity separates between:",
+        "options": [
+          "Amnioblast and cytotrophoblast.",
+          "Amnioblast and epiblast.",
+          "Amnioblast and hypoblast.",
+          "Amnioblast and yolk sac."
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "Expansion of amniotic cavity will lead to:",
+        "options": [
+          "Formation of secondary yolk sac.",
+          "Formation of connecting stalk.",
+          "Formation of amniochorionic membrane.",
+          "Formation of neural tube."
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "The earliest source of amniotic fluid is:",
+        "options": [
+          "Epiblast.",
+          "Diffusion from fetal blood.",
+          "Fetal urinary system.",
+          "Amnioblast."
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "questionText": "One of the following conditions may lead to oligohydramnios:",
+        "options": [
+          "Renal agenesis.",
+          "Maternal diabetes.",
+          "Fetal esophageal atresia.",
+          "Fetal anencephaly."
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Polyhydramnios is the increase of the volume of amniotic fluid to be more than ........ liters.",
+        "options": [
+          "One",
+          "Two",
+          "Three",
+          "Four"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "Heuser's membrane lines the:",
+        "options": [
+          "Definitive yolk sac.",
+          "Primary yolk sac.",
+          "Secondary yolk sac.",
+          "Vitelline duct."
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "Allantois is a dorsal extension from:",
+        "options": [
+          "Secondary yolk sac.",
+          "Amniotic cavity.",
+          "Chorionic cavity.",
+          "Primary yolk sac."
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Yolk sac shares in the formation of:",
+        "options": [
+          "Foregut, midgut and hindgut.",
+          "Kidneys.",
+          "Forebrain, midbrain and hindbrain.",
+          "Spleen."
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Volume of amniotic fluid at full term ranges between:",
+        "options": [
+          "1000 - 1500 ml.",
+          "500 - 600 ml.",
+          "2000 - 3000 ml.",
+          "800 - 1000 ml."
+        ],
+        "correctAnswerIndex": 0
+      }
+    ],
+    "Umbilical cord": [
+      {
+        "questionText": "Regarding the normal umbilical cord at birth, one of the following is FALSE:",
+        "options": [
+          "It contains mucoid connective tissue Wharton jelly",
+          "it contains one umbilical artery",
+          "it contains one umbilical vein",
+          "it connects the fetus with the placenta"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "The length of the normal umbilical cord at birth is:",
+        "options": [
+          "cm 30",
+          "cm 40",
+          "cm 50",
+          "cm 80"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "Regarding the primitive umbilical ring:",
+        "options": [
+          "It is surrounded with amniochorionic membrane.",
+          "It contains definitive yolk sac.",
+          "It contains vitelline duct.",
+          "It contains loops of intestine."
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "Physiological hernia occurs when a loop of intestine is present in the:",
+        "options": [
+          "Abdominal cavity.",
+          "Primitive umbilical ring.",
+          "Primitive umbilical cord.",
+          "Definitive umbilical cord."
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "Definitive umbilical cord contains:",
+        "options": [
+          "Two umbilical arteries.",
+          "Two umbilical veins.",
+          "Vitelline duct.",
+          "Loop of intestine."
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Abnormally long umbilical cord may lead to:",
+        "options": [
+          "Formation of false knots.",
+          "Early separation of placenta during delivery.",
+          "Strangulation of the baby during delivery.",
+          "Adhesion between the fetus with the wall of uterus."
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "Marginal attachment of umbilical cord to the placenta is known as:",
+        "options": [
+          "Battle-door placenta.",
+          "Velamentous placenta.",
+          "Placenta previa.",
+          "Placenta accreta."
+        ],
+        "correctAnswerIndex": 0
+      }
+    ],
+    "Twins": [
+      {
+        "questionText": "All the followings are different types of mosters '''conjoint twins''' except:",
+        "options": [
+          "Craniopagus.",
+          "Thoracopagus.",
+          "Xiphphagus.",
+          "Pygopagus.",
+          "Omphalocele."
+        ],
+        "correctAnswerIndex": 4
+      },
+      {
+        "questionText": "Regarding the dizygotic twin, which statement is true?",
+        "options": [
+          "Are non-identical in shape.",
+          "Always of same sex.",
+          "Has a common amnion.",
+          "Has a common chorion."
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Regarding monozygotic twins, which statement is true?",
+        "options": [
+          "Is the commonest type.",
+          "Twins are always of same sex.",
+          "Are non-identical in shape.",
+          "Are developed by fertilization of two ova."
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "Chromosomal anomalies": [
+      {
+        "questionText": "Down syndrome most commonly results from:",
+        "options": [
+          "Nondisjunction leading to trisomy 21",
+          "Deletion of the short arm of chromosome 5",
+          "Translocation between chromosomes 13 and 14",
+          "Triploidy from dispermy"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "The karyotype 45,X is diagnostic of:",
+        "options": [
+          "Klinefelter syndrome",
+          "Turner syndrome",
+          "Edwards syndrome",
+          "Patau syndrome"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "Cri-du-chat syndrome is caused by:",
+        "options": [
+          "Deletion of the short arm of chromosome 5",
+          "Trisomy 18",
+          "Triploidy",
+          "Monosomy X"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Which of the following chromosomal abnormalities is typically associated with a male phenotype and infertility?",
+        "options": [
+          "47,XXY",
+          "45,X",
+          "47,XXX",
+          "47,XYY"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Advanced maternal age primarily increases the risk of:",
+        "options": [
+          "Trisomies caused by meiotic nondisjunction",
+          "Balanced reciprocal translocations",
+          "Point mutations in mitochondrial DNA",
+          "Y chromosome microdeletions"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Down syndrome is due to:",
+        "options": [
+          "Trisomy 15",
+          "Trisomy 17",
+          "Trisomy 13",
+          "Trisomy 21"
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "questionText": "Cri-du-chat syndrome is due to:",
+        "options": [
+          "Partial deletion of short arm of chromosome 5",
+          "Partial deletion of long arm of chromosome 5",
+          "Partial deletion of short arm of chromosome 15",
+          "Partial deletion of long arm of chromosome 15"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Regarding Turner syndrome, which statement is true?",
+        "options": [
+          "Occurs only in males.",
+          "Somatic cells contain 47 chromosomes.",
+          "Has XO sex chromosomes.",
+          "Has normal genital system."
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "Regarding Klinefelter syndrome, which statement is true?",
+        "options": [
+          "Occurs only in females.",
+          "Somatic cells contain 47 chromosomes.",
+          "Has XO sex chromosomes.",
+          "Has normal genital system."
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "Down syndrome occurs due to:",
+        "options": [
+          "Extra chromosome 13",
+          "Partial deletion of long arm of chromosome 15",
+          "Partial deletion of short arm of chromosome 5",
+          "Extra chromosome 21"
+        ],
+        "correctAnswerIndex": 3
+      }
+    ]
+  },
+  "General Embryology Collection": [
+    {
+      "questionText": "Capacitation of sperms occurs in?",
+      "options": [
+        "Ovary",
+        "Medial 1/3 of the Fallopian tube",
+        "Vagina",
+        "Uterus"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "Regarding fertilization, one of the following is true.",
+      "options": [
+        "One sperm only penetrates the corona radiata",
+        "The fertilization normally occurs in the medial third of the uterine tube",
+        "Many sperms enter the ovum",
+        "It is the union of sperm and ovum to form the zygote"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "Trophoblastic lacunae appear in the?",
+      "options": [
+        "Cytotrophoblast",
+        "Syncytiotrophoblast",
+        "Extraembryonic splanchnic mesoderm",
+        "Extraembryonic somatic mesoderm"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "Somite period in pregnancy extends from?",
+      "options": [
+        "10th day - 19th day",
+        "20th day - 30th day",
+        "40th day",
+        "50th day"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "The somites are formed from?",
+      "options": [
+        "Paraxial mesoderm",
+        "Intermediate mesoderm",
+        "Lateral plate mesoderm",
+        "Splanchnic mesoderm"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "The number of the somites on each side is?",
+      "options": [
+        "30",
+        "42",
+        "50",
+        "60"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "Regarding the normal umbilical cord at birth, one of the following is FALSE.",
+      "options": [
+        "It contains mucoid connective tissue (Wharton jelly)",
+        "It contains one umbilical artery",
+        "It contains one umbilical vein",
+        "It connects the fetus with the placenta"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "Regarding the folding of the embryo, one of the following is FALSE.",
+      "options": [
+        "The embryo is surrounded by the yolk sac",
+        "There is a head fold and a tail fold",
+        "There are two lateral folds",
+        "The embryonic disc becomes cylindrical"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "Regarding the normal placenta at birth, one of the following is FALSE.",
+      "options": [
+        "Its weight is 500 gram",
+        "Its diameter is 20 cm",
+        "Umbilical cord is attached to its margin",
+        "Its thickness is 3 cm"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "Placenta is derived from?",
+      "options": [
+        "Chorion laeve and decidua basalis",
+        "Chorion frondosum and decidua basalis",
+        "Decidua basalis and amnion",
+        "Decidua basalis and chorion"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "Secondary chorionic villus is formed of?",
+      "options": [
+        "Cytotrophoblast only",
+        "Syncytiotrophoblast only",
+        "Cytotrophoblast and syncytiotrophoblast only",
+        "Cytotrophoblast, syncytiotrophoblast, and somatic mesoderm"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "The stage that forms a solid cluster of 16 blastomeres about 72 hours after fertilization is the?",
+      "options": [
+        "Morula",
+        "Oocyte",
+        "Blastocyst",
+        "Inner cell mass"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "At which stage of development does a fertilized ovum undergo implantation?",
+      "options": [
+        "2-cell stage",
+        "4-cell stage",
+        "Blastocyst",
+        "Morula"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "The normal volume of the amniotic fluid at birth is?",
+      "options": [
+        "500 mL",
+        "600 mL",
+        "700 mL",
+        "1000 mL"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "The somites differentiate into?",
+      "options": [
+        "Sclerotome; Myotome",
+        "Sclerotome; Dermomyotome",
+        "Dermatome; Myotome",
+        "Dermatome; Sclerotome"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "Implantation is completed about the ........ day after fertilization.",
+      "options": [
+        "8th",
+        "9th",
+        "10th",
+        "11th"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "The normal site of implantation is in ........ of the uterus.",
+      "options": [
+        "In the uterine tube",
+        "Lower part of the anterior wall of the body",
+        "Upper part of the posterior wall near the fundus",
+        "Lower part posterior wall of the body"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "The length of the normal umbilical cord at birth is?",
+      "options": [
+        "30 cm",
+        "40 cm",
+        "50 cm",
+        "80 cm"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "Folding is completed by the end of ........ week of pregnancy.",
+      "options": [
+        "4th",
+        "6th",
+        "8th",
+        "9th"
+      ],
+      "correctAnswerIndex": 0
+    }
+  ],
+  "Head & Neck Embryology": {
+    "Neural tube": [
+      {
+        "questionText": "Neural plate is a thickened median region of",
+        "options": [
+          "Endoderm.",
+          "Mesoderm.",
+          "Ectoderm.",
+          "Notochord."
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "Neural tube gives rise to",
+        "options": [
+          "Peripheral nerves.",
+          "Sensory, sympathetic and parasympathetic ganglia.",
+          "Suprarenal medulla.",
+          "Central nervous system."
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "questionText": "Regarding formation of the central nervous system, mark the correct statement:",
+        "options": [
+          "It is derived from ectoderm.",
+          "It is not induced by the underlying notochord.",
+          "The neural groove results from depression of the neural crest.",
+          "The first area of the neural tube to close is its caudal end."
+        ],
+        "correctAnswerIndex": 0
+      }
+    ],
+    "Primitive node, streak and notochord": [
+      {
+        "questionText": "Gastrulation is",
+        "options": [
+          "The formation of trilaminar embryonic disc.",
+          "The formation of bilaminar embryonic disc.",
+          "The formation of chorion and chorionic villi.",
+          "The start of the process of folding."
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Notochord is developed from",
+        "options": [
+          "The epiblast cells at the primitive streak.",
+          "The hypoblast cells.",
+          "Intraembryonic mesoderm.",
+          "Epiblast cells at the wall of primitive pit."
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Regarding the notochord",
+        "options": [
+          "It persists as the annulus fibrosus part of intervertebral disc.",
+          "It lies between cloacal and buccopharyngeal membrane.",
+          "It limits the head fold during folding of the embryonic disc.",
+          "It is formed during the second week of pregnancy."
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "Neurenteric canal is the communication between",
+        "options": [
+          "Amniotic and chorionic cavities.",
+          "Amniotic and yolk sac cavities.",
+          "Amniotic and uterine cavities.",
+          "Yolk sac and chorionic cavities."
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "Neurenteric canal is formed due to degeneration of",
+        "options": [
+          "Floor of notochordal canal and underlying endoderm.",
+          "Roof of notochordal canal and median endoderm.",
+          "Roof of notochordal canal with median ectoderm.",
+          "Buccopharyngeal membrane."
+        ],
+        "correctAnswerIndex": 0
+      }
+    ],
+    "Folding": [
+      {
+        "questionText": "Regarding the folding of the embryo, one of the following is FALSE:",
+        "options": [
+          "The embryo is surrounded by the yolk sac",
+          "There is a head fold and tail fold",
+          "There are 2 lateral folds",
+          "the embryonic disc become cylindrical"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Folding is completed by the end of.......... week of pregnancy.",
+        "options": [
+          "4th",
+          "8th",
+          "9th",
+          "7th"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Folding of the embryonic disc occurs at ............ week of pregnancy",
+        "options": [
+          "Second",
+          "Third",
+          "Fourth",
+          "Fifth"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "Tail fold of the embryo is limited by",
+        "options": [
+          "Notochord.",
+          "Primitive streak.",
+          "Yolk sac.",
+          "Amniotic cavity."
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "After folding, the most cranial structure in the head fold is",
+        "options": [
+          "Buccopharyngeal membrane.",
+          "Cloacal membrane.",
+          "Septum transversum.",
+          "Pericardium."
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Before folding, the most cranial structure in the head fold is",
+        "options": [
+          "Buccopharyngeal membrane.",
+          "Cloacal membrane.",
+          "Septum transversum.",
+          "Pericardium."
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "Before folding, the most caudal structure in the tail fold is",
+        "options": [
+          "Cloacal membrane.",
+          "Primitive streak.",
+          "Primitive node.",
+          "Connecting stalk."
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "questionText": "After folding, the most caudal structure at tail fold is",
+        "options": [
+          "Primitive streak.",
+          "Cloacal membrane.",
+          "Connecting stalk.",
+          "Buccopharyngeal membrane."
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "Regarding the stomodeum",
+        "options": [
+          "It is lined with ectoderm.",
+          "It is separated from foregut by cloacal membrane.",
+          "It separates between Forebrain bulge and primitive umbilical ring.",
+          "It is formed before folding of the embryonic disc."
+        ],
+        "correctAnswerIndex": 0
+      }
+    ],
+    "Derivatives of germ layers": [
+      {
+        "questionText": "The source of the three germ layers is",
+        "options": [
+          "Hypoblast.",
+          "Epiblast.",
+          "Extraembryonic mesoderm.",
+          "Cytotrophoblast."
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "Sensory, sympathetic and parasympathetic ganglia are developed from",
+        "options": [
+          "Neural crest.",
+          "Neural tube.",
+          "Surface ectoderm.",
+          "Intraembryonic mesoderm."
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Epidermis of skin is derived from",
+        "options": [
+          "Neural crest.",
+          "Neural tube.",
+          "Surface ectoderm.",
+          "Intraembryonic mesoderm."
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "Parenchyma of the liver is developed from",
+        "options": [
+          "Endoderm.",
+          "Ectoderm.",
+          "Neural crest.",
+          "Intraembryonic mesoderm."
+        ],
+        "correctAnswerIndex": 0
+      }
+    ]
+  }
+}

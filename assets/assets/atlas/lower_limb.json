@@ -1,0 +1,37 @@
+[
+  {
+    "id": "femur",
+    "label_en": "Femur",
+    "label_ar": "عظم الفخذ",
+    "storage_path": "femur",
+    "description": "High-yield AP, lateral, and anatomical landmarks of the femur."
+  },
+  {
+    "id": "patella",
+    "label_en": "Patella",
+    "label_ar": "الرضفة",
+    "storage_path": "patella",
+    "description": "Patella surfaces, attachments, and common injury views."
+  },
+  {
+    "id": "tibia_fibula",
+    "label_en": "Tibia & Fibula",
+    "label_ar": "الظنبوب والشظية",
+    "storage_path": "tibia & fibula",
+    "description": "Key cortices, malleoli, and shaft sections for tibia/fibula."
+  },
+  {
+    "id": "tarsal",
+    "label_en": "Tarsal",
+    "label_ar": "عظام الرصغ",
+    "storage_path": "tarsal",
+    "description": "Tarsal bone orientations and joint relations."
+  },
+  {
+    "id": "metatarsal_phalanges",
+    "label_en": "Metatarsal & Phalanges",
+    "label_ar": "مشط القدم والسلاميات",
+    "storage_path": "metatarsal & phalanges",
+    "description": "Forefoot bones with common angles and surgical approaches."
+  }
+]

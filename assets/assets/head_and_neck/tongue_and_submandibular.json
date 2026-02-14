@@ -1,0 +1,132 @@
+[
+  {
+    "questionText": "Which of the following muscles has a dual nerve supply:",
+    "options": [
+      "Lateral pterygoid",
+      "Digastric",
+      "Temporalis",
+      "Mylohyoid"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Protrusion of the tongue is brought out by:",
+    "options": [
+      "Genioglossus",
+      "Intrinsic muscles of the tongue",
+      "Styloglossus",
+      "Palatoglossus"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "Which of the following cranial nerves carries the pain sensation from the tip of tongue:",
+    "options": [
+      "Mandibular nerve",
+      "Lingual nerve",
+      "Glossopharyngeal nerve",
+      "Vagus nerve"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Which of the following cranial nerves carry taste sensation from anterior 2/3 of the tongue:",
+    "options": [
+      "Trochlear nerve",
+      "Facial nerve",
+      "Vagus nerve",
+      "Accessory nerve"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "The muscles forming the floor of the submandibular triangle are the hyoglossus and:",
+    "options": [
+      "Sternohyoid",
+      "Mylohyoid",
+      "Geniohyoid",
+      "Thyrohyoid"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Structure passing deep to the hyoglossus muscle:",
+    "options": [
+      "Glossopharyngeal nerve",
+      "Hypoglossal nerve",
+      "Submandibular duct",
+      "Lingual artery"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "One of the following structures lies deep to the mylohyoid muscle:",
+    "options": [
+      "External jugular vein",
+      "Sublingual salivary gland",
+      "Internal carotid artery",
+      "Anterior belly of digastric muscle"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Regarding the glossopharyngeal nerve; select the false statement:",
+    "options": [
+      "It supplies the stylopharyngeus muscle.",
+      "It supplies the hyoglossus muscle.",
+      "It supplies the posterior 1/3 of the tongue.",
+      "It supplies the mucosa of the oropharynx."
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "The muscle that protrudes the tongue to the opposite side:",
+    "options": [
+      "Hyoglossus",
+      "Genioglossus",
+      "Styloglossus",
+      "Palatoglossus"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "In hypoglossal nerve paralysis all of the following occur EXCEPT:",
+    "options": [
+      "Deviation of the tongue to the paralyzed side",
+      "Atrophy of the tongue muscles on the affected side",
+      "Difficulty in swallowing",
+      "Loss of taste sensation on the anterior two-thirds of the tongue"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Which muscle can retract and elevate the tongue?",
+    "options": [
+      "Genioglossus",
+      "Hyoglossus",
+      "Styloglossus",
+      "Palatoglossus"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Which of the following statements about the lingual nerve is FALSE?",
+    "options": [
+      "It is a branch of the mandibular division of the trigeminal nerve",
+      "It carries taste fibers from the anterior two-thirds of the tongue",
+      "It is joined by the chorda tympani nerve",
+      "It supplies general sensation to the anterior two-thirds of the tongue"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "The preganglionic parasympathetic fibers in the chorda tympani nerve have their cell bodies located in the:",
+    "options": [
+      "Geniculate ganglion",
+      "Superior salivatory nucleus",
+      "Inferior salivatory nucleus",
+      "Submandibular ganglion"
+    ],
+    "correctAnswerIndex": 1
+  }
+]

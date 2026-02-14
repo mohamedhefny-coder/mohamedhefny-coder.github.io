@@ -1,0 +1,870 @@
+{
+  "RES. Collection": [
+    {
+      "questionText": "Regarding the lateral wall of the nose, which is TRUE?",
+      "options": [
+        "The middle meatus contains the hiatus semilunaris",
+        "The sphenoidal air sinus opens into the middle meatus",
+        "It shows four conchae",
+        "Posterior ethmoidal air sinus opens at the inferior meatus"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "Regarding the phrenic nerves, which statement is TRUE?",
+      "options": [
+        "Each phrenic nerve begins in the thorax",
+        "The left phrenic nerve pierces the central tendon of the diaphragm",
+        "It arises from C3, C4 and C5 spinal roots",
+        "The right phrenic supplies motor fibers to the esophagus"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "Regarding the trachea, which statement is FALSE?",
+      "options": [
+        "Its length is about 10–12 cm",
+        "It descends in the superior mediastinum",
+        "It begins at the level of C6",
+        "It has 30 complete cartilaginous rings"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "The pleural cavity is the space between the:",
+      "options": [
+        "Costal and diaphragmatic pleura",
+        "Parietal and visceral pleura",
+        "Diaphragmatic and mediastinal pleura",
+        "Costal and mediastinal pleura"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "All muscles of the larynx are supplied by the recurrent laryngeal nerve EXCEPT:",
+      "options": [
+        "Thyroarytenoid",
+        "Cricothyroid",
+        "Posterior cricoarytenoid",
+        "Transverse arytenoid"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "The superior mediastinum contains all of the following EXCEPT:",
+      "options": [
+        "Trachea",
+        "Ascending aorta",
+        "Branches of the aortic arch",
+        "Thoracic duct"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "Which one of the following muscles can relax the vocal cords?",
+      "options": [
+        "Oblique arytenoid",
+        "Thyroarytenoid",
+        "Transverse arytenoid",
+        "Aryepiglottic"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "The mediastinal surface of the left lung is related to the following structures EXCEPT:",
+      "options": [
+        "Arch of azygos",
+        "Descending aorta",
+        "Left common carotid artery",
+        "Left ventricle"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "Which of the following about the surface anatomy of the pleura is FALSE?",
+      "options": [
+        "The posterior border has the same surface anatomy on right and left sides",
+        "The left pleura deviates to the left at the 4th costal cartilage",
+        "The cervical pleura has similar surface anatomy on both sides",
+        "Both pleurae cross the 10th rib at the midclavicular line"
+      ],
+      "correctAnswerIndex": 3
+    }
+  ],
+  "RES. Collection 2": [
+    {
+      "questionText": "The medial surface of the maxilla contains the opening of the:",
+      "options": [
+        "Frontal sinus",
+        "Maxillary sinus",
+        "Ethmoid sinus",
+        "Sphenoid sinus"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "The sphenopalatine foramen is located in the:",
+      "options": [
+        "Ethmoid bone",
+        "Palatine bone (perpendicular plate)",
+        "Maxilla",
+        "Lacrimal bone"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "Which of the following bones forms the most posterior part of the lateral nasal wall?",
+      "options": [
+        "Medial pterygoid plate",
+        "Ethmoidal labyrinth",
+        "Nasal bone",
+        "Lacrimal bone"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "The cricothyroid muscle is supplied by the:",
+      "options": [
+        "Recurrent laryngeal nerve",
+        "Internal laryngeal nerve",
+        "External laryngeal nerve",
+        "Glossopharyngeal nerve"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "All of the following muscles relax the vocal cords EXCEPT:",
+      "options": [
+        "Thyroarytenoid",
+        "Posterior part of vocalis",
+        "Cricothyroid",
+        "None of the above"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "Which nerve supplies sensation to the mucosa above the vocal cords?",
+      "options": [
+        "Recurrent laryngeal nerve",
+        "Internal laryngeal nerve",
+        "External laryngeal nerve",
+        "Phrenic nerve"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "The trachea begins at the level of:",
+      "options": [
+        "C3",
+        "C6",
+        "T1",
+        "T4"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "The trachea ends at the level of:",
+      "options": [
+        "T2",
+        "T3",
+        "T4/T5 (sternal angle)",
+        "T6"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "The trachea deviates slightly to the right at its lower end due to:",
+      "options": [
+        "Left subclavian artery",
+        "Arch of the aorta",
+        "Brachiocephalic vein",
+        "Right vagus nerve"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "The trachea is kept patent by:",
+      "options": [
+        "8–12 complete rings",
+        "16–20 C-shaped cartilaginous rings",
+        "Fibrous tissue bands",
+        "Smooth muscle fibers only"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "The right main bronchus forms an angle of approximately:",
+      "options": [
+        "15°",
+        "25°",
+        "35°",
+        "45°"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "Which of the following statements about the bronchi is FALSE?",
+      "options": [
+        "Right bronchus is shorter and wider.",
+        "Left bronchus is more horizontal.",
+        "Right bronchus divides into 2 lobar bronchi.",
+        "Left bronchus divides into 2 lobar bronchi."
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "The superior lobar bronchus of the right lung arises:",
+      "options": [
+        "Inside the hilum",
+        "Outside the hilum",
+        "At the tracheal bifurcation",
+        "From the left bronchus"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "Landmarks of the trachea are:",
+      "options": [
+        "Thyroid cartilage to sternal notch",
+        "Cricoid cartilage to sternal angle",
+        "Thyroid cartilage to sternal angle",
+        "Cricoid cartilage to sternal notch"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "The trachea:",
+      "options": [
+        "Bifurcates at a variable level according to respiration",
+        "Is supplied by the superior thyroid arteries",
+        "Is non elastic and is supported by cartilaginous rings",
+        "Is in contact with the recurrent laryngeal nerve on the right"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "The apex of the lung projects above the clavicle by:",
+      "options": [
+        "1 cm",
+        "2 cm",
+        "3 cm",
+        "5 cm"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "The anterior border of the left lung deviates at which costal cartilage to form the cardiac notch?",
+      "options": [
+        "2nd",
+        "3rd",
+        "4th",
+        "6th"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "The inferior border of the lung crosses the 8th rib in the:",
+      "options": [
+        "Midclavicular line",
+        "Midaxillary line",
+        "Paravertebral line",
+        "Sternal line"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "The oblique fissure corresponds to which landmark when the arm is raised?",
+      "options": [
+        "Clavicle",
+        "Sternocleidomastoid",
+        "Medial border of scapula",
+        "Inferior angle of scapula"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "The horizontal fissure is present in which lung?",
+      "options": [
+        "Left only",
+        "Right only",
+        "Both",
+        "Neither"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "How many bronchopulmonary segments are found in the right lung?",
+      "options": [
+        "8",
+        "9",
+        "10",
+        "12"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "How many bronchopulmonary segments are found in the left lung?",
+      "options": [
+        "6",
+        "8",
+        "9",
+        "10"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "Which of the following is NOT a segment of the right lower lobe?",
+      "options": [
+        "Medial basal",
+        "Superior basal",
+        "Lingular",
+        "Posterior basal"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "The left upper lobe contains which unique segments?",
+      "options": [
+        "Apicoposterior and lingular",
+        "Apical and medial basal",
+        "Superior and inferior basal",
+        "Lateral and posterior"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "Typical intercostal nerves are anterior primary rami of:",
+      "options": [
+        "1st–5th thoracic nerves",
+        "2nd–6th thoracic nerves",
+        "7th–12th thoracic nerves",
+        "Cervical spinal nerves"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "Which of the following is NOT a branch of typical intercostal nerves?",
+      "options": [
+        "Collateral branch",
+        "Lateral cutaneous branch",
+        "Anterior cutaneous branch",
+        "Musculophrenic branch"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "A patient with a pleural effusion is to undergo aspiration of fluid from the pleural space. From superficial to deep, identify the correct order of structures the needle must pass before it enters the pleural cavity:",
+      "options": [
+        "External intercostals - innermost intercostals - internal intercostals - parietal pleura",
+        "External intercostals - internal intercostals - parietal pleura - innermost intercostals",
+        "Parietal pleura - innermost intercostals - internal intercostals - external intercostals",
+        "External intercostals - internal intercostals - innermost intercostals - parietal pleura"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "With regard to intercostal spaces:",
+      "options": [
+        "The neurovascular bundle runs in plane between external intercostal and internal intercostal muscles",
+        "The upper two spaces are supplied by the supreme intercostal artery",
+        "The collateral branches of the intercostal artery and nerve run along the upper border of the rib",
+        "The collateral branch of the intercostal nerve supplies skin over the space"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "With regard to the thoracic wall:",
+      "options": [
+        "The intercostal vessels and nerves run between the external and internal intercostal muscles",
+        "The internal intercostals assist inspiration",
+        "Both the manubriosternal and xiphisternal joints are synovial with discs",
+        "The upper ribs have 'pump-handle' movement not 'bucket handle' movement"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "The diaphragm has how many main areas of origin?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "The central tendon of the diaphragm is:",
+      "options": [
+        "Quadrilateral",
+        "Circular",
+        "Trifoliate (one median + two lateral folia)",
+        "Fan-shaped"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "The median lobe of the central tendon is related to the:",
+      "options": [
+        "Liver",
+        "Stomach",
+        "Pericardium and heart",
+        "Esophagus"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "Motor innervation of the diaphragm is by:",
+      "options": [
+        "Intercostal nerves",
+        "Vagus nerve",
+        "Phrenic nerves (C3–C5)",
+        "Sympathetic trunk"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "Sensory innervation of the peripheral part of the diaphragm is from:",
+      "options": [
+        "Vagus nerves",
+        "Lower 6 thoracic spinal nerves",
+        "Cervical plexus",
+        "Glossopharyngeal nerve"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "All of the following provide sensory innervation to the diaphragm EXCEPT:",
+      "options": [
+        "Lower 6 thoracic nerves",
+        "Phrenic nerves",
+        "Intercostobrachial nerve",
+        "None of the above"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "Regarding the diaphragm:",
+      "options": [
+        "The aorta is transmitted through an opening in the left crus",
+        "The left dome may ascend to the 5th intercostal space",
+        "The phrenic nerve branches run medially on its thoracic surface",
+        "It receives its blood supply entirely from lower intercostal and subcostal arteries"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "Which of the following do not penetrate the diaphragm:",
+      "options": [
+        "Aorta",
+        "Inferior vena cava",
+        "Left phrenic nerve",
+        "Right phrenic nerve"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "With regard to the phrenic nerve:",
+      "options": [
+        "Its fibres are exclusively motor",
+        "It is predominantly sensory",
+        "The right phrenic nerve lies anterior to the right lung root",
+        "It divides into anterior posterior and medial divisions on the abdominal surface of the diaphragm"
+      ],
+      "correctAnswerIndex": 2
+    }
+  ],
+  "Nose": [
+    {
+      "questionText": "The medial surface of the maxilla contains the opening of the:",
+      "options": [
+        "Frontal sinus",
+        "Maxillary sinus",
+        "Ethmoid sinus",
+        "Sphenoid sinus"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "The sphenopalatine foramen is located in the:",
+      "options": [
+        "Ethmoid bone",
+        "Palatine bone (perpendicular plate)",
+        "Maxilla",
+        "Lacrimal bone"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "Which of the following bones forms the most posterior part of the lateral nasal wall?",
+      "options": [
+        "Medial pterygoid plate",
+        "Ethmoidal labyrinth",
+        "Nasal bone",
+        "Lacrimal bone"
+      ],
+      "correctAnswerIndex": 0
+    }
+  ],
+  "Larynx": [
+    {
+      "questionText": "The cricothyroid muscle is supplied by the:",
+      "options": [
+        "Recurrent laryngeal nerve",
+        "Internal laryngeal nerve",
+        "External laryngeal nerve",
+        "Glossopharyngeal nerve"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "All of the following muscles relax the vocal cords EXCEPT:",
+      "options": [
+        "Thyroarytenoid",
+        "Posterior part of vocalis",
+        "Cricothyroid",
+        "None of the above"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "Which nerve supplies sensation to the mucosa above the vocal cords?",
+      "options": [
+        "Recurrent laryngeal nerve",
+        "Internal laryngeal nerve",
+        "External laryngeal nerve",
+        "Phrenic nerve"
+      ],
+      "correctAnswerIndex": 1
+    }
+  ],
+  "Trachea & Bronchi": [
+    {
+      "questionText": "The trachea begins at the level of:",
+      "options": [
+        "C3",
+        "C6",
+        "T1",
+        "T4"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "The trachea ends at the level of:",
+      "options": [
+        "T2",
+        "T3",
+        "T4/T5 (sternal angle)",
+        "T6"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "The trachea deviates slightly to the right at its lower end due to:",
+      "options": [
+        "Left subclavian artery",
+        "Arch of the aorta",
+        "Brachiocephalic vein",
+        "Right vagus nerve"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "The trachea is kept patent by:",
+      "options": [
+        "8–12 complete rings",
+        "16–20 C-shaped cartilaginous rings",
+        "Fibrous tissue bands",
+        "Smooth muscle fibers only"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "The right main bronchus forms an angle of approximately:",
+      "options": [
+        "15°",
+        "25°",
+        "35°",
+        "45°"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "Which of the following statements about the bronchi is FALSE?",
+      "options": [
+        "Right bronchus is shorter and wider.",
+        "Left bronchus is more horizontal.",
+        "Right bronchus divides into 2 lobar bronchi.",
+        "Left bronchus divides into 2 lobar bronchi."
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "The superior lobar bronchus of the right lung arises:",
+      "options": [
+        "Inside the hilum",
+        "Outside the hilum",
+        "At the tracheal bifurcation",
+        "From the left bronchus"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "Landmarks of the trachea are:",
+      "options": [
+        "Thyroid cartilage to sternal notch",
+        "Cricoid cartilage to sternal angle",
+        "Thyroid cartilage to sternal angle",
+        "Cricoid cartilage to sternal notch"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "The trachea:",
+      "options": [
+        "Bifurcates at a variable level according to respiration",
+        "Is supplied by the superior thyroid arteries",
+        "Is non elastic and is supported by cartilaginous rings",
+        "Is in contact with the recurrent laryngeal nerve on the right"
+      ],
+      "correctAnswerIndex": 0
+    }
+  ],
+  "Pleura & Lung": [
+    {
+      "questionText": "The apex of the lung projects above the clavicle by:",
+      "options": [
+        "1 cm",
+        "2 cm",
+        "3 cm",
+        "5 cm"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "The anterior border of the left lung deviates at which costal cartilage to form the cardiac notch?",
+      "options": [
+        "2nd",
+        "3rd",
+        "4th",
+        "6th"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "The inferior border of the lung crosses the 8th rib in the:",
+      "options": [
+        "Midclavicular line",
+        "Midaxillary line",
+        "Paravertebral line",
+        "Sternal line"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "The oblique fissure corresponds to which landmark when the arm is raised?",
+      "options": [
+        "Clavicle",
+        "Sternocleidomastoid",
+        "Medial border of scapula",
+        "Inferior angle of scapula"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "The horizontal fissure is present in which lung?",
+      "options": [
+        "Left only",
+        "Right only",
+        "Both",
+        "Neither"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "How many bronchopulmonary segments are found in the right lung?",
+      "options": [
+        "8",
+        "9",
+        "10",
+        "12"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "How many bronchopulmonary segments are found in the left lung?",
+      "options": [
+        "6",
+        "8",
+        "9",
+        "10"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "Which of the following is NOT a segment of the right lower lobe?",
+      "options": [
+        "Medial basal",
+        "Superior basal",
+        "Lingular",
+        "Posterior basal"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "The left upper lobe contains which unique segments?",
+      "options": [
+        "Apicoposterior and lingular",
+        "Apical and medial basal",
+        "Superior and inferior basal",
+        "Lateral and posterior"
+      ],
+      "correctAnswerIndex": 0
+    }
+  ],
+  "Intercostal Space": [
+    {
+      "questionText": "Typical intercostal nerves are anterior primary rami of:",
+      "options": [
+        "1st–5th thoracic nerves",
+        "2nd–6th thoracic nerves",
+        "7th–12th thoracic nerves",
+        "Cervical spinal nerves"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "Which of the following is NOT a branch of typical intercostal nerves?",
+      "options": [
+        "Collateral branch",
+        "Lateral cutaneous branch",
+        "Anterior cutaneous branch",
+        "Musculophrenic branch"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "A patient with a pleural effusion is to undergo aspiration of fluid from the pleural space. From superficial to deep, identify the correct order of structures the needle must pass before it enters the pleural cavity:",
+      "options": [
+        "External intercostals - innermost intercostals - internal intercostals - parietal pleura",
+        "External intercostals - internal intercostals - parietal pleura - innermost intercostals",
+        "Parietal pleura - innermost intercostals - internal intercostals - external intercostals",
+        "External intercostals - internal intercostals - innermost intercostals - parietal pleura"
+      ],
+      "correctAnswerIndex": 3
+    },
+    {
+      "questionText": "With regard to intercostal spaces:",
+      "options": [
+        "The neurovascular bundle runs in plane between external intercostal and internal intercostal muscles",
+        "The upper two spaces are supplied by the supreme intercostal artery",
+        "The collateral branches of the intercostal artery and nerve run along the upper border of the rib",
+        "The collateral branch of the intercostal nerve supplies skin over the space"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "With regard to the thoracic wall:",
+      "options": [
+        "The intercostal vessels and nerves run between the external and internal intercostal muscles",
+        "The internal intercostals assist inspiration",
+        "Both the manubriosternal and xiphisternal joints are synovial with discs",
+        "The upper ribs have 'pump-handle' movement not 'bucket handle' movement"
+      ],
+      "correctAnswerIndex": 3
+    }
+  ],
+  "Diaphragm": [
+    {
+      "questionText": "The diaphragm has how many main areas of origin?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "The central tendon of the diaphragm is:",
+      "options": [
+        "Quadrilateral",
+        "Circular",
+        "Trifoliate (one median + two lateral folia)",
+        "Fan-shaped"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "The median lobe of the central tendon is related to the:",
+      "options": [
+        "Liver",
+        "Stomach",
+        "Pericardium and heart",
+        "Esophagus"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "Motor innervation of the diaphragm is by:",
+      "options": [
+        "Intercostal nerves",
+        "Vagus nerve",
+        "Phrenic nerves (C3–C5)",
+        "Sympathetic trunk"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "Sensory innervation of the peripheral part of the diaphragm is from:",
+      "options": [
+        "Vagus nerves",
+        "Lower 6 thoracic spinal nerves",
+        "Cervical plexus",
+        "Glossopharyngeal nerve"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "All of the following provide sensory innervation to the diaphragm EXCEPT:",
+      "options": [
+        "Lower 6 thoracic nerves",
+        "Phrenic nerves",
+        "Intercostobrachial nerve",
+        "None of the above"
+      ],
+      "correctAnswerIndex": 2
+    },
+    {
+      "questionText": "Regarding the diaphragm:",
+      "options": [
+        "The aorta is transmitted through an opening in the left crus",
+        "The left dome may ascend to the 5th intercostal space",
+        "The phrenic nerve branches run medially on its thoracic surface",
+        "It receives its blood supply entirely from lower intercostal and subcostal arteries"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "Which of the following do not penetrate the diaphragm:",
+      "options": [
+        "Aorta",
+        "Inferior vena cava",
+        "Left phrenic nerve",
+        "Right phrenic nerve"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "questionText": "With regard to the phrenic nerve:",
+      "options": [
+        "Its fibres are exclusively motor",
+        "It is predominantly sensory",
+        "The right phrenic nerve lies anterior to the right lung root",
+        "It divides into anterior posterior and medial divisions on the abdominal surface of the diaphragm"
+      ],
+      "correctAnswerIndex": 2
+    }
+  ],
+  "Mediastinum": [],
+  "Respiratory System": []
+}

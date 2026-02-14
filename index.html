@@ -1,14 +1,149 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>mohamedhefny-coder.github.io</title>
-  </head>
-  <body>
-    <h1>Site active</h1>
-    <p>app-ads.txt: <a href="/app-ads.txt">/app-ads.txt</a></p>
-    <p>ads.txt: <a href="/ads.txt">/ads.txt</a></p>
-    <p>Main app: <a href="/amazing_anatomy/">/amazing_anatomy/</a></p>
-  </body>
+<!DOCTYPE html>
+<html>
+<head>
+  <!--
+    If you are serving your web app in a path other than the root, change the
+    href value below to reflect the base path you are serving from.
+
+    The path provided below has to start and end with a slash "/" in order for
+    it to work correctly.
+
+    For more details:
+    * https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base
+
+    This is a placeholder for base href that will be replaced by the value of
+    the `--base-href` argument provided to `flutter build`.
+  -->
+  <base href="/">
+
+  <meta charset="UTF-8">
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+  <meta name="description" content="Amazing Anatomy - Interactive medical education app with 3D anatomical models, detailed diagrams, medical quizzes, and comprehensive anatomy learning tools for students and professionals.">
+  <meta name="keywords" content="anatomy, medical education, 3D models, human body, anatomy learning, medical diagrams, anatomy quizzes, medical knowledge">
+  <meta name="author" content="Amazing Anatomy">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <!-- Open Graph Tags for Social Sharing -->
+  <meta property="og:title" content="Amazing Anatomy - Interactive Medical Education">
+  <meta property="og:description" content="Learn human anatomy with interactive 3D models, detailed diagrams, and comprehensive quizzes.">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="icons/Icon-512.png">
+  <meta property="og:url" content="https://mohamedhefny-coder.github.io/amazing_anatomy/">
+  
+  <!-- Twitter Card Tags -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Amazing Anatomy - Interactive Medical Education">
+  <meta name="twitter:description" content="Learn human anatomy with interactive 3D models, detailed diagrams, and comprehensive quizzes.">
+  <meta name="twitter:image" content="icons/Icon-512.png">
+
+  <!-- iOS meta tags & icons -->
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="amazing_anatomy">
+  <link rel="apple-touch-icon" href="icons/Icon-192.png">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="favicon.png"/>
+
+  <title>amazing_anatomy</title>
+  <link rel="manifest" href="manifest.json">
+
+  <!-- Google AdSense Verification -->
+  <meta name="google-adsense-account" content="ca-pub-7873281923590934">
+
+  <!--
+    Important for AdSense policy compliance:
+    - Do NOT load AdSense globally on an otherwise-empty SPA shell.
+    - The web banner widget loads the AdSense library only when a banner is actually rendered.
+  -->
+
+  <style>
+    /* Lightweight, content-first shell while Flutter boots */
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      line-height: 1.5;
+      color: #111827;
+      background: #ffffff;
+    }
+    #static-shell {
+      max-width: 920px;
+      margin: 0 auto;
+      padding: 24px 18px 12px;
+    }
+    #static-shell h1 {
+      font-size: 28px;
+      margin: 0 0 8px;
+    }
+    #static-shell p {
+      margin: 8px 0;
+    }
+    #static-shell ul {
+      margin: 10px 0 0;
+      padding-left: 18px;
+    }
+    #static-shell .note {
+      margin-top: 14px;
+      font-size: 14px;
+      color: #4b5563;
+    }
+  </style>
+
+  <script>
+    // Unregister any cached service workers so GitHub Pages always serves the latest build.
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.getRegistrations().then((registrations) => {
+        registrations.forEach((registration) => registration.unregister());
+      }).catch((err) => {
+        console.warn('Service worker cleanup failed:', err);
+      });
+    }
+  </script>
+</head>
+<body>
+  <!-- Content-first shell so the page is not "empty" while the SPA boots. -->
+  <main id="static-shell">
+    <h1>Amazing Anatomy</h1>
+    <p>
+      Learn human anatomy with interactive 3D models, detailed diagrams, and
+      quizzes designed for medical students and healthcare professionals.
+    </p>
+    <ul>
+      <li>3D anatomical exploration</li>
+      <li>Diagrams and practical learning</li>
+      <li>Quizzes by system and topic</li>
+      <li>Medical terminology support</li>
+    </ul>
+    <p class="note">Loading the interactive web app…</p>
+  </main>
+
+  <noscript>
+    <main id="static-shell-noscript">
+      <h1>Amazing Anatomy</h1>
+      <p>
+        JavaScript is required to run the interactive web app. Please enable
+        JavaScript and reload.
+      </p>
+    </main>
+  </noscript>
+
+  <script>
+    // Hide the static shell once Flutter has rendered its first frame.
+    // This keeps human-readable content for crawlers and avoids "empty shell" issues.
+    (function () {
+      var hideShell = function () {
+        try {
+          var shell = document.getElementById('static-shell');
+          if (shell) shell.style.display = 'none';
+        } catch (_) {}
+      };
+
+      window.addEventListener('flutter-first-frame', hideShell, { once: true });
+      // Fallback: hide after a short delay if the event isn't fired.
+      setTimeout(hideShell, 8000);
+    })();
+  </script>
+  
+  <script src="flutter_bootstrap.js" async></script>
+</body>
 </html>

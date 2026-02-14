@@ -1,0 +1,22 @@
+[
+  {
+    "questionText": "Lateral rectus muscle of the eye is supplied by:",
+    "options": [
+      "Abducent nerve",
+      "Oculomotor nerve",
+      "Trochlear nerve",
+      "Lacrimal nerve"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "The superior oblique muscle of the eye is supplied by:",
+    "options": [
+      "Abducent nerve",
+      "Oculomotor nerve",
+      "Lacrimal nerve",
+      "Trochlear nerve"
+    ],
+    "correctAnswerIndex": 3
+  }
+]

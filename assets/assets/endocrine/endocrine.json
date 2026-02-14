@@ -1,0 +1,36 @@
+{
+  "Thyroid & Parathyroid": [
+    {
+      "questionText": "Which hormone is produced by the thyroid gland?",
+      "options": [
+        "Insulin",
+        "Thyroxine",
+        "Adrenaline",
+        "Glucagon"
+      ],
+      "correctAnswerIndex": 1
+    },
+    {
+      "questionText": "What is the primary function of the parathyroid gland?",
+      "options": [
+        "Regulate blood sugar",
+        "Regulate metabolism",
+        "Regulate calcium levels",
+        "Regulate heart rate"
+      ],
+      "correctAnswerIndex": 2
+    }
+  ],
+  "Suprarenal Gland": [
+    {
+      "questionText": "Regarding the suprarenal glands, one of the following is false:",
+      "options": [
+        "Left suprarenal vein ends in the left renal vein",
+        "The left suprarenal gland is triangular in shape",
+        "Superior suprarenal artery arises from the inferior phrenic artery",
+        "The right suprarenal gland is related to the right lobe of the liver"
+      ],
+      "correctAnswerIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,820 @@
+{
+  "Cardiovascular System": {
+    "Vessels of Lower Limb": [
+      {
+        "questionText": "Which vessel continues as the popliteal artery after passing through the adductor hiatus?",
+        "options": [
+          "Femoral artery",
+          "Profunda femoris artery",
+          "Anterior tibial artery",
+          "Posterior tibial artery"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "The profunda femoris artery mainly supplies which region of the lower limb?",
+        "options": [
+          "Anterior thigh compartment",
+          "Posterior thigh compartment",
+          "Medial thigh compartment",
+          "Gluteal region"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "Which vessel accompanies the saphenous nerve within the adductor canal?",
+        "options": [
+          "Femoral artery",
+          "Profunda femoris artery",
+          "Popliteal artery",
+          "Posterior tibial artery"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "The dorsalis pedis artery is a direct continuation of which artery?",
+        "options": [
+          "Anterior tibial artery",
+          "Posterior tibial artery",
+          "Peroneal artery",
+          "Popliteal artery"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Union of the anterior and posterior tibial veins forms which vein?",
+        "options": [
+          "Femoral vein",
+          "Popliteal vein",
+          "Great saphenous vein",
+          "Small saphenous vein"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "Which artery pierces the interosseous membrane to enter the anterior compartment of the leg?",
+        "options": [
+          "Anterior tibial artery",
+          "Posterior tibial artery",
+          "Fibular (peroneal) artery",
+          "Genicular artery"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "The small saphenous vein most commonly drains into which vessel?",
+        "options": [
+          "Great saphenous vein",
+          "Popliteal vein",
+          "Femoral vein",
+          "Anterior tibial vein"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "In the femoral sheath, which structure occupies the intermediate compartment?",
+        "options": [
+          "Femoral artery",
+          "Femoral vein",
+          "Femoral nerve",
+          "Deep inguinal lymph node"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "Concerning the dorsalis pedis artery, choose the correct answer.",
+        "options": [
+          "It is a continuation of the anterior tibial artery.",
+          "It enters the sole of the foot between the two heads of the second dorsal interosseous muscle.",
+          "It can be palpated on the dorsum of the foot between the tendons of tibialis anterior and extensor hallucis brevis muscles.",
+          "It joins the medial plantar artery."
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "The peroneal artery is a branch of which artery?",
+        "options": [
+          "Anterior tibial artery",
+          "Popliteal artery",
+          "Posterior tibial artery",
+          "Arcuate artery"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "In the adult, the chief arterial supply of the head of the femur is from:",
+        "options": [
+          "Obturator artery",
+          "Inferior gluteal artery",
+          "Deep external pudendal artery",
+          "Branches from medial and lateral circumflex femoral arteries"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "The plantar arterial arch is formed by the lateral plantar artery and:",
+        "options": [
+          "Medial plantar artery",
+          "Anterior tibial artery",
+          "Posterior tibial artery",
+          "Dorsalis pedis artery"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "Regarding the arteries of the lower limb, mark the correct answer:",
+        "options": [
+          "Pulsation can be readily felt from the medial plantar artery.",
+          "The femoral artery gives the lateral genicular branch.",
+          "The middle genicular artery is a branch of the femoral artery.",
+          "The head of the femur is supplied by the artery accompanying the ligamentum teres of the hip joint."
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "questionText": "The places where the arterial pulsation in the lower limb could be felt include:",
+        "options": [
+          "Femoral artery just below and lateral to the pubic tubercle.",
+          "Popliteal artery when the knee joint is fully flexed.",
+          "Posterior tibial artery below and behind the lateral malleolus.",
+          "Dorsalis pedis artery on the dorsum of the foot."
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "Regarding arteries of lower limb, choose the correct answer:",
+        "options": [
+          "Profunda femoris artery gives four genicular branches.",
+          "Posterior tibial artery enters the sole behind the lateral malleolus.",
+          "Dorsalis pedis artery is continuation of anterior tibial artery on the dorsum of the foot.",
+          "Plantar arch is mainly formed by the medial plantar artery."
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Regarding the veins of the lower limb, the following statement is correct:",
+        "options": [
+          "The great saphenous vein passes behind the medial malleolus.",
+          "The small saphenous vein passes in front of the lateral malleolus.",
+          "Perforating veins connect the great and small saphenous veins.",
+          "Perforating veins have valves directing blood flow from superficial to deep veins."
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "questionText": "Regarding veins of lower limb, the following statement is correct:",
+        "options": [
+          "They are devoid of valves.",
+          "The small saphenous vein drains into the great saphenous vein.",
+          "The femoral vein lies lateral to the femoral artery at the base of the femoral triangle.",
+          "The great saphenous vein pierces the cribriform fascia to enter the femoral vein."
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "questionText": "Regarding femoral artery, mark the correct statement:",
+        "options": [
+          "It lies medial to the femoral vein.",
+          "Its uppermost part is enclosed within the femoral sheath.",
+          "It enters the thigh at the midpoint of the inguinal ligament.",
+          "It passes behind the adductor longus in the adductor canal."
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "Regarding popliteal artery:",
+        "options": [
+          "It begins at the opening in the adductor canal.",
+          "It ends at the lower border of the adductor longus muscle.",
+          "Its pulsation can be felt while the knee is extended.",
+          "It gives five genicular branches."
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "questionText": "Regarding great saphenous vein, the following statements are true:",
+        "options": [
+          "It starts at the dorsal venous arch.",
+          "It passes behind the medial malleolus.",
+          "It empties into the femoral vein.",
+          "It has no valves."
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "Regarding the popliteal artery, select the correct statement:",
+        "options": [
+          "It lies superficial to the popliteal vein.",
+          "It is crossed anteriorly by the tibial nerve.",
+          "It terminates by dividing into anterior and posterior tibial arteries.",
+          "It ends at the upper border of the popliteus muscle."
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "Regarding the veins of the lower limb, choose the correct answer:",
+        "options": [
+          "Venae comitantes accompany the popliteal and femoral arteries.",
+          "The long saphenous vein ascends behind the medial malleolus.",
+          "Drainage of blood from deep veins is helped by contraction of calf muscles and arterial pulsation.",
+          "The perforating veins possess valves which direct the blood flow from the deep to superficial veins."
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "Regarding the popliteal artery, choose one correct statement:",
+        "options": [
+          "It ends at the level of the medial epicondyle of the femur.",
+          "It is deeper than the popliteal vein.",
+          "It gives no articular branch in the popliteal fossa.",
+          "It accompanies the lateral popliteal nerve in the popliteal fossa."
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "The most usual site for feeling pulsations of dorsalis pedis artery is:",
+        "options": [
+          "Just behind the medial malleolus.",
+          "Just behind the lateral malleolus.",
+          "In the 1st dorsal intermetatarsal space.",
+          "In the 5th dorsal intermetatarsal space."
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "The femoral artery enters the thigh at:",
+        "options": [
+          "Inguinal ligament",
+          "Adductor hiatus",
+          "Popliteal fossa",
+          "Saphenous opening"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "The posterior tibial artery passes behind:",
+        "options": [
+          "Medial malleolus",
+          "Lateral malleolus",
+          "Anterior tibia",
+          "Fibula"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Which artery supplies the plantar surface of the foot:",
+        "options": [
+          "Posterior tibial artery",
+          "Dorsalis pedis artery",
+          "Peroneal artery",
+          "Anterior tibial artery"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "The dorsalis pedis artery is a continuation of:",
+        "options": [
+          "Anterior tibial artery",
+          "Posterior tibial artery",
+          "Peroneal artery",
+          "Deep femoral artery"
+        ],
+        "correctAnswerIndex": 0
+      }
+    ],
+    "Heart": [
+      {
+        "questionText": "Which of the following structures does NOT form the anterior surface of the heart?",
+        "options": [
+          "Right ventricle",
+          "Right atrium",
+          "Left ventricle",
+          "Left atrium"
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "questionText": "All of the following statements regarding the conducting system of the heart are true EXCEPT:",
+        "options": [
+          "The impulse for cardiac contraction spontaneously begins in the sinoatrial node",
+          "The atrioventricular bundle is the sole pathway for conduction of the waves of contraction between the atria and the ventricles",
+          "The sinoatrial node is frequently supplied by the right and left coronary arteries",
+          "The sympathetic nerves to the heart slow the rate of discharge from the sinoatrial node",
+          "The atrioventricular bundle descends behind the septal cusp of the tricuspid valve"
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "questionText": "Which of the following statements concerning the blood supply of the heart is INCORRECT?",
+        "options": [
+          "The coronary arteries are branches of the ascending aorta",
+          "The right coronary artery supplies both the right atrium and right ventricle",
+          "The circumflex branch of the left coronary artery descends in the anterior interventricular groove and passes around the apex of the heart",
+          "Arrhythmias (abnormal heart beats) can occur after occlusion of a coronary artery",
+          "Coronary arteries can be classified as functional end arteries"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "The conducting system of the heart is composed of the following structures EXCEPT:",
+        "options": [
+          "The Purkinje plexus",
+          "The deep cardiac plexus",
+          "The sinoatrial node",
+          "The atrioventricular bundle",
+          "The atrioventricular node"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "The following anatomic facts regarding the right coronary artery are true EXCEPT:",
+        "options": [
+          "It gives rise to a marginal branch",
+          "It passes forward between the right auricle and the pulmonary trunk",
+          "It gives rise to an anterior interventricular branch",
+          "It arises from the anterior aortic sinus",
+          "It descends in the right atrioventricular groove"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "In patients with tetralogy of Fallot, which of the following cardiac anomalies is characteristic of the condition?",
+        "options": [
+          "Pulmonary stenosis with hypertrophy of the right ventricle",
+          "Large atrial septal defect",
+          "Hypertrophy of the left ventricle",
+          "Stenosis of the aorta",
+          "High blood pressure in the left ventricle"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Pain arising in the heart is commonly referred to the following skin areas EXCEPT:",
+        "options": [
+          "Up into the neck and jaw",
+          "Down the medial side of the arm",
+          "The point of the shoulder",
+          "The epigastric area",
+          "Over the sternum"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "The conducting system of the heart comprises:",
+        "options": [
+          "The sinoatrial node, His bundle, right and left branches",
+          "The sinoatrial node, atrioventricular node, His and Her bundle, superior and inferior crura",
+          "The atrioventricular node and atrial nodes, His bundle, right and left crura",
+          "The sinoatrial node, the atrioventricular node and bundle, right and left branches, and Purkinje fibers network",
+          "SA and AV node, His and Her bundle, anterior and inferior crura, Purkinje fibers and network"
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "questionText": "The atrioventricular sulcus lodges:",
+        "options": [
+          "Cardiac veins",
+          "Coronary sinus",
+          "Conus artery",
+          "Sinoatrial (SA) node",
+          "Marginal artery"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "The base of the heart is formed by the:",
+        "options": [
+          "Left atrium",
+          "Ventricles",
+          "Right atrium",
+          "Left ventricle",
+          "Coronary sinus"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Which of the following statements is TRUE about the coronary arteries and their branches?",
+        "options": [
+          "The coronary sinus receives blood from the anterior cardiac veins and returns it to the heart",
+          "Normally, the posterior interventricular artery comes from the right coronary artery",
+          "The anterior ventricular artery is usually a branch of the right coronary artery",
+          "The coronary arteries branch off the coronary sinus",
+          "The characteristic sounds heard during auscultation of the heart result from blood flowing through the cardiac veins and coronary arteries"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "Which one of the following statements about the pericardium is FALSE?",
+        "options": [
+          "The pericardium has a fibrous, inelastic outer layer",
+          "The pericardium has a parietal and visceral layer that secretes fluid",
+          "The coronary vessels are found in the visceral pericardium (epicardium)",
+          "The pericardial reflections are where the pericardium is fused to the diaphragm",
+          "The roots of the great vessels are surrounded by fibrous pericardium"
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "questionText": "Which statement about the coronary arteries is FALSE?",
+        "options": [
+          "The posterior interventricular artery is often a branch of the right coronary artery, but it may branch from the left coronary artery in some individuals",
+          "The heart normally has two coronary arteries that emerge from the descending aorta",
+          "Coronary arteries receive sympathetic innervation",
+          "Coronary arteries receive parasympathetic innervation",
+          "The heart occupies less than 1/2% of body weight but it uses 4% of the blood pumped to the body"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "Which statement about the cardiac veins is TRUE?",
+        "options": [
+          "The middle cardiac vein runs with the marginal branch of the right coronary artery",
+          "Blood from the anterior cardiac veins returns directly to the right atrium without passing through the coronary sinus",
+          "The great cardiac vein is found in the anterior atrioventricular sulcus",
+          "The coronary sinus is on the anterior surface of the heart",
+          "All Thebesian veins empty into the right atrium"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "Which statement about the chambers of the heart is TRUE?",
+        "options": [
+          "The moderator band (septomarginal trabecula) is found in the left ventricle",
+          "The fossa ovalis is seen in the right atrium",
+          "The mitral (bicuspid) valve is seen in the right ventricle",
+          "The semilunar valves are seen in the left and right atria",
+          "The pectinate muscles are seen in the left and right ventricles"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "Which of the following is FALSE about the heart's innervation?",
+        "options": [
+          "Sympathetic nerve impulses dilate the coronary arteries and increase the force of contraction of cardiac muscle",
+          "Visceral sensory fibers traveling with the sympathetic nerves carry sensation from the heart muscle",
+          "Sympathetic innervation to the heart originates in regions T5-T12 of the spinal cord",
+          "The phrenic nerve passes close to the heart but does not innervate cardiac muscle",
+          "Parasympathetic innervation in the cardiac plexus comes from the vagus nerve"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "The coronary sinus is found in the:",
+        "options": [
+          "Posterior atrioventricular groove",
+          "Anterior interventricular groove",
+          "Posterior interventricular groove",
+          "Anterior atrioventricular groove",
+          "Sulcus terminalis"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Which of the following statements is TRUE about cardiac innervation?",
+        "options": [
+          "Somatic sensory fibers are supplied to the pericardium by the phrenic nerves",
+          "The cardiac plexus of nerves contains only preganglionic sympathetic nerves",
+          "The vagus nerve supplies postganglionic sympathetic branches to the heart",
+          "The sympathetic nerves to the heart slow down the heart rate",
+          "The parasympathetic nerves to the heart speed up the heart rate"
+        ],
+        "correctAnswerIndex": 0
+      }
+    ],
+    "Vessels of Thorax": [
+      {
+        "questionText": "In a posteroanterior radiograph of the thorax, which of the following structures does NOT form the left margin of the heart shadow?",
+        "options": [
+          "Left auricle",
+          "Pulmonary trunk",
+          "Arch of aorta",
+          "Left ventricle",
+          "Superior vena cava"
+        ],
+        "correctAnswerIndex": 4
+      },
+      {
+        "questionText": "The bronchial arteries arise from:",
+        "options": [
+          "Thoracic aorta",
+          "Left subclavian",
+          "Internal thoracic",
+          "Arch of aorta",
+          "3rd intercostal artery"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "The arch of the aorta is crossed by:",
+        "options": [
+          "Thoracic duct",
+          "Trachea",
+          "Right vagus",
+          "Left phrenic",
+          "Azygos vein"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Azygos vein receives the following veins EXCEPT:",
+        "options": [
+          "Bronchial veins",
+          "Esophageal veins",
+          "Left superior intercostal vein",
+          "Lower posterior intercostal veins",
+          "Hemiazygos vein"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "Which of the following pathways is correct for the passage of arterial blood from the heart to the 4th anterior intercostal artery?",
+        "options": [
+          "Axillary artery -> thoracoacromial trunk -> anterior intercostal artery",
+          "Subclavian artery -> superior epigastric artery -> anterior intercostal artery",
+          "Brachiocephalic trunk -> common carotid artery -> internal thoracic artery -> anterior intercostal artery",
+          "Subclavian artery -> internal thoracic artery -> anterior intercostal artery",
+          "Subclavian artery -> axillary artery -> internal thoracic artery -> anterior intercostal artery"
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "questionText": "The internal thoracic artery gives the following branches EXCEPT:",
+        "options": [
+          "Pericardiophrenic",
+          "2nd anterior intercostal",
+          "Superior epigastric",
+          "Musculophrenic",
+          "Bronchial artery"
+        ],
+        "correctAnswerIndex": 4
+      },
+      {
+        "questionText": "Which of the following is TRUE of the azygos vein?",
+        "options": [
+          "It lies close to the intercostal veins but does not connect directly with them",
+          "It lies on the left side of the thorax",
+          "It is normally part of the portal system of venous drainage",
+          "It empties into the superior vena cava",
+          "It is typically smaller than the hemiazygos vein"
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "questionText": "Which of the following is FALSE of the circulation of the thoracic wall?",
+        "options": [
+          "Blood supply to the upper anterior thoracic wall comes from the thoracoacromial artery",
+          "Blood from the anteriormost aspect of the thoracic wall drains into the internal thoracic vein",
+          "Unlike the intercostal arteries, posterior intercostal veins do not anastomose with the anterior intercostal veins",
+          "The posterior intercostal arteries are branches of the descending aorta",
+          "The internal thoracic artery branches into the musculophrenic and the superior epigastric as it approaches the diaphragm"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "Where is the groove for the subclavian artery located?",
+        "options": [
+          "Posterior to the scalene tubercle",
+          "On the clavicle",
+          "On the manubrium",
+          "At the sternal angle",
+          "At the angle of the 1st rib"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Which of the following statements correctly apply to the internal thoracic artery?",
+        "options": [
+          "It runs posterior to the transversus thoracis muscle.",
+          "It ends in the 6th intercostal space.",
+          "It divides into the superior and inferior epigastric arteries.",
+          "It runs posterior to the superior six ribs.",
+          "It gives rise to the posterior intercostal arteries."
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "The azygos vein receives blood from which of the following?",
+        "options": [
+          "Posterior intercostal veins",
+          "Anterior intercostal veins",
+          "Left internal jugular vein",
+          "Anterior jugular vein",
+          "Lateral thoracic vein"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "The hemiazygos vein does NOT receive blood from which of the following?",
+        "options": [
+          "Left subcostal vein",
+          "Ascending lumbar veins",
+          "Inferior three posterior intercostal veins",
+          "Superior phrenic veins",
+          "Small mediastinal veins"
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "questionText": "The accessory hemiazygos vein parallels the vertebral column along which vertebral levels?",
+        "options": [
+          "T1-4",
+          "T2-6",
+          "T5-8",
+          "T8-12",
+          "L1-4"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "The musculophrenic arteries give rise to which of the following?",
+        "options": [
+          "Anterior intercostal arteries for intercostal spaces 7-9",
+          "Posterior intercostals arteries for intercostal spaces 3-11",
+          "Subcostal artery",
+          "Inferior phrenic artery",
+          "Lumbar arteries"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Anterior and posterior intercostal arteries pass between which two layers?",
+        "options": [
+          "Skin and external intercostal muscles",
+          "External and internal intercostal muscles",
+          "Internal and innermost intercostals muscles",
+          "Innermost intercostal muscles and transversalis fascia",
+          "Transversalis fascia and peritoneum"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "Which of the following is NOT a branch of the aorta in the thorax?",
+        "options": [
+          "Posterior intercostal arteries",
+          "Inferior phrenic artery",
+          "Bronchial arteries",
+          "Esophageal arteries",
+          "Superior phrenic arteries"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ],
+    "Heart MCQ Set 2": [
+      {
+        "questionText": "All of the following statements correctly apply to the right atrium EXCEPT",
+        "options": [
+          "It receives blood from the superior and inferior vena cava and coronary sinus.",
+          "It forms the right side of the heart.",
+          "It contains the crista terminalis.",
+          "It contains the limbus fossae ovalis.",
+          "It contains trabeculae carneae."
+        ],
+        "correctAnswerIndex": 4
+      },
+      {
+        "questionText": "The interventricular septum contains which of the following structures?",
+        "options": [
+          "anterior papillary muscle",
+          "fossa ovalis",
+          "sinus venarum",
+          "sinoatrial node",
+          "conus arteriosus"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "All of the following statements correctly apply to the right coronary artery EXCEPT",
+        "options": [
+          "Typically supplies the SA node in approximately 60% of people.",
+          "Typically supplies the AV node in approximately 80% of people.",
+          "Arises from the arch of the aorta.",
+          "Runs in the coronary sulcus.",
+          "Right dominance is typical."
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "Which of the following structures carry highly oxygenated blood from the lungs to the heart?",
+        "options": [
+          "pulmonary arteries",
+          "pulmonary veins",
+          "coronary arteries",
+          "cardiac veins",
+          "ascending aorta"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "All of the following statements concerning the pericardium are correct EXCEPT",
+        "options": [
+          "The external layer of the sac is fibrous.",
+          "The internal layer is reflected onto the heart as the visceral serous layer (epicardium).",
+          "The internal layer of the fibrous sac is the parietal serous layer.",
+          "The pericardial cavity is the potential space between the parietal and visceral serous layers.",
+          "The fibrous pericardium is attached to the sternum by the pericardiacophrenic ligament."
+        ],
+        "correctAnswerIndex": 4
+      },
+      {
+        "questionText": "All of the following veins drain into the coronary sinus EXCEPT",
+        "options": [
+          "anterior cardiac",
+          "small cardiac",
+          "middle cardiac",
+          "great cardiac",
+          "oblique vein of the left atrium"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "All of the following statements concerning the sinoatrial node are correct EXCEPT",
+        "options": [
+          "It is located near the superior end of the sulcus terminalis.",
+          "It is located at the junction of the superior vena cava and the right atrium.",
+          "It is known as the pacemaker of the heart.",
+          "It is specialized cardiac muscle fiber.",
+          "It is avascular."
+        ],
+        "correctAnswerIndex": 4
+      },
+      {
+        "questionText": "Which of the following structures is located in the left ventricle?",
+        "options": [
+          "fossa ovalis",
+          "crista terminalis",
+          "opening of the coronary sinus",
+          "conus arteriosus",
+          "posterior papillary muscle"
+        ],
+        "correctAnswerIndex": 4
+      },
+      {
+        "questionText": "Which of the following structures is located in the left atrium?",
+        "options": [
+          "pectinate muscle",
+          "pulmonary semilunar valves",
+          "septomarginal trabeculae",
+          "septal papillary muscle",
+          "atrioventricular node"
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "questionText": "Which of the following statements correctly applies to the tricuspid valve?",
+        "options": [
+          "It guards the left atrioventricular orifice.",
+          "It guards the conus arteriosus.",
+          "It is also known as the mitral valve.",
+          "Chordae tendineae attach to the free edges of the cusps.",
+          "The apex of each cusp attaches to the fibrous ring around the orifice."
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "questionText": "The pulmonary plexus contains which of the following?",
+        "options": [
+          "cell bodies of visceral afferent fibers",
+          "cell bodies of postsynaptic sympathetic fibers",
+          "cell bodies of postsynaptic parasympathetic fibers",
+          "somatic efferent fibers passing on to diaphragm",
+          "somatic afferent fibers from diaphragm"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "Which of the following is NOT a branch of the right coronary artery?",
+        "options": [
+          "SA nodal",
+          "right marginal",
+          "posterior interventricular",
+          "AV nodal",
+          "circumflex"
+        ],
+        "correctAnswerIndex": 4
+      },
+      {
+        "questionText": "Which of the following is a result of sympathetic stimulation in the heart?",
+        "options": [
+          "decrease in the rate and strength of contraction",
+          "inhibition of the effect of parasympathetic system on coronary arteries, allowing them to dilate",
+          "production of atrial natriuretic factor",
+          "opening and closing of mitral valve",
+          "glandular secretion"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "Sympathetic fibers of the heart are accompanied by visceral afferent fibers that convey which type of sensation?",
+        "options": [
+          "reflex",
+          "pain",
+          "rate information",
+          "contraction feedback",
+          "pressure sensation"
+        ],
+        "correctAnswerIndex": 1
+      }
+    ]
+  },
+  "Great Vessels": []
+}
