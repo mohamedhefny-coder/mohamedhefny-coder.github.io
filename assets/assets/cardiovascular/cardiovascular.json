@@ -12,6 +12,17 @@
         "correctAnswerIndex": 0
       },
       {
+        "questionText": "The femoral vessels enter the popliteal fossa through hiatus in which of the following muscles:",
+        "options": [
+          "Adductor longus",
+          "Rectus femoris",
+          "Adductor magnus",
+          "Gracilis",
+          "Vastus medialis"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
         "questionText": "The profunda femoris artery mainly supplies which region of the lower limb?",
         "options": [
           "Anterior thigh compartment",
@@ -72,6 +83,28 @@
         "correctAnswerIndex": 1
       },
       {
+        "questionText": "Concerning the short (small) saphenous vein; mark the most suitable answer:",
+        "options": [
+          "Passes behind the lateral malleolus",
+          "Ascends over the back of the calf",
+          "Ends in the popliteal vein",
+          "All of the above",
+          "None of the above"
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "questionText": "Concerning the great (long) saphenous vein; tick the most suitable answer:",
+        "options": [
+          "Begins at the lateral end of the dorsal venous plexus on the dorsum of the foot",
+          "Ascends immediately behind the lateral malleolus",
+          "Ascends along the lateral side of the leg to the knee",
+          "All of the above",
+          "None of the above"
+        ],
+        "correctAnswerIndex": 4
+      },
+      {
         "questionText": "In the femoral sheath, which structure occupies the intermediate compartment?",
         "options": [
           "Femoral artery",
@@ -89,6 +122,17 @@
           "It can be palpated on the dorsum of the foot between the tendons of tibialis anterior and extensor hallucis brevis muscles.",
           "It joins the medial plantar artery."
         ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "The following facts concerning the dorsalis pedis artery are correct EXCEPT:",
+        "options": [
+          "It is a continuation of the anterior tibial artery.",
+          "It enters the sole of the foot by passing between the two heads of the first dorsal interosseous muscle.",
+          "It can be palpated on the dorsum of the foot between the tendons of tibialis anterior and the extensor hallucis longus muscles.",
+          "It joins the lateral plantar artery.",
+          "On its lateral side lies the terminal part of the deep peroneal nerve."
+        ],
         "correctAnswerIndex": 2
       },
       {
@@ -97,19 +141,21 @@
           "Anterior tibial artery",
           "Popliteal artery",
           "Posterior tibial artery",
-          "Arcuate artery"
+          "Arcuate artery",
+          "Lateral plantar artery"
         ],
         "correctAnswerIndex": 2
       },
       {
         "questionText": "In the adult, the chief arterial supply of the head of the femur is from:",
         "options": [
+          "Superficial circumflex iliac artery",
           "Obturator artery",
           "Inferior gluteal artery",
           "Deep external pudendal artery",
-          "Branches from medial and lateral circumflex femoral arteries"
+          "Branches from medial & lateral circumflex femoral arteries"
         ],
-        "correctAnswerIndex": 1
+        "correctAnswerIndex": 4
       },
       {
         "questionText": "The plantar arterial arch is formed by the lateral plantar artery and:",
@@ -117,9 +163,21 @@
           "Medial plantar artery",
           "Anterior tibial artery",
           "Posterior tibial artery",
+          "Peroneal artery",
           "Dorsalis pedis artery"
         ],
-        "correctAnswerIndex": 2
+        "correctAnswerIndex": 4
+      },
+      {
+        "questionText": "Ligation of the posterior tibial artery at its origin would affect all of the following branches EXCEPT:",
+        "options": [
+          "Dorsalis pedis artery",
+          "Lateral plantar artery",
+          "Plantar arch",
+          "Peroneal artery",
+          "Medial plantar artery"
+        ],
+        "correctAnswerIndex": 0
       },
       {
         "questionText": "Regarding the arteries of the lower limb, mark the correct answer:",
@@ -137,9 +195,10 @@
           "Femoral artery just below and lateral to the pubic tubercle.",
           "Popliteal artery when the knee joint is fully flexed.",
           "Posterior tibial artery below and behind the lateral malleolus.",
+          "Anterior tibial artery just below the tibial tuberosity.",
           "Dorsalis pedis artery on the dorsum of the foot."
         ],
-        "correctAnswerIndex": 2
+        "correctAnswerIndex": 4
       },
       {
         "questionText": "Regarding arteries of lower limb, choose the correct answer:",
@@ -149,7 +208,7 @@
           "Dorsalis pedis artery is continuation of anterior tibial artery on the dorsum of the foot.",
           "Plantar arch is mainly formed by the medial plantar artery."
         ],
-        "correctAnswerIndex": 0
+        "correctAnswerIndex": 2
       },
       {
         "questionText": "Regarding the veins of the lower limb, the following statement is correct:",
@@ -217,9 +276,109 @@
           "Venae comitantes accompany the popliteal and femoral arteries.",
           "The long saphenous vein ascends behind the medial malleolus.",
           "Drainage of blood from deep veins is helped by contraction of calf muscles and arterial pulsation.",
-          "The perforating veins possess valves which direct the blood flow from the deep to superficial veins."
+          "The perforating veins possess valves which direct the blood flow from the deep to superficial veins.",
+          "Competent valves of the perforating veins lead to the formation of varicosities in the superficial veins."
         ],
         "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "Regarding the obturator artery: mark correct statement:",
+        "options": [
+          "It is a branch from the internal iliac artery.",
+          "It enters the thigh beneath the inguinal ligament.",
+          "It accompanies obturator nerve deep to the adductor longus.",
+          "It is the only source of blood supply to the adductor muscles.",
+          "Passes in the adductor canal."
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Regarding the arteries of the lower limb; mark the incorrect answer:",
+        "options": [
+          "Femoral artery can be compressed below the mid-inguinal point in emergency.",
+          "Pulsation can be readily felt from medial plantar.",
+          "Femoral artery gives descending genicular branch.",
+          "Middle genicular artery is a branch of the popliteal artery.",
+          "Head of the femur is supplied by the artery accompanying ligamentum teres of the hip joint."
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "Regarding the veins of the lower limb, the following statements are correct EXCEPT:",
+        "options": [
+          "The great saphenous vein passes behind the medial malleolus.",
+          "The small saphenous vein passes behind the lateral malleolus.",
+          "Perforating veins connect the great and small saphenous veins with the deep veins.",
+          "Perforating veins have valves, which direct the blood flow from superficial to deep veins.",
+          "Incompetent valves of the perforating veins produce varicosity of the superficial veins."
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Regarding veins of lower limb, following statements are correct EXCEPT:",
+        "options": [
+          "They are devoid of valves.",
+          "Small saphenous vein drains into popliteal vein.",
+          "Femoral vein lies medial to the femoral artery at the base of the femoral triangle.",
+          "Great saphenous vein pierces cribriform fascia to enter femoral vein.",
+          "Dilatation and venous stagnation in superficial veins may lead to varicose veins."
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Regarding femoral artery , all are true EXCEPT:",
+        "options": [
+          "It lies medial to femoral vein.",
+          "Its uppermost part is enclosed within femoral sheath.",
+          "It enters the thigh at mid inguinal point.",
+          "It passes in front of adductor longus in the adductor canal.",
+          "It passes through opening in adductor magnus and continues as popliteal artery."
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Following statements regarding popliteal artery are correct EXCEPT:",
+        "options": [
+          "It begins at the opening in the adductor magnus (Adductor hiatus).",
+          "It ends at the lower border of the popliteus muscle.",
+          "Its pulsation can be felt while the knee is extended.",
+          "It gives five genicular branches.",
+          "It course through the popliteal fossa."
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "Regarding great saphenous vein, following statements are true EXCEPT:",
+        "options": [
+          "It starts at medial end of dorsal venous arch.",
+          "It passes behind medial malleolus.",
+          "It empties into femoral vein.",
+          "It has many valves.",
+          "It runs most of its course in the superficial fascia."
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "Regarding the popliteal artery, all are true except:",
+        "options": [
+          "Gives five genicular branches.",
+          "Lies deep to popliteal vein.",
+          "Is crossed posteriorly by the tibial nerve.",
+          "Terminates by dividing into anterior and posterior tibial arteries.",
+          "Ends at the upper border of popliteus muscle."
+        ],
+        "correctAnswerIndex": 4
+      },
+      {
+        "questionText": "Regarding the profunda femoris artery; tick the unaccepted answer:",
+        "options": [
+          "It arises from femoral artery about 4 cm below the inguinal ligament.",
+          "It leaves the femoral triangle by passing between pectineus and adductor longus.",
+          "It shares in the collateral circulation between femoral, inferior gluteal & popliteal arteries.",
+          "Its perforating branches supply the quadriceps femoris muscle and the hip joint.",
+          "Its terminal part is called the fourth perforating artery which pierces adductor magnus."
+        ],
+        "correctAnswerIndex": 3
       },
       {
         "questionText": "Regarding the popliteal artery, choose one correct statement:",
@@ -280,6 +439,61 @@
           "Deep femoral artery"
         ],
         "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "The blood supply of the head of the femur is:",
+        "options": [
+          "Only from the trochanteric anastomosis.",
+          "Only from the obturator artery.",
+          "From the gluteal, circumflex femoral and the obturator arteries.",
+          "Mainly from the obturator artery and partially from the trochanteric anastomosis.",
+          "Only from the gluteal artery."
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "The following statements about the cruciate anastomosis are true, except:",
+        "options": [
+          "Is between external and internal iliac arteries.",
+          "Lies in the trochanteric fossa.",
+          "The vertical limb is between the inferior gluteal and first perforating arteries.",
+          "The horizontal limb is between medial and lateral circumflex femoral arteries.",
+          "The superior gluteal artery shares in its formation."
+        ],
+        "correctAnswerIndex": 4
+      },
+      {
+        "questionText": "The popliteal artery, choose the correct answer:",
+        "options": [
+          "Ends at the level of the medial epicondyle of the femur.",
+          "Is deeper than the popliteal vein.",
+          "Gives no articular branches in the popliteal fossa.",
+          "Accompanies the lateral popliteal nerve in the popliteal fossa.",
+          "It is one of the terminal branches of the femoral artery."
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "Reduced blood supply to the lateral compartment of the leg results primarily from damage to the:",
+        "options": [
+          "Anterior tibial artery.",
+          "Obturator artery.",
+          "Lateral malleolar artery.",
+          "Circumflex fibular artery.",
+          "Peroneal artery."
+        ],
+        "correctAnswerIndex": 4
+      },
+      {
+        "questionText": "The muscles of the posterior compartment of the thigh receive blood supply primarily by branches of the:",
+        "options": [
+          "Popliteal artery.",
+          "Profunda femoris artery.",
+          "Superior gluteal artery.",
+          "Inferior gluteal artery.",
+          "Femoral artery."
+        ],
+        "correctAnswerIndex": 1
       }
     ],
     "Heart": [
@@ -657,6 +871,549 @@
           "Superior phrenic arteries"
         ],
         "correctAnswerIndex": 1
+      }
+    ],
+    "Vessels of Neck": [
+      {
+        "questionText": "Which statement about the vertebral artery is correct?",
+        "options": [
+          "It arises from the 2nd part of the subclavian artery.",
+          "It enters the transverse foramen of the C7 vertebra.",
+          "Its 2nd part lies in the suboccipital triangle.",
+          "It gives rise to the anterior and posterior spinal arteries."
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "questionText": "Which structure emerges from the anterior border of the parotid gland?",
+        "options": [
+          "Transverse facial artery",
+          "Auriculotemporal nerve",
+          "Zygomatic nerve",
+          "Buccal nerve (branch of V3)"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "A correct statement about the maxillary artery is:",
+        "options": [
+          "It is the larger terminal branch of the internal carotid artery.",
+          "It is related to the medial aspect of the neck of the mandible.",
+          "It supplies only the upper teeth.",
+          "It enters the pterygopalatine fossa through the inferior orbital fissure."
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "Which artery is a branch of the 1st part of the maxillary artery?",
+        "options": [
+          "Sphenopalatine artery",
+          "Greater palatine artery",
+          "Accessory meningeal artery",
+          "Buccal artery"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "Which artery is a branch of the 3rd part of the maxillary artery?",
+        "options": [
+          "Middle meningeal artery",
+          "Sphenopalatine artery",
+          "Anterior tympanic artery",
+          "Deep temporal artery"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "Which of the following is contained within the carotid sheath?",
+        "options": [
+          "Ansa cervicalis",
+          "External carotid artery",
+          "Internal carotid artery",
+          "External jugular vein"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "Which statement about the external jugular vein is correct?",
+        "options": [
+          "It runs deep to sternocleidomastoid for most of its course.",
+          "Its venous pressure rises in left-sided heart failure.",
+          "It drains into the subclavian vein.",
+          "It receives the suprascapular and transverse cervical veins at the root of the neck."
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "Choose the correct statement about the external jugular vein:",
+        "options": [
+          "It begins just behind the neck of the mandible.",
+          "It runs deep to sternocleidomastoid.",
+          "It ends in the subclavian vein.",
+          "It receives the submental vein."
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "At the root of the neck, which statement is correct?",
+        "options": [
+          "The vertebral artery lies medial to the scalenus anterior muscle.",
+          "The subclavian artery arches behind the dome of the cervical pleura.",
+          "Scalenus medius inserts into the 2nd rib.",
+          "The costocervical trunk always arises from the 1st part of the subclavian artery."
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "A direct branch of the 2nd part of the subclavian artery is:",
+        "options": [
+          "Internal thoracic artery",
+          "Thyrocervical trunk",
+          "Suprascapular artery",
+          "Costocervical trunk"
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "questionText": "Which structure lies anterior to the scalenus anterior muscle?",
+        "options": [
+          "Vertebral artery",
+          "Sympathetic trunk",
+          "Phrenic nerve",
+          "Second part of subclavian artery"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "Regarding the central retinal artery, which statement is true?",
+        "options": [
+          "It is a branch of the ophthalmic artery.",
+          "It reaches the eyeball lateral to the optic nerve.",
+          "Its branches are not end arteries.",
+          "It supplies extra-ocular muscles before entering the eyeball."
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Which structure lies deep to the posterior belly of the digastric muscle?",
+        "options": [
+          "Mastoid process",
+          "External jugular vein",
+          "Facial artery",
+          "Sternocleidomastoid muscle"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "Which statement about the carotid arteries is correct?",
+        "options": [
+          "The common carotid artery bifurcates at the lower border of the thyroid cartilage.",
+          "The carotid sinus is supplied mainly by sensory fibers from the vagus nerve.",
+          "The external carotid artery divides into its terminal branches opposite the angle of the mandible.",
+          "Branches of the internal and external carotid arteries form anastomoses."
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "questionText": "Which of the following is NOT a branch of the facial artery?",
+        "options": [
+          "Superior labial",
+          "Inferior labial",
+          "Mental",
+          "Lateral nasal"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "Choose the correct statement about head and neck arteries:",
+        "options": [
+          "The maxillary artery is a branch of the internal carotid artery.",
+          "The basilar artery divides into two vertebral arteries.",
+          "The middle meningeal artery is a major branch of the maxillary artery.",
+          "The right common carotid artery arises directly from the aortic arch."
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "Which is a terminal branch of the external carotid artery?",
+        "options": [
+          "Transverse facial artery",
+          "Inferior thyroid artery",
+          "Superficial temporal artery",
+          "Middle meningeal artery"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "Regarding the common carotid artery, choose the correct statement:",
+        "options": [
+          "It ends at the upper border of the cricoid cartilage.",
+          "It ascends medial to the internal jugular vein.",
+          "The vagus nerve lies anterior to it.",
+          "The thyroid lobe lies lateral to it."
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "Regarding the lingual artery, select the correct statement:",
+        "options": [
+          "It arises from the external carotid artery.",
+          "It begins above the tip of the greater horn of the hyoid bone.",
+          "It forms a loop crossed by the lingual nerve.",
+          "It passes superficial to the hyoglossus muscle."
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Regarding the internal jugular vein, choose the correct statement:",
+        "options": [
+          "It begins near the angle of the mandible below the parotid gland.",
+          "It begins at the jugular foramen as a continuation of the sigmoid sinus.",
+          "It ends in the subclavian vein.",
+          "Within the carotid sheath, it lies medial to the internal carotid artery."
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "Which option lists correct tributaries of the internal jugular vein?",
+        "options": [
+          "Transverse cervical and suprascapular veins",
+          "Superior thyroid and middle thyroid veins",
+          "Tonsillar and submental veins",
+          "Submandibular veins from the submandibular gland"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "Which artery passes through the third lateral pharyngeal gap (thyrohyoid membrane)?",
+        "options": [
+          "Ascending pharyngeal artery",
+          "Ascending palatine artery",
+          "Superior laryngeal artery",
+          "Inferior laryngeal artery"
+        ],
+        "correctAnswerIndex": 2
+      }
+    ],
+    "Vessels of Upper Limb": [
+      {
+        "questionText": "Regarding the brachial artery, which statement is NOT correct?",
+        "options": [
+          "In the upper arm, the median nerve lies lateral to it.",
+          "It gives rise to the profunda brachii artery.",
+          "At the cubital fossa, it lies lateral to the biceps tendon.",
+          "The bicipital aponeurosis separates it from the median cubital vein.",
+          "It begins at the lower border of teres major."
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "Which is NOT a branch of the brachial artery?",
+        "options": [
+          "Profunda brachii artery",
+          "Subscapular artery",
+          "Superior ulnar collateral artery",
+          "Inferior ulnar collateral artery",
+          "Nutrient artery to the humerus"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "Regarding the radial artery, which statement is incorrect?",
+        "options": [
+          "It begins near the neck of the radius.",
+          "It ends by contributing mainly to the deep palmar arch.",
+          "Its pulse can be felt lateral to the tendon of flexor carpi radialis.",
+          "It gives rise to the common interosseous artery.",
+          "It is one terminal branch of the brachial artery."
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "questionText": "Regarding the axillary artery, which statement is NOT correct?",
+        "options": [
+          "It begins at the lateral border of the 1st rib.",
+          "It ends at the lower border of teres minor.",
+          "It is divided into three parts by pectoralis minor.",
+          "Its third part is related medially to the ulnar nerve.",
+          "Its third part is related posteriorly to the axillary nerve."
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "Concerning radial and ulnar arteries, which statement is false?",
+        "options": [
+          "They arise from the brachial artery near the neck of the radius.",
+          "Both give anterior and posterior carpal branches.",
+          "The ulnar artery mainly forms the superficial palmar arch.",
+          "The radial artery mainly forms the deep palmar arch.",
+          "The ulnar artery runs in the anatomical snuffbox."
+        ],
+        "correctAnswerIndex": 4
+      },
+      {
+        "questionText": "Which vessel does NOT participate in the scapular anastomosis?",
+        "options": [
+          "Suprascapular artery",
+          "Subscapular artery",
+          "Circumflex scapular artery",
+          "Deep branch of transverse cervical (dorsal scapular) artery",
+          "Circumflex humeral arteries"
+        ],
+        "correctAnswerIndex": 4
+      },
+      {
+        "questionText": "Regarding superficial veins of the upper limb, which statement is NOT true?",
+        "options": [
+          "Bicipital aponeurosis separates the median cubital vein from the brachial artery.",
+          "Cephalic vein begins at the lateral end of the dorsal venous arch.",
+          "Basilic vein begins at the medial end of the dorsal venous arch.",
+          "Cephalic vein pierces the clavipectoral fascia.",
+          "Axillary artery is accompanied by two venae comitantes."
+        ],
+        "correctAnswerIndex": 4
+      },
+      {
+        "questionText": "Regarding the radial artery, which statement is NOT correct?",
+        "options": [
+          "It passes in the anatomical snuffbox.",
+          "Its pulse is felt between tendons of flexor carpi radialis and flexor digitorum superficialis.",
+          "It contributes mainly to the deep palmar arch.",
+          "It begins near the neck of the radius.",
+          "In the forearm, the superficial radial nerve lies lateral to it."
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "Regarding the axillary artery, which statement is incorrect?",
+        "options": [
+          "Its largest branch is the superior thoracic artery.",
+          "In its third part, it is crossed by the medial root of the median nerve.",
+          "Pectoralis major covers most of the artery.",
+          "The axillary vein lies medial to the artery.",
+          "The brachial plexus cords are named by their relation to the 2nd part of the artery."
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Regarding the ulnar artery, which statement is false?",
+        "options": [
+          "It descends on the medial side of the forearm medial to the ulnar nerve.",
+          "It enters the hand superficial to the flexor retinaculum.",
+          "In the distal forearm, it lies between tendons of flexor carpi ulnaris and flexor digitorum superficialis.",
+          "It mainly forms the superficial palmar arch.",
+          "It contributes to anastomoses around the elbow and wrist."
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Which is NOT a branch of the radial artery?",
+        "options": [
+          "Radialis indicis artery",
+          "Princeps pollicis artery",
+          "Interosseous recurrent artery",
+          "Anterior carpal branch",
+          "Posterior carpal branch"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "Which artery does NOT take part in the anastomosis around the elbow?",
+        "options": [
+          "Radial recurrent artery",
+          "Anterior circumflex humeral artery",
+          "Anterior ulnar recurrent artery",
+          "Posterior ulnar recurrent artery",
+          "Superior ulnar collateral artery"
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "Regarding veins of the upper limb, which statement is NOT correct?",
+        "options": [
+          "Superficial veins are commonly used for intravenous access.",
+          "Cephalic vein starts at the lateral end of the dorsal venous arch.",
+          "Basilic vein starts at the medial end of the dorsal venous arch.",
+          "Median cubital vein connects cephalic and basilic veins.",
+          "Axillary artery is accompanied by two venae comitantes."
+        ],
+        "correctAnswerIndex": 4
+      },
+      {
+        "questionText": "Which of the following is NOT a branch of the ulnar artery?",
+        "options": [
+          "Anterior ulnar recurrent artery",
+          "Posterior ulnar recurrent artery",
+          "Radialis indicis artery",
+          "Common interosseous artery",
+          "Deep palmar branch"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "Which artery does NOT contribute to the arterial supply of the breast?",
+        "options": [
+          "Internal thoracic artery",
+          "Lateral thoracic artery",
+          "Anterior circumflex humeral artery",
+          "Thoracoacromial artery",
+          "Anterior intercostal arteries"
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "As the radial artery enters the palm to form the deep palmar arch, it passes between the heads of:",
+        "options": [
+          "First dorsal interosseous muscle",
+          "Adductor pollicis",
+          "Second dorsal interosseous muscle",
+          "A and B",
+          "B and C"
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "questionText": "Which structures pass through the quadrangular space of the axilla?",
+        "options": [
+          "Axillary nerve and posterior circumflex humeral artery",
+          "Axillary nerve and anterior circumflex humeral artery",
+          "Axillary nerve and circumflex scapular artery",
+          "Axillary nerve and musculocutaneous nerve",
+          "Axillary and radial nerves"
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "In the anatomical snuffbox, the radial artery runs over which bones?",
+        "options": [
+          "Scaphoid",
+          "Trapezium",
+          "Trapezoid",
+          "A and B",
+          "B and C"
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "questionText": "In the hand, which statement about the radial artery is incorrect?",
+        "options": [
+          "It passes between the two heads of the first dorsal interosseous muscle.",
+          "It passes between the two heads of adductor pollicis.",
+          "It passes between flexor digitorum superficialis and profundus.",
+          "It continues as the deep palmar arch.",
+          "It is accompanied by venae comitantes."
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "Which is NOT a direct branch of the radial artery in the hand?",
+        "options": [
+          "Princeps pollicis",
+          "Radialis indicis",
+          "First dorsal metacarpal artery",
+          "Second dorsal metacarpal artery",
+          "Posterior carpal (dorsal carpal) branch"
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "questionText": "Which is NOT a branch of the ulnar artery in the forearm?",
+        "options": [
+          "Anterior ulnar recurrent",
+          "Posterior ulnar recurrent",
+          "Nutrient branches to radius and ulna",
+          "Common interosseous trunk",
+          "Nutrient branch to humerus"
+        ],
+        "correctAnswerIndex": 4
+      },
+      {
+        "questionText": "At the wrist/hand, which statement about the ulnar artery is incorrect?",
+        "options": [
+          "It gives a deep palmar branch.",
+          "It gives an anterior carpal branch.",
+          "It gives a posterior carpal branch.",
+          "It continues as the anterior carpal arch.",
+          "It continues mainly as the superficial palmar arch."
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "questionText": "Regarding the lateral thoracic artery, which statement is wrong?",
+        "options": [
+          "It arises from the first part of the axillary artery.",
+          "It runs along the lower border of pectoralis minor.",
+          "It supplies serratus anterior.",
+          "It anastomoses with intercostal arteries.",
+          "It supplies the lateral part of the mammary gland."
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Regarding the subscapular artery, which statement is wrong?",
+        "options": [
+          "It arises from the third part of the axillary artery.",
+          "It gives the posterior circumflex humeral artery.",
+          "It contributes to scapular anastomoses.",
+          "It gives the circumflex scapular artery.",
+          "It anastomoses with branches around the axilla/scapula."
+        ],
+        "correctAnswerIndex": 1
+      },
+      {
+        "questionText": "Regarding the superior thoracic artery, which statement is wrong?",
+        "options": [
+          "It arises from the first part of the axillary artery.",
+          "It arises behind the subclavius muscle.",
+          "It descends on the medial wall of the axilla.",
+          "It pierces the clavipectoral fascia.",
+          "It anastomoses with intercostal arteries."
+        ],
+        "correctAnswerIndex": 3
+      },
+      {
+        "questionText": "Regarding the brachial artery, which statement is wrong?",
+        "options": [
+          "It begins at the distal border of teres major.",
+          "It ends opposite the neck of the radius.",
+          "It terminates by giving radial and ulnar arteries.",
+          "It descends on the medial side of the humerus.",
+          "It descends medial to the median nerve and bicipital aponeurosis."
+        ],
+        "correctAnswerIndex": 4
+      },
+      {
+        "questionText": "Regarding the profunda brachii (deep brachial) artery, which statement is wrong?",
+        "options": [
+          "It arises from the third part of the axillary artery.",
+          "It accompanies the radial nerve in the spiral groove.",
+          "It descends between the long and medial heads of triceps.",
+          "It supplies triceps.",
+          "It ends by dividing into collateral branches around the elbow."
+        ],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Regarding the median vein of the forearm, which statement is wrong?",
+        "options": [
+          "It is one of the superficial veins of the upper limb.",
+          "It begins from small veins in the palm.",
+          "It continues with the lateral end of the dorsal venous arch.",
+          "It may give a median basilic vein.",
+          "It may give a median cephalic vein."
+        ],
+        "correctAnswerIndex": 2
+      },
+      {
+        "questionText": "In scapular anastomosis, which artery does NOT participate?",
+        "options": [
+          "Suprascapular artery",
+          "Deep branch of transverse cervical (dorsal scapular) artery",
+          "Subscapular artery",
+          "Circumflex scapular artery",
+          "Profunda brachii artery"
+        ],
+        "correctAnswerIndex": 4
       }
     ],
     "Heart MCQ Set 2": [
